@@ -1,0 +1,652 @@
+[
+ {
+  "id": "M-01",
+  "topic": 7,
+  "subtopic": "Biotic vs. abiotic factors",
+  "review": "s7-biotic",
+  "source": "Standard HS ecology (Gizmo Ecosystems Handbook: living vs. nonliving parts)",
+  "level": "core",
+  "figure": null,
+  "stem": "A marine biologist is listing the factors in a California kelp forest. Which list contains <b>ONLY abiotic</b> factors?",
+  "choices": [
+   "Giant kelp, sea urchins, sea otters, and sunlight",
+   "Sunlight, water temperature, bacteria in the sand, and salinity",
+   "Sunlight, water temperature, dissolved oxygen, and rocky seafloor",
+   "Seawater, dissolved oxygen, plankton, and ocean currents"
+  ],
+  "answer": 2,
+  "hint": "Check every single item in the list: is it living? Remember that some living things are too small to see.",
+  "explanation": "Correct: abiotic factors are the nonliving parts of an ecosystem, such as sunlight, temperature, water, dissolved gases like oxygen, and rock. Biotic factors are living things, including microscopic ones like bacteria and plankton. An ecosystem is the biotic community interacting with these abiotic factors.",
+  "why_wrong": [
+   "Kelp, urchins, and otters are all living (biotic). Only sunlight in this list is abiotic.",
+   "Bacteria are living organisms, so they are biotic. One biotic item means the list is not ONLY abiotic.",
+   "",
+   "Plankton are tiny living organisms (biotic), so this list is not all abiotic."
+  ],
+  "trap": "Microscopic organisms (bacteria, plankton) are biotic"
+ },
+ {
+  "id": "M-02",
+  "topic": 1,
+  "subtopic": "Sphere interactions",
+  "review": "s1-interact",
+  "source": "Earth System Science Graphic Organizer; Life from Stone (Yosemite)",
+  "level": "apply",
+  "figure": null,
+  "stem": "In Yosemite, the roots of a pine tree grow into a crack in a granite boulder. Over many years, the growing roots widen the crack until the rock splits into smaller pieces. Which Earth-system interaction does this describe?",
+  "choices": [
+   "The atmosphere affecting the hydrosphere",
+   "The biosphere affecting the geosphere",
+   "The geosphere affecting the atmosphere",
+   "The hydrosphere affecting the biosphere"
+  ],
+  "answer": 1,
+  "hint": "Name the sphere of the thing causing the change (the roots), then the sphere of the thing being changed (the rock).",
+  "explanation": "Correct: the tree roots are living (biosphere), and the granite is rock (geosphere). Living things breaking rock into smaller pieces is the biosphere affecting the geosphere — the same kind of interaction as lichens breaking down bare rock to start soil formation in primary succession.",
+  "why_wrong": [
+   "Neither air nor water is the main actor here. The roots (living) are doing the work on the rock.",
+   "",
+   "The rock is being changed, not causing a change in the air. The cause is the living roots.",
+   "Water may be in the crack, but the scenario describes living roots changing rock — not water changing living things."
+  ],
+  "trap": "Name the CAUSE sphere first, then the EFFECT sphere"
+ },
+ {
+  "id": "M-03",
+  "topic": 2,
+  "subtopic": "Inter- vs. intraspecific competition",
+  "review": "s2-competition",
+  "source": "Ecology Key Concepts review (inter vs. intra examples)",
+  "level": "core",
+  "figure": null,
+  "stem": "Which situation is an example of <b>INTERSPECIFIC</b> competition?",
+  "choices": [
+   "Tree swallows fight one another over a limited number of nest boxes in a marsh.",
+   "A great blue heron wades into a shallow lake and catches and eats a yellow perch.",
+   "Redwood seedlings sprout so close together that they shade one another.",
+   "Bluegill and yellow perch in one lake both eat the same scarce insect larvae."
+  ],
+  "answer": 3,
+  "hint": "'Inter' means between different groups, like an interstate highway connecting different states.",
+  "explanation": "Correct: interspecific competition happens between DIFFERENT species that need the same limited resource. Here bluegill and perch both need the same insect larvae, just like the class example of a lion and tiger competing for water buffalo. Intraspecific competition is within ONE species (gulls, swallows, or redwood seedlings). Competition is −/− because both competitors end up with less.",
+  "why_wrong": [
+   "All the tree swallows are the same species, so this is INTRAspecific competition (like gulls competing for nesting space on a rock).",
+   "The heron kills and eats the perch. That is predation (+/−), not competition for a shared resource.",
+   "The seedlings are all redwoods (one species), so this is INTRAspecific competition for light.",
+   ""
+  ],
+  "trap": "Inter (different species) vs. intra (same species); predation is not competition"
+ },
+ {
+  "id": "M-04",
+  "topic": 3,
+  "subtopic": "Metabolism & flow of energy (amount passed on)",
+  "review": "s3-energy",
+  "source": "Gizmos: Ecosystems STEM Case Handbook (metabolism → heat)",
+  "level": "core",
+  "figure": null,
+  "stem": "In a pond food chain (algae → mosquito larvae → bluegill → great blue heron), only about 10% of the energy a bluegill takes in is passed on to the heron that eats it. What happens to MOST of the rest of that energy?",
+  "choices": [
+   "The bluegill uses it for metabolism (swimming, growing, staying alive), and much leaves as heat.",
+   "Decomposers return it to the algae, so the same energy cycles through the pond again and again.",
+   "It is stored permanently in the bluegill's bones and scales and never leaves the fish's body.",
+   "It is destroyed when the heron digests the fish, because energy gets used up when it is eaten."
+  ],
+  "answer": 0,
+  "hint": "Think about what every living thing does all day that requires energy, and what kind of energy you feel coming off a warm body.",
+  "explanation": "Correct: each organism uses about 90% of the energy it takes in for its own metabolism (living, moving, growing, reproducing). During metabolism some chemical energy is converted to heat, which leaves the organism and the food chain. Only about 10% ends up stored in body tissue that the next trophic level can eat.",
+  "why_wrong": [
+   "",
+   "Decomposers recycle NUTRIENTS (matter), not energy. Energy flows one way through a food chain and leaves as heat; the algae get new energy from sunlight.",
+   "Most of the energy is used up by the bluegill's life processes, not stored. Only the ~10% that IS stored can pass to the heron.",
+   "Energy is never destroyed; it changes form, mostly into heat. And the 90% is 'lost' at the bluegill's own level, before the heron ever eats it."
+  ],
+  "trap": "Energy flows one way and leaves as heat; it does not cycle"
+ },
+ {
+  "id": "M-05",
+  "topic": 5,
+  "subtopic": "Primary vs. secondary succession",
+  "review": "s5-primary",
+  "source": "Ecological Succession: Life from Stone (primary vs. secondary), new Hawai'i context",
+  "level": "apply",
+  "figure": null,
+  "stem": "Two new communities are forming in Hawai'i.<br><b>Site 1:</b> lava cooled into bare black rock; years later, lichens and mosses appear in its cracks.<br><b>Site 2:</b> a sugarcane farm is abandoned; within a few years, grasses and weeds cover the field.<br>Which choice correctly classifies the succession at each site?",
+  "choices": [
+   "Site 1: secondary; Site 2: primary",
+   "Site 1: primary; Site 2: secondary",
+   "Both primary, since each began with almost no plants",
+   "Both secondary, since each followed a disturbance"
+  ],
+  "answer": 1,
+  "hint": "Ask one question about each site: was there already soil when the new community started?",
+  "explanation": "Correct: primary succession starts where there is NO soil, like new lava or glacier-scraped granite; pioneers such as lichens must break down rock to start soil, so it is very slow. Secondary succession happens where a disturbance (fire, farming, logging) removed the community but left the soil, so grasses and weeds come back quickly.",
+  "why_wrong": [
+   "Reversed. New lava has no soil (primary); the old farm field still has its soil (secondary).",
+   "",
+   "Having few plants is not the test; soil is. The farm field kept its soil and seed bank, so it is secondary succession.",
+   "Both had a disturbance, but the lava flow left NO soil at all, which makes Site 1 primary succession."
+  ],
+  "trap": "Any disturbance ≠ secondary; the deciding factor is whether soil remains"
+ },
+ {
+  "id": "M-06",
+  "topic": 8,
+  "subtopic": "DRY MIX: IV/DV and X/Y axes",
+  "review": "s8-drymix",
+  "source": "DRY MIX Graphing Vocabulary Notes",
+  "level": "core",
+  "figure": null,
+  "stem": "A student asks: <i>How does the amount of light affect the growth of redwood sorrel?</i> She grows sorrel under 2, 4, 6, and 8 hours of light per day, gives every pot the same water, soil, and temperature, and measures plant height (cm) after 3 weeks. Using DRY MIX, how should she set up her graph?",
+  "choices": [
+   "X-axis: plant height (cm); Y-axis: hours of light per day",
+   "X-axis: amount of water (mL); Y-axis: plant height (cm)",
+   "X-axis: hours of light per day; Y-axis: plant height (cm)",
+   "X-axis: time (weeks); Y-axis: hours of light per day"
+  ],
+  "answer": 2,
+  "hint": "Which variable did she choose and change on purpose? Which one did she wait to measure?",
+  "explanation": "Correct: DRY MIX means the Dependent/Responding variable goes on the Y-axis and the Manipulated/Independent variable goes on the X-axis. She changed the hours of light (IV → X-axis) and measured plant height in cm (DV → Y-axis). Water, soil, and temperature are constants, kept the same so the test is fair.",
+  "why_wrong": [
+   "Swapped. Height is what she MEASURES (dependent, Y-axis); light is what she CHANGES (manipulated, X-axis).",
+   "Water was kept the same for every pot, so it is a constant (controlled variable), not the independent variable.",
+   "",
+   "Hours of light is the manipulated variable, so it belongs on the X-axis, and the measured result (height) is missing entirely."
+  ],
+  "trap": "Swapping IV/DV axes; mistaking a constant for the IV"
+ },
+ {
+  "id": "M-07",
+  "topic": 2,
+  "subtopic": "Symbiosis: mutualism, commensalism, parasitism",
+  "review": "s2-symbiosis",
+  "source": "Ecological relationships handout (standard HS examples)",
+  "level": "apply",
+  "figure": null,
+  "stem": "Classify each relationship.<br>1. A remora fish clings to a shark and eats its leftover scraps; the shark is neither helped nor harmed.<br>2. A tick feeds on a deer's blood for several days, then drops off; the deer survives but is weakened.<br>3. Algae live inside coral tissue and give the coral sugars from photosynthesis; the coral gives the algae shelter and nutrients.",
+  "choices": [
+   "1 commensalism, 2 parasitism, 3 mutualism",
+   "1 mutualism, 2 predation, 3 commensalism",
+   "1 parasitism, 2 parasitism, 3 mutualism",
+   "1 commensalism, 2 predation, 3 parasitism"
+  ],
+  "answer": 0,
+  "hint": "For each pair, write + (helped), − (harmed), or 0 (no effect) for BOTH organisms before looking at the choices.",
+  "explanation": "Correct: the remora and shark are commensalism (+/0): one benefits, the other is unaffected. The tick and deer are parasitism (+/−) because the parasite feeds on a living host that usually survives. Coral and algae are mutualism (+/+) because both benefit. Predation is also +/−, but a predator kills and eats its prey.",
+  "why_wrong": [
+   "",
+   "The shark gets no benefit (not mutualism), the tick does not kill the deer (not predation), and both coral and algae benefit (not commensalism).",
+   "The remora does not harm the shark, so #1 is commensalism (+/0), not parasitism (+/−).",
+   "The tick feeds on a living host without killing it, which is parasitism, not predation. Coral and algae BOTH benefit, which is mutualism, not parasitism."
+  ],
+  "trap": "Parasitism vs. predation; commensalism (+/0) vs. mutualism (+/+)"
+ },
+ {
+  "id": "M-08",
+  "topic": 4,
+  "subtopic": "Carrying capacity: what raises vs. lowers K",
+  "review": "s4-growth",
+  "source": "Carrying Capacity Simulation Activity (what increases/decreases K)",
+  "level": "core",
+  "figure": null,
+  "stem": "A county wants to <b>INCREASE</b> the carrying capacity of a valley for black-tailed deer. Which change would most likely do this?",
+  "choices": [
+   "Letting the deer herd grow until it is larger than the valley's current carrying capacity",
+   "Building a new housing development on part of the valley's meadows",
+   "A three-year drought that dries up creeks and the plants that deer eat",
+   "Restoring a damaged creek so it has year-round water and more streamside plants"
+  ],
+  "answer": 3,
+  "hint": "Carrying capacity depends on resources. Which choice ADDS resources instead of taking them away?",
+  "explanation": "Correct: carrying capacity (K) is the largest population an area can support with its resources (food, water, shelter, space). Adding resources, like restoring water and plants, raises K. Habitat destruction, fragmentation, drought, and fire lower K. These two lists got swapped on the bean simulation sheet, so double-check them!",
+  "why_wrong": [
+   "More deer does not raise K. A herd above K has overshot; it overuses food and then declines, and overgrazing can even LOWER K.",
+   "Development destroys and fragments habitat, reducing food and space, which LOWERS carrying capacity.",
+   "Drought reduces water and food, which LOWERS carrying capacity.",
+   ""
+  ],
+  "trap": "Swapping what raises vs. lowers K; more animals ≠ higher K"
+ },
+ {
+  "id": "M-09",
+  "topic": 6,
+  "subtopic": "Richness vs. evenness",
+  "review": "s6-richeven",
+  "source": "Sampling Diversity (Communities A & B)",
+  "level": "apply",
+  "figure": null,
+  "stem": "Data from the class Sampling Diversity activity:<table class='qt'><tr><th>Community A</th><th>Count</th><th>Community B</th><th>Count</th></tr><tr><td>Species A</td><td>10</td><td>Species A</td><td>10</td></tr><tr><td>Species B</td><td>125</td><td>Species E</td><td>35</td></tr><tr><td>Species C</td><td>3</td><td>Species F</td><td>8</td></tr><tr><td>Species D</td><td>23</td><td>Species G</td><td>18</td></tr><tr><td>Species E</td><td>39</td><td>Species H</td><td>29</td></tr><tr><td><b>Total</b></td><td><b>200</b></td><td><b>Total</b></td><td><b>100</b></td></tr></table>Which statement is correct?",
+  "choices": [
+   "Community A is richer, because it has twice as many individuals.",
+   "They have the same richness, but Community B is more even.",
+   "They have the same richness, but Community A is more even.",
+   "Community B is richer, because its species have more similar numbers."
+  ],
+  "answer": 1,
+  "hint": "Richness = how many KINDS. Evenness = how fair the split is. Check each one separately.",
+  "explanation": "Correct: richness is the number of different species, and both communities have 5, so they are equally rich. Evenness is how similar the species' numbers are. In A, one species makes up 125 of 200 (62.5%) of all individuals; in B the biggest species is only 35 of 100 (35%), so B is more even. (Community C, with 10 species, was the richest.)",
+  "why_wrong": [
+   "Richness counts the number of different SPECIES, not the number of individuals. Both communities have 5 species.",
+   "",
+   "Community A is dominated by Species B (62.5% of all individuals), so A is LESS even, not more.",
+   "Similar numbers describe EVENNESS, not richness. Both communities have 5 species, so their richness is equal."
+  ],
+  "trap": "Richness = number of species, not number of individuals"
+ },
+ {
+  "id": "M-10",
+  "topic": 1,
+  "subtopic": "Earth system interactions (volcano)",
+  "review": "s1-interact",
+  "source": "Earth System Science Graphic Organizer (sphere interactions), new Mount St. Helens context",
+  "level": "apply",
+  "figure": null,
+  "stem": "When Mount St. Helens erupted in 1980, it blasted ash high into the sky. Winds carried the ash hundreds of miles east, where it coated crops and forest leaves and blocked sunlight from reaching them. Which sequence of Earth spheres best matches this chain of events?",
+  "choices": [
+   "Biosphere → Atmosphere → Geosphere",
+   "Atmosphere → Geosphere → Hydrosphere",
+   "Geosphere → Atmosphere → Biosphere",
+   "Hydrosphere → Biosphere → Geosphere"
+  ],
+  "answer": 2,
+  "hint": "Trace the ash: where did it come from, what carried it, and what did it land on?",
+  "explanation": "Correct: a volcano is part of the geosphere (driven by heat from Earth's interior). The ash entered the atmosphere and was carried by wind, then affected the biosphere by blocking the sunlight plants need for photosynthesis. Earth system science is the study of exactly these relationships between land, air, water, and life.",
+  "why_wrong": [
+   "Backward. The chain starts with the volcano (geosphere) and ends with harm to plants (biosphere).",
+   "The eruption begins in the geosphere, not the atmosphere, and the ash ends up affecting living crops and trees, not water.",
+   "",
+   "No step here is mainly about water. The ash comes from the geosphere, travels through the air, and affects plants."
+  ],
+  "trap": "Identifying which sphere starts an interaction and which is affected"
+ },
+ {
+  "id": "M-11",
+  "topic": 2,
+  "subtopic": "Keystone species",
+  "review": "s2-keystone",
+  "source": "Standard HS ecology (sea otter–urchin–kelp); compare Atlas NP Gizmo",
+  "level": "apply",
+  "figure": null,
+  "stem": "In the 1700s and 1800s, fur hunters nearly wiped out sea otters along the Pacific coast. Sea otters eat sea urchins. Without otters, urchins multiplied and ate the kelp, turning many kelp forests into bare 'urchin barrens' where fish and many other species disappeared. What does this show about sea otters?",
+  "choices": [
+   "They are a keystone species: removing them changed the whole kelp forest community.",
+   "They are the producers of the kelp forest, since the kelp disappeared without them.",
+   "They are the most abundant species in the kelp forest, so their loss mattered most.",
+   "They are primary consumers, because they eat the sea urchins that feed on kelp."
+  ],
+  "answer": 0,
+  "hint": "Think of the word for a species whose removal makes far more collapse than its numbers would suggest, like pulling the center stone out of an arch.",
+  "explanation": "Correct: a keystone species has an effect on its ecosystem much larger than its numbers; removing it can destroy the balance. Losing otters → urchins boom → kelp is overgrazed → fish and other species lose habitat. This ripple down the food web is a trophic cascade, just like wolves in the Atlas National Park Gizmo.",
+  "why_wrong": [
+   "",
+   "Kelp is the producer (it photosynthesizes). Otters affect kelp only indirectly, by eating the urchins that graze on it.",
+   "Keystone species are often NOT the most abundant. What makes them keystone is that their effect is far bigger than their numbers.",
+   "Urchins eat kelp, so URCHINS are primary consumers. Otters eat urchins, which makes otters secondary consumers."
+  ],
+  "trap": "Keystone ≠ most abundant species"
+ },
+ {
+  "id": "M-12",
+  "topic": 3,
+  "subtopic": "Trophic levels & arrow direction in a food web",
+  "review": "s3-arrows",
+  "source": "Creating Chains and Webs: Redwood Forests (Big Basin)",
+  "level": "apply",
+  "figure": "redwood-web",
+  "stem": "Use the Big Basin redwood forest food web. Which food chain appears correctly in the web AND shows the puma as a <b>tertiary</b> consumer?",
+  "choices": [
+   "Redwood sorrel → mule deer → puma",
+   "Puma → bobcat → brush rabbit → redwood sorrel",
+   "California poppy → mule deer → coyote → puma",
+   "Redwood sorrel → brush rabbit → bobcat → puma"
+  ],
+  "answer": 3,
+  "hint": "Number the levels starting with the producer as level 1, and make sure every arrow in the chain really appears in the web.",
+  "explanation": "Correct: trophic levels go producer (1) → primary consumer (2) → secondary consumer (3) → tertiary consumer (4). In sorrel → rabbit → bobcat → puma, the puma is at level 4, and every arrow points from food to eater. The puma's level depends on what it eats: it is secondary when it eats deer, but tertiary when it eats a bobcat or gray fox.",
+  "why_wrong": [
+   "This chain is in the web, but here the puma eats a primary consumer (deer), so the puma is a SECONDARY consumer, not tertiary.",
+   "The arrows are backward. Arrows point from the organism eaten to the organism that eats it (the direction energy flows).",
+   "The web has no coyote → puma arrow. Pumas eat mule deer, gray foxes, and bobcats, not coyotes.",
+   ""
+  ],
+  "trap": "Arrow direction; one consumer at different trophic levels"
+ },
+ {
+  "id": "M-13",
+  "topic": 4,
+  "subtopic": "Limiting factors (bean rabbit simulation)",
+  "review": "s4-limiting",
+  "source": "Carrying Capacity Simulation Activity (bean rabbits)",
+  "level": "apply",
+  "figure": null,
+  "stem": "In the class bean 'rabbit' simulation, any square with 5 or more rabbits had ALL of its rabbits removed. What real-world idea was this rule modeling?",
+  "choices": [
+   "A flood that kills rabbits no matter how many live in an area (density-independent)",
+   "Overcrowding: too many rabbits share limited food and space (density-dependent)",
+   "Rabbits living alone cannot find a mate, so they survive but do not reproduce",
+   "Carrying capacity rising as more and more rabbits are born into each square"
+  ],
+  "answer": 1,
+  "hint": "The rule only applied to certain squares. What did those squares have in common?",
+  "explanation": "Correct: the 5-or-more rule models a density-dependent limiting factor. The more crowded an area, the more competition for food, water, and space, until resources run out and individuals die. Limits like this kept the class population from growing forever, so it leveled off and fluctuated around a carrying capacity of about 50 rabbits.",
+  "why_wrong": [
+   "The rule ONLY affected crowded squares. A density-independent event like a flood would hit rabbits whether a square was crowded or not.",
+   "",
+   "That was a different rule: a square with exactly 1 rabbit survived but did not reproduce (no mate).",
+   "Crowding does not raise carrying capacity. The rule shows what happens when a local population goes OVER what its resources can support."
+  ],
+  "trap": "Density-dependent (crowding) vs. density-independent"
+ },
+ {
+  "id": "M-14",
+  "topic": 5,
+  "subtopic": "Crown & surface fires; fire severity",
+  "review": "s5-fire",
+  "source": "CZU Wildfires / Big Basin (prescribed fire) + Life from Stone crown vs. surface fire card",
+  "level": "apply",
+  "figure": null,
+  "stem": "After the 2020 CZU Lightning Complex fire burned over 97% of Big Basin Redwoods State Park, managers plan <b>prescribed fires</b>: low flames that burn only dry needles, fallen branches, and small shrubs on the forest floor. How does this help protect the forest from another high-severity fire?",
+  "choices": [
+   "It is a crown fire that thins out the treetops so more sunlight reaches the ground.",
+   "It is a ground fire that burns tree roots underground, so trees have less wood that could burn later.",
+   "It is a surface fire that clears floor fuel, so future flames are less likely to reach the crowns.",
+   "It is a high-severity fire that burns away the soil's organic layer so fewer plants can regrow."
+  ],
+  "answer": 2,
+  "hint": "Where do the flames of a prescribed fire stay, and what fuel do they remove?",
+  "explanation": "Correct: a surface fire burns grass, needles, branches, and shrubs on the forest floor, while big trees usually survive (low-to-moderate severity). Removing this fuel, especially 'ladder fuels' like shrubs and low branches, makes it harder for a future fire to climb into the treetops. A crown fire spreads tree-to-tree through the canopy and is high severity, killing most trees.",
+  "why_wrong": [
+   "Prescribed fires are kept LOW on the forest floor. A crown fire burns the treetops and is the most destructive kind of fire.",
+   "A ground fire smolders in roots and duff below the surface and would harm trees, which is not the goal.",
+   "",
+   "Managers want LOW severity. Burning off the soil's organic layer is a sign of HIGH severity and leads to erosion."
+  ],
+  "trap": "Crown vs. surface vs. ground fire; low vs. high severity"
+ },
+ {
+  "id": "M-15",
+  "topic": 7,
+  "subtopic": "Equilibrium",
+  "review": "s7-equilibrium",
+  "source": "Gizmos Ecosystems Handbook (equilibrium) + Limiting Factors worksheet (waste → algae → fish)",
+  "level": "apply",
+  "figure": null,
+  "stem": "Fertilizer from nearby lawns washes into a pond. Algae grow so fast that they cover the surface. When the algae die, decomposers break them down and use up much of the dissolved oxygen, and many fish die. Which statement best explains what happened?",
+  "choices": [
+   "A change in an abiotic factor (extra nutrients) upset the pond's equilibrium, and the effects spread to living things.",
+   "The pond became more balanced, because more algae means more producers to feed the rest of the food web.",
+   "The pond's equilibrium was not affected, because nutrients are nonliving and only living things are part of an ecosystem.",
+   "The pond lost equilibrium only because algae now outnumber fish, and equilibrium means every population is equal."
+  ],
+  "answer": 0,
+  "hint": "Start with what was added to the water. Is it living or nonliving, and what chain of changes did it set off?",
+  "explanation": "Correct: an ecosystem is the living (biotic) community interacting with its nonliving (abiotic) environment. In equilibrium, populations stay fairly stable within normal ranges. Extra nutrients (abiotic) caused an algae boom, then oxygen (abiotic) dropped and fish died, so the disturbance rippled through the system. The Limiting Factors worksheet warns about this same chain: pollution → dangerous algae growth → risk to fish.",
+  "why_wrong": [
+   "",
+   "A sudden boom in one species is a sign of imbalance, not health; here it led to low oxygen and a fish die-off.",
+   "An ecosystem includes BOTH biotic and abiotic factors. Changing nutrients or oxygen affects every living thing in the pond.",
+   "Equilibrium does not mean equal numbers; producers normally far outnumber consumers. It means populations stay relatively stable."
+  ],
+  "trap": "Equilibrium ≠ equal population sizes; ecosystems include abiotic factors"
+ },
+ {
+  "id": "M-16",
+  "topic": 9,
+  "subtopic": "CER: identify strong evidence",
+  "review": "s9-cer",
+  "source": "Scientific Argumentation (CER), Topics Overview",
+  "level": "core",
+  "figure": null,
+  "stem": "Question: <i>Does adding nest boxes increase the tree swallow population at a marsh?</i><table class='qt'><tr><th>Year</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr><tr><td>Nest boxes</td><td>0</td><td>0</td><td>0</td><td>40</td><td>40</td><td>40</td></tr><tr><td>Breeding pairs</td><td>12</td><td>11</td><td>13</td><td>25</td><td>31</td><td>34</td></tr></table>Which sentence is the strongest <b>EVIDENCE</b> for a CER?",
+  "choices": [
+   "Adding nest boxes increases the tree swallow population at the marsh.",
+   "The swallows seemed much happier and busier after the boxes went up.",
+   "Nest space was a limiting factor for the swallows, so adding boxes raised the marsh's carrying capacity.",
+   "Breeding pairs rose from 11–13 per year with no boxes to 25–34 per year with 40 boxes."
+  ],
+  "answer": 3,
+  "hint": "Evidence is the data. Which sentence uses numbers taken straight from the table?",
+  "explanation": "Correct: in a CER, the claim is a one-sentence answer to the question, the evidence is specific data (quantitative, with units), and the reasoning explains WHY using a science concept. The correct sentence quotes the measured data from both conditions so a reader can compare them.",
+  "why_wrong": [
+   "This is the CLAIM, a one-sentence answer to the question, not the evidence.",
+   "This is an opinion with no data. Strong evidence uses measured data with numbers and units.",
+   "This is REASONING: the science concept (limiting factor, carrying capacity) that explains why the evidence supports the claim.",
+   ""
+  ],
+  "trap": "Mixing up claim, evidence, and reasoning"
+ },
+ {
+  "id": "M-17",
+  "topic": 2,
+  "subtopic": "Predator/prey",
+  "review": "s2-predprey",
+  "source": "Standard HS ecology (predator–prey cycles; compare lynx–hare)",
+  "level": "apply",
+  "figure": null,
+  "stem": "Ecologists tracked moose (prey) and wolves (predators) on an isolated island for many years. Each time the moose population peaked, the wolf population peaked a few years later. Which explanation best fits this pattern?",
+  "choices": [
+   "Wolves increase first, and having more wolves causes the moose population to grow.",
+   "More moose feed more wolves, so wolves increase; more wolves then eat more moose, so moose decline.",
+   "Moose and wolves compete for the same food supply, so whenever one population rises the other must fall.",
+   "The populations are unrelated; wolves and moose simply happen to share similar breeding seasons each year."
+  ],
+  "answer": 1,
+  "hint": "Which population is the food? Think about what has to happen BEFORE predators can raise more pups.",
+  "explanation": "Correct: in a predator–prey cycle, prey numbers rise first. With more food, predators survive and reproduce more, so predator numbers rise a little later. More predators then eat more prey, prey decline, and predators decline afterward because food is scarce. That is why predator peaks lag behind prey peaks, as in the classic lynx–snowshoe hare cycle.",
+  "why_wrong": [
+   "The data show the moose peak comes FIRST, and more predators make prey numbers fall, not rise.",
+   "",
+   "Moose eat plants and wolves eat moose, so this is a predator–prey relationship, not competition for the same food.",
+   "The lag is exactly what we expect when predators depend on prey for food, so the two populations are linked."
+  ],
+  "trap": "Predator peaks come AFTER prey peaks"
+ },
+ {
+  "id": "M-18",
+  "topic": 4,
+  "subtopic": "Density-dependent vs. density-independent",
+  "review": "s4-density",
+  "source": "Limiting Factors and Carrying Capacity worksheet (density-independent factors)",
+  "level": "challenge",
+  "figure": null,
+  "stem": "Ecologists measured what percent of a deer mouse population was killed by two factors, in years when mice were scarce versus crowded.<table class='qt'><tr><th>Factor</th><th>% killed at LOW density (10 mice/ha)</th><th>% killed at HIGH density (80 mice/ha)</th></tr><tr><td>Factor X</td><td>20%</td><td>20%</td></tr><tr><td>Factor Y</td><td>5%</td><td>45%</td></tr></table>Which conclusion is best supported?",
+  "choices": [
+   "Factor X is density-dependent; it could be a disease that spreads from one mouse to another.",
+   "Factor Y is density-independent; it could be a sudden winter flood that sweeps through burrows.",
+   "Factor Y is density-dependent; it could be a disease that spreads faster among crowded mice.",
+   "Neither factor is a limiting factor, because neither one kills every mouse."
+  ],
+  "answer": 2,
+  "hint": "Compare each factor's two percentages. Which one gets stronger when the mice are more crowded?",
+  "explanation": "Correct: a density-dependent factor has a bigger effect as a population gets more crowded. Disease, competition, predation, and parasites spread or intensify when individuals are close together, and Factor Y jumps from 5% to 45%. Factor X kills 20% no matter the density, like weather, floods, or fire (density-independent). Density-independent factors still affect populations, just not based on crowding.",
+  "why_wrong": [
+   "Factor X kills the SAME percent no matter how crowded the mice are. That is the pattern of a density-independent factor, like a flood or cold snap.",
+   "Factor Y's effect grows as crowding grows (5% → 45%). That is the signature of a density-DEPENDENT factor.",
+   "",
+   "A limiting factor does not have to kill every individual. Anything that slows or stops population growth is a limiting factor."
+  ],
+  "trap": "Density-independent ≠ 'doesn't affect the population'; read dependence from data"
+ },
+ {
+  "id": "M-19",
+  "topic": 5,
+  "subtopic": "Habitat fragmentation",
+  "review": "s5-fragmentation",
+  "source": "Habitat Fragmentation Simulation (concept), new Highway 17 Laurel Curve context",
+  "level": "apply",
+  "figure": null,
+  "stem": "Highway 17 cuts through the forests of the Santa Cruz Mountains. Mountain lions trying to cross it were often hit by cars, and lions on each side became cut off from each other. In 2023, a wildlife undercrossing was completed beneath the highway at Laurel Curve. Which statement best explains why it was built?",
+  "choices": [
+   "The highway split one large habitat into isolated patches; the crossing reconnects them for safe travel to mates and prey.",
+   "The highway only removed the thin strip of land under the pavement, so the crossing mainly gives lions more ground to hunt on.",
+   "The highway created more forest edge, which lions need most, so the crossing helps them reach even more edge habitat.",
+   "The crossing keeps lions permanently on one side of the highway, so they stay safely away from people and cars."
+  ],
+  "answer": 0,
+  "hint": "Think about what happens to a population that is split into smaller groups that cannot reach each other.",
+  "explanation": "Correct: habitat fragmentation breaks a large, continuous habitat into smaller, isolated patches (by roads, development, or fire). Isolated groups have less room to hunt and fewer possible mates, which lowers genetic diversity. Wildlife crossings and corridors reconnect patches so animals can move safely, like the Laurel Curve undercrossing on Highway 17.",
+  "why_wrong": [
+   "",
+   "Fragmentation harms wildlife far more than the paved area suggests: it isolates populations, blocks movement, and causes roadkill.",
+   "More edge is a side effect of fragmentation. Wide-ranging animals like lions need large, connected areas, not more edge.",
+   "The goal is the opposite: let animals move BETWEEN both sides safely, reconnecting the split populations."
+  ],
+  "trap": "Fragmentation is about isolation and pattern, not just lost area"
+ },
+ {
+  "id": "M-20",
+  "topic": 3,
+  "subtopic": "Flow of energy: 10% rule calculation",
+  "review": "s3-energy",
+  "source": "Creating Chains and Webs (energy pyramid calculation), new kelp forest context",
+  "level": "challenge",
+  "figure": null,
+  "stem": "In a kelp forest, energy flows: giant kelp → purple sea urchins → sea otters. The sea otters in one area get about 400 kcal/m² per year from eating urchins. Using the 10% rule, about how much energy did the kelp capture to support them?",
+  "choices": [
+   "4 kcal/m² per year",
+   "40 kcal/m² per year",
+   "4,000 kcal/m² per year",
+   "40,000 kcal/m² per year"
+  ],
+  "answer": 3,
+  "hint": "Producers always have the MOST energy. How many steps separate the otters from the kelp?",
+  "explanation": "Correct: only about 10% of energy passes up each level, so going DOWN toward the producers you multiply by 10 at each step: otters 400 → urchins 4,000 → kelp 40,000 kcal/m² per year. This is why an ecosystem needs a huge amount of producer energy to support just a few top consumers.",
+  "why_wrong": [
+   "You divided by 10 twice. Going DOWN the chain toward the producers, the energy gets bigger, so multiply.",
+   "Dividing gives a smaller number, but producers always have the MOST energy. Also, there are two steps, not one.",
+   "That is only one step (the urchins' energy). The kelp is one more level down, so multiply by 10 again.",
+   ""
+  ],
+  "trap": "Going up a level ÷10, going down ×10; count the steps"
+ },
+ {
+  "id": "M-21",
+  "topic": 9,
+  "subtopic": "CER: identify strong reasoning",
+  "review": "s9-cer",
+  "source": "Gizmos: Ecosystems STEM Case (Atlas National Park)",
+  "level": "apply",
+  "figure": null,
+  "stem": "In the Atlas National Park Gizmo, the question was: <i>Which species is the keystone species?</i> A student's claim is: <b>Wolves are the keystone species.</b> Which sentence is the best <b>REASONING</b> to support this claim?",
+  "choices": [
+   "After wolves were added, deer fell from 15,000 to 7,000 and grass rose from 400 to 850 blades/m².",
+   "Wolves prey on deer; fewer deer means less overgrazing, so plants and bees recover (a trophic cascade).",
+   "Wolves are the strongest and most impressive animals, so the park needs them more than any other species.",
+   "Bees pollinate the plants, so adding bees should have been the best way to bring the park back into balance."
+  ],
+  "answer": 1,
+  "hint": "Reasoning answers 'WHY does the evidence support the claim?' using a science idea from this unit.",
+  "explanation": "Correct: reasoning connects the evidence to the claim using a scientific concept. Here the concept is a keystone predator causing a trophic cascade: wolves limit deer (and coyotes), so grass and flowering plants recover, which supports bees and ravens and restores equilibrium. The numbers about deer and grass are evidence, not reasoning.",
+  "why_wrong": [
+   "This is EVIDENCE: specific data with numbers and units. Reasoning explains the science behind why that data supports the claim.",
+   "",
+   "This is an opinion, not a science concept. Being strong does not make a species keystone.",
+   "This argues for a different claim (bees), and the Gizmo data showed that adding bees did NOT restore balance."
+  ],
+  "trap": "Evidence (data) vs. reasoning (science concept)"
+ },
+ {
+  "id": "M-22",
+  "topic": 6,
+  "subtopic": "Relative abundance",
+  "review": "s6-relabund",
+  "source": "Sampling Diversity (relative abundance method), new tide-pool quadrat context",
+  "level": "challenge",
+  "figure": null,
+  "stem": "A student counts organisms in tide-pool quadrats on the Santa Cruz coast.<table class='qt'><tr><th>Species</th><th>Number counted</th></tr><tr><td>Aggregating anemone</td><td>54</td></tr><tr><td>Black turban snail</td><td>36</td></tr><tr><td>Hermit crab</td><td>21</td></tr><tr><td>Ochre sea star</td><td>9</td></tr></table>What is the relative abundance of ochre sea stars?",
+  "choices": [
+   "7.5%",
+   "8.3%",
+   "9%",
+   "25%"
+  ],
+  "answer": 0,
+  "hint": "First add up EVERY organism counted. Then compare the sea stars to that total.",
+  "explanation": "Correct: relative abundance = individuals of one species ÷ total individuals of all species. Total = 54 + 36 + 21 + 9 = 120, so 9 ÷ 120 = 0.075 = 7.5%. Notice that ochre sea stars are a famous keystone species even though they are the least abundant here; keystone does not mean most common.",
+  "why_wrong": [
+   "",
+   "That is 9 ÷ 108: you left the sea stars out of the total. The total must include ALL individuals (120).",
+   "9 is the COUNT of sea stars, not a percent. Divide by the total of 120 first.",
+   "That is 1 ÷ 4 species. Relative abundance uses the number of individuals, not the number of species."
+  ],
+  "trap": "Dividing by number of species, or leaving the species out of the total"
+ },
+ {
+  "id": "M-23",
+  "topic": 4,
+  "subtopic": "Overshoot, decline, recovery",
+  "review": "s4-overshoot",
+  "source": "Limiting Factors and Carrying Capacity worksheet (overshoot graph), new St. Matthew Island context",
+  "level": "challenge",
+  "figure": "overshoot",
+  "stem": "In 1944, 29 reindeer were released on St. Matthew Island, Alaska, which had plenty of lichen to eat and no predators. By 1963 there were about 6,000, and the lichen was badly overgrazed. After a harsh winter, only 42 were left by 1966. Using the graph, which number matches the 1963–1966 change, and what best explains it?",
+  "choices": [
+   "5 (recovery): with fewer reindeer, the lichen grew back and the herd quickly rebounded.",
+   "2 (exponential growth): with no predators, the herd kept growing without any limit.",
+   "4 (decline): the herd ate lichen faster than it regrew, so food ran out and most starved.",
+   "4 (decline): wolves and bears reached the island and hunted down the large, crowded herd."
+  ],
+  "answer": 2,
+  "hint": "First decide whether the population was rising or falling from 1963 to 1966. Then check the cause against the facts given in the question.",
+  "explanation": "Correct: with lots of lichen and no predators, the reindeer grew exponentially (2) and overshot (1) the island's carrying capacity. Overgrazing destroyed their food supply, and a harsh winter (a density-independent factor) hit a starving, crowded herd, so the population declined (4) by about 99%. The herd never recovered and died out by the 1980s, showing that overshoot can damage resources and lower K.",
+  "why_wrong": [
+   "Recovery (5) is a rise after the lowest point. From 1963 to 1966 the herd was FALLING (about 6,000 → 42), and it never recovered.",
+   "Exponential growth (2) describes 1944–1963 (29 → about 6,000). The 1963–1966 change was a steep drop.",
+   "",
+   "The island had no predators. The cause was overgrazed food plus a harsh winter, not predation."
+  ],
+  "trap": "Overshoot leads to a crash (decline), not a smooth leveling off"
+ },
+ {
+  "id": "M-24",
+  "topic": 5,
+  "subtopic": "Organisms in communities: pioneer species & climax community",
+  "review": "s5-organisms",
+  "source": "Ecological Succession: Life from Stone (Yosemite primary succession timeline)",
+  "level": "apply",
+  "figure": null,
+  "stem": "In the class Yosemite primary succession timeline, lichens are the pioneer species on bare, glacier-scraped granite. By the climax community (1,000+ years), lichens are labeled 'retired pioneers.' Which statement best explains both roles?",
+  "choices": [
+   "Lichens need deep, rich soil, so they can only grow after large trees have built up the soil.",
+   "Lichens are decomposers that break down fallen trees, so they matter only at the climax stage.",
+   "Lichens are the climax species, because they live the longest and outlast all other organisms.",
+   "Lichens break granite into bits that start soil; later, shade from large trees crowds them out."
+  ],
+  "answer": 3,
+  "hint": "Look at two rows of the timeline: what lichens DO to bare rock, and how 'light at ground' changes by the climax stage.",
+  "explanation": "Correct: pioneer species are the first organisms on bare surfaces. Lichens attach to rock and break it into tiny pieces, the foundation of soil. As soil deepens, grasses, shrubs, and finally large trees move in. At the climax stage little light reaches the ground, so sun-loving pioneers like lichens are mostly replaced, which is why they are called 'retired pioneers.'",
+  "why_wrong": [
+   "Reversed. Pioneers are tough and do NOT need soil; they help MAKE soil from bare rock.",
+   "Lichens grow on bare rock at the very start (the pioneer stage), breaking it down; they are not mainly decomposers of fallen trees.",
+   "The climax community is large trees and apex predators. Lichens are 'retired' because they are largely replaced.",
+   ""
+  ],
+  "trap": "Pioneers don't need soil; climax = large trees, not pioneers"
+ },
+ {
+  "id": "M-25",
+  "topic": 8,
+  "subtopic": "Reading graphs: points of interest",
+  "review": "s8-reading",
+  "source": "Wildfires: What is happening in California? (graph-reading template)",
+  "level": "challenge",
+  "figure": "fire-trend",
+  "stem": "Study the practice graph. Between which two <b>back-to-back</b> years did the number of large fires <b>increase the most</b>?",
+  "choices": [
+   "From 2006 to 2007",
+   "From 2016 to 2017",
+   "From 2019 to 2020",
+   "From 2011 to 2012"
+  ],
+  "answer": 2,
+  "hint": "For each pair, subtract the earlier year's value from the later year's value. Read the numbers next to the points.",
+  "explanation": "Correct: from 2019 (11 fires) to 2020 (37 fires) the number rose by 26 large fires — the biggest one-year jump on the graph. The other jumps are smaller: 2016→2017 rose by 11 (19 → 30), 2006→2007 by 9 (15 → 24), and 2011→2012 by 7 (9 → 16). 'Points of interest' answers should always use the numbers and units from both axes.",
+  "why_wrong": [
+   "15 → 24 is an increase of only 9 fires.",
+   "19 → 30 is a big increase (11 fires), but not the biggest.",
+   "",
+   "9 → 16 is an increase of only 7 fires."
+  ],
+  "trap": "Compare the size of each change, not just which year is high"
+ }
+]

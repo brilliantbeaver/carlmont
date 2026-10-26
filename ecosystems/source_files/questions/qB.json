@@ -1,0 +1,548 @@
+[
+  {
+    "id": "T3-01",
+    "topic": 3,
+    "subtopic": "Autotrophs vs. heterotrophs",
+    "review": "s3-trophic",
+    "source": "Gizmos: Ecosystems STEM Case — Handbook",
+    "level": "core",
+    "figure": null,
+    "stem": "The Gizmo handbook explains that <i>auto</i> = self, <i>hetero</i> = other, and <i>troph</i> = food. Which statement uses these terms correctly?",
+    "choices": [
+      "Redwood sorrel is a heterotroph, since it takes in water and minerals from the soil.",
+      "A mule deer is an autotroph, since it eats plants that make their own food.",
+      "Fungi on a fallen log are autotrophs, since they grow out of the ground like plants.",
+      "Redwood sorrel is an autotroph, and a mule deer is a heterotroph."
+    ],
+    "answer": 3,
+    "hint": "Ask: which organism makes its own food from sunlight, and which has to get its food from other living things?",
+    "explanation": "Correct: Redwood sorrel uses photosynthesis to turn light energy into chemical energy (sugar), so it is a 'self-feeder' — an autotroph and a producer at trophic level 1. A mule deer must get its food from other organisms, so it is a heterotroph ('other-feeder'). Every consumer and every decomposer is a heterotroph.",
+    "why_wrong": [
+      "Taking in water and minerals is not the same as eating food. Sorrel makes its own sugar from sunlight, so it is an autotroph.",
+      "Eating plants does not make the deer a food-maker. The deer gets its food from another organism, so it is a heterotroph.",
+      "Fungi are not plants and cannot photosynthesize. They get food by breaking down dead organisms, so they are heterotrophs (decomposers).",
+      ""
+    ],
+    "trap": "Fungi look like plants but are heterotrophs; eating plants does not make an animal an autotroph"
+  },
+  {
+    "id": "T3-02",
+    "topic": 3,
+    "subtopic": "Food chain arrows (direction of energy flow)",
+    "review": "s3-arrows",
+    "source": "Creating Chains and Webs — Redwood Forests (Big Basin)",
+    "level": "core",
+    "figure": null,
+    "stem": "A student wants to model this: a California brush rabbit eats redwood sorrel, and a gray fox eats the rabbit. Which model and reason are correct?",
+    "choices": [
+      "Gray fox → brush rabbit → redwood sorrel, because arrows point to what each animal eats",
+      "Redwood sorrel → brush rabbit → gray fox, because arrows show energy moving from food to eater",
+      "Redwood sorrel → gray fox → brush rabbit, because the producer always goes first in a chain",
+      "Brush rabbit → redwood sorrel → gray fox, because the rabbit is at trophic level 1"
+    ],
+    "answer": 1,
+    "hint": "Read each arrow as 'gives energy to.' Where does the energy start, and where does it go next?",
+    "explanation": "Correct: Arrows in food chains and webs point FROM the organism that is eaten TO the organism that eats it — the direction energy flows (Gizmo handbook; redwood sorrel → mule deer in class). Energy starts in the producer (redwood sorrel), passes to the primary consumer (brush rabbit), and then to the secondary consumer (gray fox).",
+    "why_wrong": [
+      "This is the most common arrow mistake. Arrows do not point to the food; they point to the eater, showing where the energy goes.",
+      "",
+      "The producer does go first, but the gray fox does not eat sorrel. The rabbit eats the sorrel, and then the fox eats the rabbit.",
+      "The rabbit is a consumer (level 2), not a producer. Trophic level 1 is always the producer — here, the redwood sorrel."
+    ],
+    "trap": "Arrows point to the eater (energy flow), not to the food"
+  },
+  {
+    "id": "T3-03",
+    "topic": 3,
+    "subtopic": "Metabolism and energy lost as heat",
+    "review": "s3-energy",
+    "source": "Gizmos: Ecosystems STEM Case — Handbook",
+    "level": "core",
+    "figure": null,
+    "stem": "In the Gizmo example, producers hold 10,000 kcal of energy, but the primary consumers that eat them receive only about 1,000 kcal. What happened to most of the other 9,000 kcal?",
+    "choices": [
+      "It was used for the producers' life processes (metabolism), and much of it left as heat.",
+      "It was destroyed during digestion, so that energy no longer exists anywhere at all.",
+      "It was stored up so the primary consumers can pass all of it on to the next level later.",
+      "It was sent back down to the producers so they could reuse it for more photosynthesis."
+    ],
+    "answer": 0,
+    "hint": "Living things use energy to live, grow, and reproduce. What form of energy do they give off while doing this?",
+    "explanation": "Correct: Only about 10% of the energy moves up a level: 10,000 kcal × 0.10 = 1,000 kcal. The other ~90% is used by the organisms at that level for metabolism (living, growing, reproducing). During metabolism some chemical energy is converted to heat, which leaves the organism, goes into the environment, and leaves the food chain. Energy is not destroyed, and it does not cycle back — it flows one way.",
+    "why_wrong": [
+      "",
+      "Energy cannot be destroyed. It changes form — mostly into heat that escapes into the environment.",
+      "Energy does not pile up to be passed on later. At every level, most energy is used and lost as heat, so each level passes on only about 10%.",
+      "Energy flows one way (sun → producers → consumers) and ends up as heat. Nutrients (matter) cycle back to producers, but usable energy does not."
+    ],
+    "trap": "Energy is not 'destroyed' and does not cycle back — about 90% is used in metabolism and leaves as heat"
+  },
+  {
+    "id": "T3-04",
+    "topic": 3,
+    "subtopic": "Decomposers, scavengers, and detritivores",
+    "review": "s3-decomposers",
+    "source": "Gizmos: Ecosystems STEM Case — Handbook",
+    "level": "core",
+    "figure": null,
+    "stem": "After a raccoon dies in Big Basin, vultures eat its body. Nearby, earthworms and millipedes eat dead leaves, and fungi release enzymes that break down a fallen log. Which choice names each role correctly?",
+    "choices": [
+      "Vultures: predators; earthworms: producers; fungi: decomposers",
+      "Vultures: decomposers; earthworms: primary consumers; fungi: scavengers",
+      "Vultures: scavengers; earthworms: detritivores; fungi: decomposers",
+      "Vultures: scavengers; earthworms: detritivores; fungi: producers"
+    ],
+    "answer": 2,
+    "hint": "Ask three questions: Who eats a dead animal? Who eats bits of dead plants? Who breaks matter down with enzymes?",
+    "explanation": "Correct: Scavengers are animals that feed on dead animals (vultures eating a dead raccoon). Detritivores, like earthworms and millipedes, eat dead and decaying material such as leaf litter. Decomposers (fungi and bacteria) use enzymes to break dead matter down. Together they return nutrients to the soil, where producers take them up again.",
+    "why_wrong": [
+      "Vultures did not kill the raccoon, so they are not predators here, and earthworms cannot make food from sunlight, so they are not producers.",
+      "Vultures eat whole carcasses instead of breaking matter down with enzymes, earthworms eat dead (not living) plants, and fungi are decomposers, not scavengers.",
+      "",
+      "Fungi are not plants and cannot photosynthesize. They are decomposers that break down dead matter with enzymes."
+    ],
+    "trap": "Fungi are decomposers, not producers; scavengers eat dead animals but do not kill them"
+  },
+  {
+    "id": "T3-05",
+    "topic": 3,
+    "subtopic": "Trophic levels in the redwood food web (puma)",
+    "review": "s3-trophic",
+    "source": "Creating Chains and Webs — Redwood Forests (Big Basin)",
+    "level": "apply",
+    "figure": "redwood-web",
+    "stem": "Use the redwood food web. Which statement about the puma (mountain lion) is correct?",
+    "choices": [
+      "It is always a tertiary consumer, because it sits in the top row of the web with no predators.",
+      "It is a primary consumer, because it eats mule deer, and mule deer are primary consumers.",
+      "It is a secondary consumer when eating mule deer and a tertiary consumer when eating a gray fox.",
+      "It is only a secondary consumer, because every arrow that points into it comes from a primary consumer."
+    ],
+    "answer": 2,
+    "hint": "Follow each arrow that points INTO the puma. What trophic level is each of those prey animals?",
+    "explanation": "Correct: An organism's trophic level depends on what it is eating — it is one level above its food. Mule deer are primary consumers (level 2), so a puma eating deer is a secondary consumer (level 3). Gray foxes and bobcats are secondary consumers (level 3), so a puma eating them is a tertiary consumer (level 4). Top predators often feed at more than one level.",
+    "why_wrong": [
+      "Its spot in the top row only shows its highest level. When the puma eats a mule deer (a primary consumer), it is acting as a secondary consumer.",
+      "A consumer is one level ABOVE what it eats. Eating a primary consumer makes the puma a secondary consumer, not a primary one.",
+      "",
+      "Not every arrow into the puma comes from a primary consumer — arrows also come from the gray fox and the bobcat, which are secondary consumers."
+    ],
+    "trap": "A top predator can sit at more than one trophic level; you are one level above what you eat"
+  },
+  {
+    "id": "T3-06",
+    "topic": 3,
+    "subtopic": "Omnivores at multiple trophic levels (black bear)",
+    "review": "s3-trophic",
+    "source": "Creating Chains and Webs — Redwood Forests (Big Basin)",
+    "level": "apply",
+    "figure": "redwood-web",
+    "stem": "Use the redwood food web. Which trophic level(s) does the black bear occupy?",
+    "choices": [
+      "Levels 2 and 3 — primary consumer eating sorrel, secondary consumer eating deer",
+      "Levels 1 and 2 — level 1 when it eats sorrel, and level 2 when it eats mule deer",
+      "Level 4 only — it is the top predator, since nothing in this food web eats it",
+      "Level 2 only — an omnivore is always classified by the plant food that it eats"
+    ],
+    "answer": 0,
+    "hint": "Find every arrow pointing into the black bear. Is each food a producer or a consumer? The bear is one level above each food.",
+    "explanation": "Correct: In the web, arrows run from redwood sorrel → black bear and from mule deer → black bear. Eating a producer (level 1) makes the bear a primary consumer (level 2); eating a primary consumer (deer, level 2) makes it a secondary consumer (level 3). An animal that eats both plants and animals is an omnivore, and omnivores can occupy more than one trophic level.",
+    "why_wrong": [
+      "",
+      "Level 1 is only for producers. Eating a producer puts the bear one level higher, at level 2 (primary consumer); eating deer puts it at level 3.",
+      "Having no predators does not set the trophic level. The bear eats sorrel and deer, so it feeds at levels 2 and 3, not level 4.",
+      "The bear also eats mule deer. Omnivores are counted at every level they eat from, so the bear is at level 3 too."
+    ],
+    "trap": "Omnivores occupy more than one trophic level; primary consumer = level 2, not level 1"
+  },
+  {
+    "id": "T3-07",
+    "topic": 3,
+    "subtopic": "Importance of decomposers (nutrient cycling)",
+    "review": "s3-decomposers",
+    "source": "Gizmos: Ecosystems STEM Case — Handbook",
+    "level": "apply",
+    "figure": null,
+    "stem": "Imagine all the fungi and bacteria in Big Basin's soil suddenly disappeared. What would most likely happen over the next several years?",
+    "choices": [
+      "Nothing would change, because decomposers are usually left out of food chain drawings.",
+      "Only primary consumers would be affected, because decomposers feed only on producers.",
+      "Producers would grow faster, because there would be more dead material for them to eat.",
+      "Dead matter would pile up, soil nutrients would run low, and producers would decline."
+    ],
+    "answer": 3,
+    "hint": "Where do producers get the nutrients they take up from the soil? Who puts those nutrients there?",
+    "explanation": "Correct: Decomposers use enzymes to break down dead organisms from every trophic level and return their nutrients to the soil, where producers take them up again. Without decomposers, dead leaves, logs, and bodies would build up, and their nutrients would stay locked inside. Producers would decline — and because every consumer depends on producers, the whole food web would suffer.",
+    "why_wrong": [
+      "Decomposers are often left off food web drawings, but they are essential: they recycle nutrients from all dead organisms back into the soil.",
+      "Decomposers are not primary consumers. They break down dead organisms from ALL trophic levels, so losing them would hurt the whole web.",
+      "Producers do not eat dead material — they make food from sunlight. They need decomposers to turn dead matter into nutrients they can absorb.",
+      ""
+    ],
+    "trap": "Decomposers are not primary consumers; they recycle nutrients from all levels"
+  },
+  {
+    "id": "T3-08",
+    "topic": 3,
+    "subtopic": "Why there are fewer top predators",
+    "review": "s3-energy",
+    "source": "Creating Chains and Webs — Redwood Forests (Big Basin)",
+    "level": "apply",
+    "figure": "energy-pyramid",
+    "stem": "Use the energy pyramid. Why can Big Basin support far fewer pumas than brush rabbits?",
+    "choices": [
+      "Pumas are hunted by many other predators in the forest, which keeps their numbers low.",
+      "Only about 0.1% of the producers' energy reaches pumas, so just a few can be supported.",
+      "Energy increases at each higher level, so just a few pumas already hold most of the energy.",
+      "Only the top level loses energy as heat; rabbits and the other lower levels lose almost none."
+    ],
+    "answer": 1,
+    "hint": "Compare the kcal at the rabbit level with the kcal at the puma level. What does each level do with most of its energy?",
+    "explanation": "Correct: At each step about 90% of the energy is used for metabolism and lost as heat, so only about 10% moves up. Rabbits (level 2) receive 350,000 kcal, but pumas (level 4) receive only 3,500 kcal — just 0.1% of the producers' 3,500,000 kcal. With so little energy at the top, only a small population of top predators can survive.",
+    "why_wrong": [
+      "Pumas are top predators with practically no predators of their own. Their low numbers come from limited energy, not from being hunted.",
+      "",
+      "Energy decreases at each level; it never increases. That is why the pyramid gets narrower toward the top.",
+      "Every level, including the rabbits, uses about 90% of its energy for metabolism and loses it as heat."
+    ],
+    "trap": "Energy decreases up the pyramid; every level loses about 90% as heat"
+  },
+  {
+    "id": "T3-09",
+    "topic": 3,
+    "subtopic": "Effects of removing a species from a food web",
+    "review": "s3-arrows",
+    "source": "Creating Chains and Webs — Redwood Forests (Big Basin)",
+    "level": "challenge",
+    "figure": "redwood-web",
+    "stem": "Use the redwood food web. Suppose a disease wipes out all of the California brush rabbits. Which consumers would be hurt most directly, and why?",
+    "choices": [
+      "Gray fox and bobcat, because the rabbit is their only food shown in this web",
+      "Coyote only, because it is the only animal in the web that eats brush rabbits",
+      "Mule deer, because they eat the same sorrel and poppies that the rabbits eat",
+      "Puma, because the brush rabbit is the puma's main food source in this web"
+    ],
+    "answer": 0,
+    "hint": "Trace every arrow that starts at the brush rabbit. Then check whether each of those animals has any OTHER arrow pointing into it.",
+    "explanation": "Correct: Three arrows leave the brush rabbit — to the gray fox, the bobcat, and the coyote. The coyote also eats mule deer, but the gray fox and bobcat have no other food in this web, so they would be hit hardest. The effects would ripple: fewer foxes and bobcats means less food for the puma, while the producers (sorrel, poppy) might increase with fewer rabbits eating them.",
+    "why_wrong": [
+      "",
+      "Three predators eat brush rabbits (gray fox, bobcat, and coyote). The coyote also eats mule deer, so it has a backup food.",
+      "Mule deer don't eat rabbits. Losing the rabbits removes a competitor for sorrel and poppies, so the deer would more likely benefit.",
+      "No arrow goes from the rabbit to the puma. The puma would be affected only indirectly, and it can still eat mule deer."
+    ],
+    "trap": "Reading a web: follow the arrows out of the removed species and check for other food sources"
+  },
+  {
+    "id": "T3-10",
+    "topic": 3,
+    "subtopic": "10% rule calculation",
+    "review": "s3-energy",
+    "source": "Creating Chains and Webs — Redwood Forests (Big Basin)",
+    "level": "challenge",
+    "figure": null,
+    "stem": "In the chain redwood sorrel → brush rabbit → gray fox → puma, the sorrel captures 3,500,000 kcal of energy. Using the 10% rule, how much energy reaches the puma, and what percent of the sorrel's energy is that?",
+    "choices": [
+      "35,000 kcal, which is 1% of the sorrel's energy",
+      "350 kcal, which is 0.01% of the sorrel's energy",
+      "3,500 kcal, which is 0.1% of the sorrel's energy",
+      "3,500 kcal, which is 10% of the sorrel's energy"
+    ],
+    "answer": 2,
+    "hint": "Count the arrows (steps) between the sorrel and the puma. Each step keeps only one-tenth of the energy.",
+    "explanation": "Correct: There are 3 steps, and each keeps 10% (÷ 10): 3,500,000 kcal → 350,000 kcal (rabbit) → 35,000 kcal (gray fox) → 3,500 kcal (puma). As a percent: 3,500 ÷ 3,500,000 = 0.001 = 0.1% (or 10% × 10% × 10% = 0.1%). This matches the class pyramid: 100% → 10% → 1% → 0.1%.",
+    "why_wrong": [
+      "35,000 kcal (1%) is the gray fox level, after only 2 steps. The puma is one more step up, so divide by 10 once more.",
+      "This divides by 10 four times (once per organism). There are only 3 arrows (steps) from the sorrel to the puma.",
+      "",
+      "The energy amount is right, but 10% applies to ONE step. After 3 steps, 10% × 10% × 10% = 0.1% of the sorrel's energy remains."
+    ],
+    "trap": "Count steps (arrows), not organisms; 10% applies per step, not overall"
+  },
+  {
+    "id": "T4-01",
+    "topic": 4,
+    "subtopic": "Limiting factors",
+    "review": "s4-limiting",
+    "source": "Limiting Factors & Carrying Capacity worksheet",
+    "level": "core",
+    "figure": null,
+    "stem": "Gulls nest on rocky shores. Once every nesting spot on a rock is taken, extra gull pairs cannot raise chicks, so the colony stops growing. In this example, nesting space is best described as…",
+    "choices": [
+      "the carrying capacity, because it is the largest number of gulls the rock can hold",
+      "a limiting factor, because a shortage of it keeps the gull population from growing",
+      "a density-independent factor, because rocks and empty space are not alive",
+      "exponential growth, because more and more gull pairs keep arriving to nest"
+    ],
+    "answer": 1,
+    "hint": "Ask: what is nesting space doing to the colony's growth?",
+    "explanation": "Correct: A limiting factor is an environmental factor that keeps a population from growing (worksheet). When nesting space runs out, pairs without room have no offspring, so space limits the gull population. The largest colony that the space can support is the carrying capacity — that is a population size, not the factor itself.",
+    "why_wrong": [
+      "Carrying capacity is a population SIZE (the maximum number of gulls). Nesting space is the factor that sets that limit.",
+      "",
+      "Being nonliving makes space abiotic, not density-independent. Crowding for nesting space gets worse as the colony grows, so it is density-dependent.",
+      "Exponential growth means a population increasing faster and faster. Here the colony has stopped growing."
+    ],
+    "trap": "Limiting factor (the cause) vs. carrying capacity (the max population); abiotic does not mean density-independent"
+  },
+  {
+    "id": "T4-02",
+    "topic": 4,
+    "subtopic": "Density-dependent vs. density-independent",
+    "review": "s4-density",
+    "source": "Limiting Factors & Carrying Capacity worksheet",
+    "level": "core",
+    "figure": null,
+    "stem": "Which situation is an example of a <b>density-dependent</b> limiting factor?",
+    "choices": [
+      "A hurricane washes away turtle nests along a beach.",
+      "A late-spring cold front kills many newly hatched birds.",
+      "A lightning-caused wildfire burns through a redwood forest.",
+      "A disease spreads faster as a deer herd becomes more crowded."
+    ],
+    "answer": 3,
+    "hint": "Ask: would this factor hit the population harder if the animals were more crowded?",
+    "explanation": "Correct: A density-dependent factor has a stronger effect as a population gets more crowded. Disease spreads more easily when animals are close together, so a larger, denser herd loses a greater share of its members. Hurricanes, cold fronts, and wildfires are density-independent — the worksheet says such factors are not affected by population size.",
+    "why_wrong": [
+      "A hurricane washes away nests no matter how many turtles nest there, so it is density-independent (a worksheet example).",
+      "This is the worksheet's own example of a density-independent factor: a cold front's effect is not affected by population size.",
+      "Fire is a physical event (lightning, weather, dry fuel). It burns whether the population is large or small, so it is density-independent.",
+      ""
+    ],
+    "trap": "Weather and natural disasters = density-independent; disease and competition = density-dependent"
+  },
+  {
+    "id": "T4-03",
+    "topic": 4,
+    "subtopic": "Carrying capacity model (letters A–H)",
+    "review": "s4-growth",
+    "source": "Carrying Capacity Explanatory Model",
+    "level": "core",
+    "figure": "kmodel",
+    "stem": "Use the carrying capacity model graph. Which choice correctly describes point B, line D, and the E–H section?",
+    "choices": [
+      "B: exponential growth; D: carrying capacity; E–H: population rises and falls around K",
+      "B: carrying capacity; D: exponential growth; E–H: the population goes extinct",
+      "B: exponential growth; D: highest population ever reached; E–H: a steady decline",
+      "B: slow start (lag); D: carrying capacity; E–H: a second round of exponential growth"
+    ],
+    "answer": 0,
+    "hint": "Find the steepest part of the curve and the flat dashed line. Then look at what the curve does after it reaches that line.",
+    "explanation": "Correct: B is the steep rise where the population grows faster and faster — exponential growth. D, the dashed horizontal line, is the carrying capacity (K), the largest population the habitat can support over time. E–H show the population going slightly above and below K again and again; the class model calls this repeating up-and-down pattern around K the cyclical/periodic relationship.",
+    "why_wrong": [
+      "",
+      "B and D are switched: the steep curve is growth, and the flat dashed line is K. The curve keeps going after D, so the population does not go extinct.",
+      "Peaks E and G rise above D, so D is not the highest point — K is the level the population fluctuates around. E–H go up and down, not steadily down.",
+      "The slow start (lag) is A, at the bottom left. E–H are small ups and downs near K, not another burst of exponential growth."
+    ],
+    "trap": "K is the dashed line the population fluctuates around, not the highest peak"
+  },
+  {
+    "id": "T4-04",
+    "topic": 4,
+    "subtopic": "Carrying capacity calculation (bear & fish)",
+    "review": "s4-limiting",
+    "source": "Limiting Factors & Carrying Capacity worksheet",
+    "level": "apply",
+    "figure": null,
+    "stem": "A bear must eat 10 fish per day. A river provides about 100 fish per day without harming the fish population. Shelter and water are plentiful. What is the carrying capacity for bears, and would adding more shelter raise it?",
+    "choices": [
+      "1,000 bears; yes, more shelter would let even more bears live there",
+      "100 bears; no, because the river makes 100 fish each day",
+      "10 bears; yes, more shelter and water would raise it to about 15 bears",
+      "10 bears; no, because food (fish) is the limiting factor"
+    ],
+    "answer": 3,
+    "hint": "Divide what the river supplies by what one bear needs. Then ask which resource is actually in short supply.",
+    "explanation": "Correct: 100 fish per day ÷ 10 fish per bear per day = 10 bears. Five bears would eat only 50 fish; fifteen bears would need 150 fish, so not all of them could survive. Because food is the limiting factor, the worksheet notes that no matter how much shelter and water there was, the population would not get larger than 10 bears.",
+    "why_wrong": [
+      "Multiplying (10 × 100) is the wrong operation. Divide the fish supply by what one bear needs: 100 ÷ 10 = 10 bears.",
+      "100 is the number of fish, not bears. Each bear needs 10 fish, so 100 fish per day feeds only 10 bears.",
+      "10 bears is right, but more shelter or water won't help. The bears are limited by fish, so K rises only if the food supply rises.",
+      ""
+    ],
+    "trap": "Adding a resource that is not limiting does not raise K"
+  },
+  {
+    "id": "T4-05",
+    "topic": 4,
+    "subtopic": "Density-independent does not mean 'no effect'",
+    "review": "s4-density",
+    "source": "Limiting Factors & Carrying Capacity worksheet",
+    "level": "apply",
+    "figure": null,
+    "stem": "The worksheet calls a late-spring cold front a density-independent factor. A student concludes: 'So a cold front can't change the size of a bird population.' Which response is best?",
+    "choices": [
+      "The student is right; density-independent factors never change how many birds there are.",
+      "The student is wrong; it can kill many chicks — the term only means its effect doesn't depend on crowding.",
+      "The student is wrong; the cold front is actually density-dependent, because colder weather kills more birds.",
+      "The student is right; only living factors such as predators and disease can lower a population's size."
+    ],
+    "answer": 1,
+    "hint": "Focus on what the word 'density' refers to in this term. Is the term about WHETHER there is an effect, or about what the effect depends on?",
+    "explanation": "Correct: A late-spring cold front can kill the offspring of many species, so it can sharply reduce a population. 'Density-independent' means the size of the effect is not affected by population size or crowding — a similar share dies whether the population is small or large. Weather, floods, and fires are density-independent, yet they can still cause big population drops.",
+    "why_wrong": [
+      "Density-independent factors DO change population size — a cold front, flood, or hurricane can kill many individuals. They just act regardless of crowding.",
+      "",
+      "Temperature is not density. A factor is density-dependent only if its effect gets stronger as the population gets more crowded.",
+      "Nonliving factors like weather also lower populations. Predators and disease are density-dependent, but they are not the only factors that reduce a population."
+    ],
+    "trap": "Density-independent ≠ 'doesn't affect the population'"
+  },
+  {
+    "id": "T4-06",
+    "topic": 4,
+    "subtopic": "Exponential growth, overshoot, decline, recovery",
+    "review": "s4-overshoot",
+    "source": "Limiting Factors & Carrying Capacity worksheet",
+    "level": "apply",
+    "figure": "overshoot",
+    "stem": "Use the numbered graph. In the 1800s, rabbits in Australia (a) multiplied rapidly with lots of food and no predators, (b) became far more numerous than the land could support, (c) starved after eating the land bare, then (d) increased again as plants regrew. Which markers match (a)–(d), in order?",
+    "choices": [
+      "2, 3, 4, 5",
+      "1, 2, 4, 5",
+      "2, 1, 4, 5",
+      "2, 1, 5, 4"
+    ],
+    "answer": 2,
+    "hint": "First name each event: fast growth, above K, die-off, bounce back. Then find each stage on the graph.",
+    "explanation": "Correct: (a) Rapid growth with plenty of resources = exponential growth (2, the steep rise). (b) Rising far above what the land can support = overshoot (1, the big peak above the dashed K line). (c) Running out of food and dying = decline (4, the fall after the peak). (d) Rising again once food recovers = recovery (5). Afterward the population levels off near carrying capacity (3).",
+    "why_wrong": [
+      "Marker 3 is on the dashed carrying-capacity line. Stage (b) happens ABOVE that line, at the overshoot peak (1).",
+      "Order matters: the population grows exponentially (2) BEFORE it overshoots (1), not after.",
+      "",
+      "Decline (4) comes before recovery (5). The rabbits starved first, then increased again as the plants regrew."
+    ],
+    "trap": "Overshoot is the peak ABOVE K, not K itself; decline comes before recovery"
+  },
+  {
+    "id": "T4-07",
+    "topic": 4,
+    "subtopic": "What increases vs. decreases carrying capacity",
+    "review": "s4-growth",
+    "source": "Carrying Capacity Simulation Activity (bean rabbits)",
+    "level": "apply",
+    "figure": null,
+    "stem": "A student wrote these lists on the bean simulation worksheet:<br><b>Increases K:</b> drought, habitat fragmentation, more competitors<br><b>Decreases K:</b> more food, more water, habitat restoration<br>Which feedback is most accurate?",
+    "choices": [
+      "Both lists are correct, because harsh conditions make survivors stronger, so more can live there.",
+      "The lists don't matter, because a habitat's carrying capacity is fixed and never changes.",
+      "The lists are swapped: more resources raise K; drought, fragmentation, and competitors lower it.",
+      "Only 'more water' is misplaced, because water does not affect a habitat's carrying capacity."
+    ],
+    "answer": 2,
+    "hint": "Carrying capacity depends on the resources a habitat provides (food, water, space). Which list ADDS resources?",
+    "explanation": "Correct: Carrying capacity depends on the resources a habitat provides. More food, more water, and habitat restoration give the habitat more resources, so they RAISE K. Drought, habitat fragmentation, and more competitors reduce the resources available to each individual, so they LOWER K. K changes whenever the habitat changes.",
+    "why_wrong": [
+      "Harsh conditions reduce the food, water, and space available, so the habitat can support FEWER individuals, not more.",
+      "K can change. Drought, fire, or habitat loss can lower it, and restoration or more food can raise it.",
+      "",
+      "Water is a key resource that helps set carrying capacity — and both whole lists are reversed, not just one item."
+    ],
+    "trap": "Swapping what raises vs. lowers K; K is not fixed"
+  },
+  {
+    "id": "T4-08",
+    "topic": 4,
+    "subtopic": "Bean simulation — estimating carrying capacity",
+    "review": "s4-overshoot",
+    "source": "Carrying Capacity Simulation Activity (bean rabbits)",
+    "level": "apply",
+    "figure": "bean-line",
+    "stem": "The line graph shows the class bean 'rabbit' simulation for years 0–8. What is the best estimate of the habitat's carrying capacity?",
+    "choices": [
+      "About 50 rabbits, the level the population settles around in years 6–8",
+      "About 73 rabbits, the highest population the habitat ever reached",
+      "About 25 rabbits, the starting population the habitat began with in year 0",
+      "About 64 rabbits, the point where fast growth ended in year 3"
+    ],
+    "answer": 0,
+    "hint": "Carrying capacity isn't a single high or low point. Look for where the line stops making big jumps and stays fairly steady.",
+    "explanation": "Correct: The population grew from 25 to 64 by year 3, then swung below and above the same level (47 in year 4, 73 in year 5) before settling at 55, 50, and 54 in years 6–8. The level a population fluctuates around is the carrying capacity, so K ≈ 50 rabbits (the class estimate). A line graph fits these data because it shows continuous change over time.",
+    "why_wrong": [
+      "",
+      "73 was a peak (an overshoot) in year 5, and the population quickly fell back. K is the level the population settles around, not its highest point.",
+      "25 is just the starting number. The population quickly grew above it, so the habitat can support more than 25 rabbits.",
+      "64 was a temporary high in year 3; the population dropped to 47 the next year. K is where the population levels off over time."
+    ],
+    "trap": "K is the level the population fluctuates around, not the highest point"
+  },
+  {
+    "id": "T4-09",
+    "topic": 4,
+    "subtopic": "Cyclical/periodic predator–prey pattern (lynx & hare)",
+    "review": "s4-cycles",
+    "source": "Standard HS ecology",
+    "level": "apply",
+    "figure": "lynx-hare",
+    "stem": "Use the lynx–hare graph. Which statement correctly describes AND explains the pattern?",
+    "choices": [
+      "Lynx peak first, and then their hunting causes the hare population to grow larger.",
+      "Hares peak first; with more food, lynx rise a year or two later, then fall after hares drop.",
+      "Both peak in the same year each cycle, because lynx and hares compete for the same food.",
+      "Hares peak first, and then both populations level off for good at their carrying capacity."
+    ],
+    "answer": 1,
+    "hint": "Find one hare peak and the lynx peak closest to it. Which comes first? Then think about what lynx need in order to raise more young.",
+    "explanation": "Correct: The graph shows a repeating rise and fall about every 10 years — a cyclical pattern. Hare peaks come first. Lots of hares means lots of food for lynx, so lynx numbers climb a year or two later. Then many lynx eat many hares, the hares drop, and with less food the lynx drop too — and the cycle repeats. Predator peaks lag behind prey peaks.",
+    "why_wrong": [
+      "Each lynx (dashed) peak comes AFTER a hare peak. And predators eating more prey makes the prey decrease, not grow.",
+      "",
+      "The peaks don't line up — lynx peak 1–2 years after hares. Also, lynx eat hares; they do not compete with them for the same food.",
+      "Both lines keep rising and falling from 1850 to 1910; they never level off for good. That repeating rise and fall is the cycle."
+    ],
+    "trap": "Predator peaks lag behind prey peaks"
+  },
+  {
+    "id": "T4-10",
+    "topic": 4,
+    "subtopic": "Density-dependent vs. density-independent (data)",
+    "review": "s4-density",
+    "source": "Standard HS ecology",
+    "level": "challenge",
+    "figure": null,
+    "stem": "Ecologists recorded the percent of a rabbit population killed by two factors at different population densities.<table class='qt'><tr><th>Rabbits per hectare</th><th>% killed by Factor P</th><th>% killed by Factor Q</th></tr><tr><td>10</td><td>4%</td><td>25%</td></tr><tr><td>40</td><td>12%</td><td>25%</td></tr><tr><td>80</td><td>30%</td><td>25%</td></tr></table>Which conclusion is best supported?",
+    "choices": [
+      "P is density-independent (like a flood); Q is density-dependent (like disease).",
+      "Q has no effect on the rabbit population, because its percent never changes.",
+      "Both are density-dependent, because both kill rabbits at every density.",
+      "P is density-dependent (like disease); Q is density-independent (like a flood)."
+    ],
+    "answer": 3,
+    "hint": "For each factor, ask: as the rabbits get more crowded, does the share that dies go up, or stay the same?",
+    "explanation": "Correct: Factor P kills a bigger share as crowding increases (4% → 12% → 30%), so its effect depends on density — density-dependent, like disease or competition for food. Factor Q kills 25% no matter the density, so it is density-independent, like a flood or a cold snap. Notice that Q still kills a quarter of the rabbits: density-independent does not mean harmless.",
+    "why_wrong": [
+      "This is backwards. P's death rate rises with crowding (density-dependent), while Q's stays the same (density-independent).",
+      "Q kills 25% of the rabbits at every density — a big effect. Its percent stays the same because it does not depend on crowding.",
+      "Killing rabbits at every density isn't the test. Only P gets stronger as density rises; Q stays at 25%.",
+      ""
+    ],
+    "trap": "Density-independent ≠ no effect; look at the trend with density, not just whether deaths happen"
+  },
+  {
+    "id": "T4-11",
+    "topic": 4,
+    "subtopic": "Overshoot and crash (St. Matthew Island reindeer)",
+    "review": "s4-overshoot",
+    "source": "Standard HS ecology",
+    "level": "challenge",
+    "figure": null,
+    "stem": "In 1944, 29 reindeer were released on St. Matthew Island, Alaska, which had plenty of lichen to eat and no predators during the whole study.<table class='qt'><tr><th>Year</th><th>Reindeer</th></tr><tr><td>1944</td><td>29</td></tr><tr><td>1957</td><td>1,350</td></tr><tr><td>1963</td><td>about 6,000</td></tr><tr><td>1966</td><td>42</td></tr></table>Which explanation best fits the data?",
+    "choices": [
+      "The herd overshot carrying capacity, overgrazed the lichen (lowering K), and then crashed.",
+      "The herd leveled off smoothly at carrying capacity, the way an S-shaped (logistic) curve does.",
+      "Predators arrived after the reindeer peaked and caused the crash, like in the lynx–hare cycle.",
+      "The herd stayed below carrying capacity the whole time, so food was never a limiting factor."
+    ],
+    "answer": 0,
+    "hint": "Look at the jump from 1957 to 1963 and then the drop by 1966. Which stages from the overshoot graph does that match?",
+    "explanation": "Correct: With plenty of food and no predators, the herd grew exponentially (29 → 1,350 → about 6,000). It overshot the island's carrying capacity and overgrazed the slow-growing lichen, which lowered K. During a severe winter in 1963–64 (a density-independent factor), the reindeer starved, and only 42 were left by 1966 — about a 99% crash: (6,000 − 42) ÷ 6,000 ≈ 0.99.",
+    "why_wrong": [
+      "",
+      "A smooth S-curve levels off at K and stays near it. This herd crashed from about 6,000 to 42 — overshoot and decline, not a smooth level-off.",
+      "The island had no predators during the study. The crash came from running out of food (plus a harsh winter), not from predation.",
+      "Starvation and a crash to 42 show the herd went far ABOVE what its food supply could support; food was the limiting factor."
+    ],
+    "trap": "Overshoot leads to a crash, not a smooth S-curve; K can drop after overgrazing"
+  }
+]

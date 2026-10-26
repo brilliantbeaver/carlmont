@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="100%" role="img" aria-label="Four-tier energy pyramid for a redwood forest. Bottom: producers (redwood sorrel) 3,500,000 kcal, 100 percent. Next: primary consumers (brush rabbit) 350,000 kcal, 10 percent. Next: secondary consumers (gray fox) 35,000 kcal, 1 percent. Top: tertiary consumers (puma) 3,500 kcal, 0.1 percent. An arrow from each level says about 90 percent is used for metabolism (life processes) and lost as heat. Note: only about 10 percent passes up each level." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title>Energy pyramid: only about 10% of energy passes up each trophic level</title>
+  <defs>
+    <marker id="energy-pyramid-heat-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c53030"/></marker>
+  </defs>
+  <text x="360" y="24" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2937">Energy pyramid (redwood forest)</text>
+  <polygon points="162.0,46 334.0,46 369.0,126 127.0,126" fill="#c53030" fill-opacity="0.14" stroke="#c53030" stroke-width="2" stroke-linejoin="round"/>
+  <text x="248" y="71" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Tertiary consumers</text>
+  <text x="248" y="89" font-size="13" text-anchor="middle" fill="#1f2937">(puma)</text>
+  <text x="248" y="110" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">3,500 kcal — 0.1%</text>
+  <path d="M357.5,86.0 q10.21,-6 20.42,0 q10.21,6 20.42,0 q10.21,-6 20.42,0 q10.21,6 20.42,0 q10.21,-6 20.42,0 q10.21,6 20.42,0 L494,86.0" fill="none" stroke="#c53030" stroke-width="2.2" stroke-linecap="round" marker-end="url(#energy-pyramid-heat-arrow)"/>
+  <text x="504" y="75.0" font-size="13" fill="#1f2937"><tspan font-weight="700">≈90%</tspan> used for metabolism</text>
+  <text x="504" y="91.0" font-size="13" fill="#1f2937">(life processes)</text>
+  <text x="504" y="107.0" font-size="13" fill="#1f2937">→ lost as <tspan font-weight="700" fill="#c53030">HEAT</tspan></text>
+  <polygon points="127.0,126 369.0,126 404.0,206 92.0,206" fill="#dd6b20" fill-opacity="0.16" stroke="#dd6b20" stroke-width="2" stroke-linejoin="round"/>
+  <text x="248" y="151" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Secondary consumers</text>
+  <text x="248" y="169" font-size="13" text-anchor="middle" fill="#1f2937">(gray fox)</text>
+  <text x="248" y="190" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">35,000 kcal — 1%</text>
+  <path d="M392.5,166.0 q10.94,-6 21.88,0 q10.94,6 21.88,0 q10.94,-6 21.88,0 q10.94,6 21.88,0 L494,166.0" fill="none" stroke="#c53030" stroke-width="2.2" stroke-linecap="round" marker-end="url(#energy-pyramid-heat-arrow)"/>
+  <text x="504" y="155.0" font-size="13" fill="#1f2937"><tspan font-weight="700">≈90%</tspan> used for metabolism</text>
+  <text x="504" y="171.0" font-size="13" fill="#1f2937">(life processes)</text>
+  <text x="504" y="187.0" font-size="13" fill="#1f2937">→ lost as <tspan font-weight="700" fill="#c53030">HEAT</tspan></text>
+  <polygon points="92.0,206 404.0,206 439.0,286 57.0,286" fill="#f6e7cb" fill-opacity="1" stroke="#8b5e34" stroke-width="2" stroke-linejoin="round"/>
+  <text x="248" y="231" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Primary consumers</text>
+  <text x="248" y="249" font-size="13" text-anchor="middle" fill="#1f2937">(brush rabbit)</text>
+  <text x="248" y="270" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">350,000 kcal — 10%</text>
+  <path d="M427.5,246.0 q13.12,-6 26.25,0 q13.12,6 26.25,0 L494,246.0" fill="none" stroke="#c53030" stroke-width="2.2" stroke-linecap="round" marker-end="url(#energy-pyramid-heat-arrow)"/>
+  <text x="504" y="235.0" font-size="13" fill="#1f2937"><tspan font-weight="700">≈90%</tspan> used for metabolism</text>
+  <text x="504" y="251.0" font-size="13" fill="#1f2937">(life processes)</text>
+  <text x="504" y="267.0" font-size="13" fill="#1f2937">→ lost as <tspan font-weight="700" fill="#c53030">HEAT</tspan></text>
+  <polygon points="57.0,286 439.0,286 474.0,366 22.0,366" fill="#c6f6d5" fill-opacity="1" stroke="#2f855a" stroke-width="2" stroke-linejoin="round"/>
+  <text x="248" y="311" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Producers</text>
+  <text x="248" y="329" font-size="13" text-anchor="middle" fill="#1f2937">(redwood sorrel)</text>
+  <text x="248" y="350" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">3,500,000 kcal — 100%</text>
+  <path d="M462.5,326.0 q4.38,-6 8.75,0 q4.38,6 8.75,0 L494,326.0" fill="none" stroke="#c53030" stroke-width="2.2" stroke-linecap="round" marker-end="url(#energy-pyramid-heat-arrow)"/>
+  <text x="504" y="315.0" font-size="13" fill="#1f2937"><tspan font-weight="700">≈90%</tspan> used for metabolism</text>
+  <text x="504" y="331.0" font-size="13" fill="#1f2937">(life processes)</text>
+  <text x="504" y="347.0" font-size="13" fill="#1f2937">→ lost as <tspan font-weight="700" fill="#c53030">HEAT</tspan></text>
+  <rect x="160" y="376" width="400" height="30" rx="15" fill="#f9fafb" stroke="#2f855a" stroke-width="1.5"/>
+  <rect x="218" y="117" width="60" height="18" rx="9" fill="#ffffff" stroke="#2f855a" stroke-width="1.5"/>
+  <path d="M232,119.5 L236.5,125 L233.4,125 L233.4,132 L230.6,132 L230.6,125 L227.5,125 Z" fill="#2f855a"/>
+  <text x="254" y="130.5" font-size="12" font-weight="700" text-anchor="middle" fill="#2f855a">10%</text>
+  <rect x="218" y="197" width="60" height="18" rx="9" fill="#ffffff" stroke="#2f855a" stroke-width="1.5"/>
+  <path d="M232,199.5 L236.5,205 L233.4,205 L233.4,212 L230.6,212 L230.6,205 L227.5,205 Z" fill="#2f855a"/>
+  <text x="254" y="210.5" font-size="12" font-weight="700" text-anchor="middle" fill="#2f855a">10%</text>
+  <rect x="218" y="277" width="60" height="18" rx="9" fill="#ffffff" stroke="#2f855a" stroke-width="1.5"/>
+  <path d="M232,279.5 L236.5,285 L233.4,285 L233.4,292 L230.6,292 L230.6,285 L227.5,285 Z" fill="#2f855a"/>
+  <text x="254" y="290.5" font-size="12" font-weight="700" text-anchor="middle" fill="#2f855a">10%</text>
+  <text x="360" y="396" font-size="14" text-anchor="middle" fill="#1f2937"><tspan font-weight="700">Only ≈10% passes up each level.</tspan></text>
+</svg>

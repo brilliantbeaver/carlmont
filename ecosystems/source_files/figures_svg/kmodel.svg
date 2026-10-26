@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" width="100%" role="img" aria-label="Graph of population size versus time or number of generations. A curve starts flat at the bottom left (A), rises steeply (B), bends near the top (C), and then waves slightly above and below a dashed horizontal line (D, labeled at its left end): peaks E and G are above the line and dips F and H are below it." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title>Carrying capacity explanatory model (letters A to H)</title>
+<defs><marker id="kmodel-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker></defs>
+<line x1="72" y1="372" x2="72" y2="34" stroke="#1f2937" stroke-width="2" marker-end="url(#kmodel-arrow)"/>
+<line x1="72" y1="372" x2="704" y2="372" stroke="#1f2937" stroke-width="2" marker-end="url(#kmodel-arrow)"/>
+<text x="34" y="212" font-size="15" text-anchor="middle" font-weight="600" fill="#1f2937" transform="rotate(-90 34 212)">Population size</text>
+<text x="381" y="404" font-size="15" text-anchor="middle" font-weight="600" fill="#1f2937">Time / Number of generations</text>
+<line x1="72" y1="186.4" x2="690" y2="186.4" stroke="#c53030" stroke-width="2.2" stroke-dasharray="9 6"/>
+<path d="M72,360.8C105,360.8 137.9,357.9 170.9,352.8C205.9,347.4 240.9,330.4 275.9,276C319.2,208.8 362.5,164 405.7,164C430.4,164 455.2,208.8 479.9,208.8C504.6,208.8 529.3,164 554,164C578.8,164 603.5,208.8 628.2,208.8C648.8,208.8 669.4,190.7 690,175.2" fill="none" stroke="#3182ce" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="124.5" cy="358.5" r="4" fill="#1f2937" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="275.9" cy="276" r="4" fill="#1f2937" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="328.5" cy="206.9" r="4" fill="#1f2937" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="405.7" cy="164" r="4" fill="#1f2937" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="479.9" cy="208.8" r="4" fill="#1f2937" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="554" cy="164" r="4" fill="#1f2937" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="628.2" cy="208.8" r="4" fill="#1f2937" stroke="#ffffff" stroke-width="1.5"/>
+<text x="124.5" y="345.5" font-size="18" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">A</text>
+<text x="255.9" y="270" font-size="18" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">B</text>
+<text x="341.5" y="228.9" font-size="18" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">C</text>
+<text x="88" y="177.4" font-size="18" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">D</text>
+<text x="405.7" y="151" font-size="18" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">E</text>
+<text x="554" y="151" font-size="18" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">G</text>
+<text x="479.9" y="234.8" font-size="18" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">F</text>
+<text x="628.2" y="234.8" font-size="18" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">H</text>
+</svg>

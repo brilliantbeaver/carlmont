@@ -1,0 +1,366 @@
+[
+  {
+    "id": "T8-01",
+    "topic": 8,
+    "subtopic": "DRY MIX",
+    "review": "s8-drymix",
+    "source": "DRY MIX Graphing Vocabulary Notes",
+    "level": "core",
+    "figure": null,
+    "stem": "Your class uses the memory trick <b>DRY MIX</b> to set up graphs. What does the <b>DRY</b> part tell you?",
+    "choices": [
+      "Dependent / Responding variable: what you measure; it goes on the x-axis",
+      "Manipulated / Independent variable: what you change; it goes on the y-axis",
+      "Dependent / Responding variable: what you measure; it goes on the y-axis",
+      "Dependent / Responding variable: what you change on purpose; it goes on the y-axis"
+    ],
+    "answer": 2,
+    "hint": "Break the word into letters: D, R and Y each stand for something. Does a “responding” variable get changed by you, or does it change in response to what you did?",
+    "explanation": "Correct: DRY = Dependent / Responding variable goes on the Y-axis. It is what you measure; it “responds” to the change you make. MIX = Manipulated / Independent variable goes on the X-axis; that is what you change on purpose. Example: in the bean simulation, rabbit population (DV) is on the y-axis and time in years (IV) is on the x-axis.",
+    "why_wrong": [
+      "The DV is the variable you measure, but the Y in DRY means it goes on the y-axis, not the x-axis.",
+      "This describes MIX (Manipulated / Independent), and MIX goes on the x-axis, not the y-axis.",
+      "",
+      "The dependent variable is not changed on purpose; it responds to the change. The variable you change on purpose is the manipulated (independent) variable."
+    ],
+    "trap": "Mixing up “responding” and “manipulated”; putting the DV on the x-axis"
+  },
+  {
+    "id": "T8-02",
+    "topic": 8,
+    "subtopic": "IV, DV and constants in an experiment",
+    "review": "s8-drymix",
+    "source": "DRY MIX Graphing Vocabulary Notes; Creating Chains and Webs (redwood sorrel)",
+    "level": "apply",
+    "figure": null,
+    "stem": "A student tests how the amount of light affects redwood sorrel. She grows 5 trays of sorrel under 0, 2, 4, 6, or 8 hours of light per day. Every tray gets the same soil and 50 mL of water per day. After 3 weeks, she measures each plant's height in centimeters. Which choice correctly identifies the variables?",
+    "choices": [
+      "IV: hours of light per day; DV: plant height (cm); constant: amount of water (50 mL/day)",
+      "IV: plant height (cm); DV: hours of light per day; constant: type of soil",
+      "IV: hours of light per day; DV: amount of water (50 mL/day); constant: plant height (cm)",
+      "IV: amount of water (50 mL/day); DV: plant height (cm); constant: hours of light per day"
+    ],
+    "answer": 0,
+    "hint": "Which one did she change on purpose from tray to tray? Which one did she wait and measure at the end? Which one was the same for every tray?",
+    "explanation": "Correct: The manipulated/independent variable is what she changed on purpose: hours of light (x-axis). The responding/dependent variable is what she measured: plant height in cm (y-axis). Water (50 mL/day) and soil were the same for every tray, so they are constants (controlled variables). Keeping constants the same makes it a fair test, so differences in height can be linked to light.",
+    "why_wrong": [
+      "",
+      "Swapped: height is the result she measured (DV), and hours of light is what she changed (IV). Soil is a constant, but the IV and DV are backwards.",
+      "Water was kept the same (50 mL/day) for every tray, so it is a constant, not the DV. Plant height is what she measured, so it is the DV, not a constant.",
+      "Water was the same for every tray, so it can't be the IV. Light was the variable she changed, so it is not a constant."
+    ],
+    "trap": "Swapping IV and DV; calling a constant a variable"
+  },
+  {
+    "id": "T8-03",
+    "topic": 8,
+    "subtopic": "X and Y axes: where time goes",
+    "review": "s8-drymix",
+    "source": "DRY MIX Graphing Vocabulary Notes; CZU Wildfires (redwood resprouting)",
+    "level": "core",
+    "figure": null,
+    "stem": "After the 2020 CZU fire, a park ranger measures the height (cm) of new sprouts growing from a burned redwood trunk once a month for 12 months. Where should <b>Time (months)</b> go on her graph, and why?",
+    "choices": [
+      "On the y-axis, because time is what she wrote down on her data sheet at each visit",
+      "On the y-axis, because time is the dependent variable that changes as the sprouts grow",
+      "On the x-axis, because time is the dependent variable that responds to sprout height",
+      "On the x-axis, because time is the independent variable; it doesn't depend on sprout height"
+    ],
+    "answer": 3,
+    "hint": "Does the passing of time depend on how tall the sprouts get, or does sprout height depend on how much time has passed?",
+    "explanation": "Correct: Time is almost always the independent variable, so it goes on the x-axis. Sprout height depends on how much time has passed (not the other way around), so height in cm is the DV on the y-axis. The bean simulation followed the same rule: Time (years) on the x-axis, rabbit population on the y-axis.",
+    "why_wrong": [
+      "She does write down the date, but recording something doesn't make it the DV. The measured outcome is sprout height; time is the IV on the x-axis.",
+      "Time doesn't change because the sprouts grow; sprout growth depends on time. Time is independent, so it goes on the x-axis.",
+      "Right axis, wrong reason: time is the INDEPENDENT variable. Sprout height is the variable that responds.",
+      ""
+    ],
+    "trap": "Putting time on the y-axis or calling time the dependent variable"
+  },
+  {
+    "id": "T8-04",
+    "topic": 8,
+    "subtopic": "IV/DV from a data table; describing the relationship",
+    "review": "s8-drymix",
+    "source": "Habitat Fragmentation Simulation (Marbled Murrelet data)",
+    "level": "challenge",
+    "figure": null,
+    "stem": "In the Habitat Fragmentation Simulation, a student chose how much of a 100-cell forest grid to turn into meadow, then counted the cells still suitable for marbled murrelets.<table class='qt'><tr><th>% meadow</th><td>10</td><td>20</td><td>40</td><td>60</td><td>80</td></tr><tr><th>Suitable cells for murrelets</th><td>90</td><td>79</td><td>55</td><td>24</td><td>4</td></tr></table>Which choice correctly sets up the graph <b>and</b> describes the relationship?",
+    "choices": [
+      "x-axis: Suitable cells; y-axis: % meadow; as suitable cells increase, % meadow decreases",
+      "x-axis: % meadow; y-axis: Suitable cells; as % meadow increases, suitable cells decrease",
+      "x-axis: % meadow; y-axis: Suitable cells; as % meadow increases, suitable cells increase",
+      "x-axis: Time (years); y-axis: Suitable cells; suitable cells decrease as time goes on"
+    ],
+    "answer": 1,
+    "hint": "Which value did the student set before counting? That is the MIX variable. Then read the bottom row from left to right: is it going up or down?",
+    "explanation": "Correct: The student manipulated % meadow (IV, x-axis) and measured the number of suitable cells (DV, y-axis). As meadow rose from 10% to 80%, suitable cells fell from 90 to 4, a negative (inverse) relationship. Suitable habitat also dropped faster than forest area: at 60% meadow, 40 forest cells were left but only 24 were suitable, because fragmentation leaves small patches murrelets can't use.",
+    "why_wrong": [
+      "The axes are swapped. Suitable cells were counted (responding, y-axis); % meadow was set by the student (manipulated, x-axis).",
+      "",
+      "The axes are right, but check the data: suitable cells drop from 90 to 4 as meadow increases. That is a negative relationship, not a positive one.",
+      "This experiment didn't measure time. The variable the student changed was % meadow, so % meadow belongs on the x-axis."
+    ],
+    "trap": "IV on the y-axis; assuming time is always the IV"
+  },
+  {
+    "id": "T8-05",
+    "topic": 8,
+    "subtopic": "Line graph vs. bar graph",
+    "review": "s8-graphtypes",
+    "source": "Carrying Capacity Simulation Activity (bean simulation)",
+    "level": "core",
+    "figure": null,
+    "stem": "In the bean “rabbit” simulation, a student recorded the population at the end of each year:<table class='qt'><tr><th>Year</th><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><th>Rabbits</th><td>25</td><td>33</td><td>44</td><td>64</td><td>47</td><td>73</td><td>55</td><td>50</td><td>54</td></tr></table>He made a bar graph, and the teacher wrote “Wrong type of graph.” Which explanation is correct?",
+    "choices": [
+      "A pie chart was needed, because each year's count is one part of the whole rabbit population.",
+      "A line graph was needed, because rabbit population is the independent variable.",
+      "A line graph was needed, because line graphs are best for comparing separate categories.",
+      "A line graph was needed, because the data show one population changing over time."
+    ],
+    "answer": 3,
+    "hint": "Look at what goes on the x-axis here. Are these separate groups (like types of vegetation), or the same thing measured again and again as time passes?",
+    "explanation": "Correct: Change over time (continuous data) should be shown with a LINE graph. Connecting the points shows the trend from year to year (rising to 73 rabbits, then leveling off near 50–55). Bar graphs are for comparing separate categories, such as area burned in conifer forest vs. shrubland vs. grassland. This was the exact feedback on the class bean-simulation graph.",
+    "why_wrong": [
+      "Pie charts show parts of one whole at one moment. These are counts of the same population at different times, not parts of a total.",
+      "Rabbit population is what was measured, so it is the dependent variable (y-axis). Time is the independent variable.",
+      "Comparing separate categories is what BAR graphs are for. Line graphs are for showing change over time.",
+      ""
+    ],
+    "trap": "Using a bar graph for change over time"
+  },
+  {
+    "id": "T8-06",
+    "topic": 8,
+    "subtopic": "Reading a graph (template: axes, high, trend, anomaly)",
+    "review": "s8-reading",
+    "source": "Wildfires: What is happening in California? (graph-analysis template); practice data",
+    "level": "apply",
+    "figure": "fire-trend",
+    "stem": "A student fills in the class graph-analysis template for this practice graph. Which entry is correct?",
+    "choices": [
+      "Y axis: label “Year,” units in years, range from 2000 to 2020",
+      "Anomaly: 2019, only 11 large fires, far below 2018 (28) and 2020 (37)",
+      "High: 2017, with 30 large fires, the most of any year on the graph",
+      "Trend: the number of large fires generally decreased from 2000 to 2020"
+    ],
+    "answer": 1,
+    "hint": "Check each entry against the graph. Which axis runs along the bottom? Where is the tallest point? Is the dashed trendline going up or down?",
+    "explanation": "Correct: An anomaly is a point that doesn't fit the pattern. In 2019 the count dropped to 11 large fires, even though the years on either side were high (28 in 2018, 37 in 2020). Good template entries use numbers and units from both axes. The other entries mix up the axes, the high point (2020, 37 fires), or the trend (upward).",
+    "why_wrong": [
+      "Year runs along the bottom, so it is the x-axis label (years, 2000–2020). The y-axis is Number of large fires, range 0–40.",
+      "",
+      "2017 (30 fires) is high, but 2020 is higher with 37 large fires, so the high is 2020.",
+      "The points and the dashed trendline slope upward (about 8 to 28 fires), so the general trend is an increase, not a decrease."
+    ],
+    "trap": "Confusing the axes; picking a local peak as the overall high"
+  },
+  {
+    "id": "T8-07",
+    "topic": 8,
+    "subtopic": "What you can and can't conclude from a graph",
+    "review": "s8-reading",
+    "source": "Wildfires: What is happening in California? (analysis: what can/can't you conclude); practice data",
+    "level": "challenge",
+    "figure": "fire-trend",
+    "stem": "Using <b>only</b> this practice graph, which statement can a scientist <b>NOT</b> conclude?",
+    "choices": [
+      "The number of large fires per year generally increased from 2000 to 2020.",
+      "There were more large fires in 2020 than in any other year on the graph.",
+      "Rising temperatures from climate change caused the increase in large fires.",
+      "There were fewer large fires in 2010 than in 2007."
+    ],
+    "answer": 2,
+    "hint": "Does the graph include any data about temperature or weather? A graph shows WHAT happened; does it also show WHY?",
+    "explanation": "Correct: The graph only shows the number of large fires per year. It has no temperature data, so it can't show that climate change was the cause. A trend shows a pattern (a correlation), not a cause. Class notes link climate change to more fires, but to make that claim you would need evidence about temperature, drought, or fuels too. The other three statements can be read directly from the graph.",
+    "why_wrong": [
+      "This can be concluded: the points and the dashed trendline rise overall (trendline from about 8 to about 28 fires per year).",
+      "This can be concluded: 2020 is the highest point on the graph, at 37 large fires.",
+      "",
+      "This can be concluded: 2010 had 6 large fires and 2007 had 24 large fires."
+    ],
+    "trap": "Correlation is not causation: a graph with no cause data can't prove a cause"
+  },
+  {
+    "id": "T9-01",
+    "topic": 9,
+    "subtopic": "Identify claim, evidence, and reasoning",
+    "review": "s9-cer",
+    "source": "Habitat Fragmentation Simulation (CER recommendation)",
+    "level": "apply",
+    "figure": null,
+    "stem": "Question: <i>How does clearing forest affect suitable habitat for marbled murrelets?</i> A student wrote:<br>(1) When forest cells dropped from 90 to 20, suitable murrelet cells dropped from 90 to 4.<br>(2) Clearing more forest reduces the habitat marbled murrelets can use.<br>(3) Murrelets need large patches of interior forest; clearing breaks the forest into small fragments with more edge, so fewer cells are suitable.<br>Which labels are correct?",
+    "choices": [
+      "(1) Evidence, (2) Claim, (3) Reasoning",
+      "(1) Claim, (2) Evidence, (3) Reasoning",
+      "(1) Evidence, (2) Reasoning, (3) Claim",
+      "(1) Reasoning, (2) Claim, (3) Evidence"
+    ],
+    "answer": 0,
+    "hint": "Find the sentence with the data first. Then find the one that simply answers the question. The one left over should explain WHY using a science idea.",
+    "explanation": "Correct: Sentence 2 is the claim, a one-sentence answer to the question. Sentence 1 is the evidence: quantitative data with units (cells) from the simulation. Sentence 3 is the reasoning: it uses the concept of habitat fragmentation (more edge, less interior) to explain why the data support the claim. The order of the sentences doesn't matter; what each sentence does is what counts.",
+    "why_wrong": [
+      "",
+      "Sentence 1 reports data, so it is evidence, not the claim. Sentence 2 is the short answer to the question (the claim), and it has no data in it.",
+      "Sentence 3 doesn't just answer the question; it explains WHY using a science concept (fragmentation, edge, interior). That makes it reasoning. Sentence 2 is the claim.",
+      "Sentence 1 reports numbers, which makes it evidence, not reasoning. Sentence 3 explains the science, which makes it reasoning, not evidence."
+    ],
+    "trap": "Assuming the first sentence is always the claim; confusing evidence with reasoning"
+  },
+  {
+    "id": "T9-02",
+    "topic": 9,
+    "subtopic": "Choosing the best claim",
+    "review": "s9-cer",
+    "source": "Sampling Diversity (Community A and B tables)",
+    "level": "apply",
+    "figure": null,
+    "stem": "Question: <i>Which community is more even, Community A or Community B?</i><table class='qt'><tr><th></th><th>Community A</th><th>Community B</th></tr><tr><td>Number of species</td><td>5</td><td>5</td></tr><tr><td>Total individuals</td><td>200</td><td>100</td></tr><tr><td>Most common species (share of all individuals)</td><td>62.5%</td><td>35%</td></tr><tr><td>Rarest species (share of all individuals)</td><td>1.5%</td><td>8%</td></tr></table>Which is the best <b>claim</b>?",
+    "choices": [
+      "Community A is more even, because it has more individuals (200 vs. 100).",
+      "Both communities are equally even, because each one has 5 species.",
+      "Community B seems healthier and nicer to me, so it is the better one.",
+      "Community B is more even than Community A."
+    ],
+    "answer": 3,
+    "hint": "A strong claim directly answers the exact question that was asked. Does the choice answer “which is more even,” and does it agree with the data rather than feelings?",
+    "explanation": "Correct: A claim is a one-sentence answer to the scientific question. Community B is more even because no single species dominates (its most common species is 35%), while in Community A one species makes up 62.5% of all individuals. The claim states the answer; the percentages are the evidence that comes next.",
+    "why_wrong": [
+      "Evenness is about how equal the species' counts are, not how many individuals there are in total. A is dominated by one species (62.5%), so it is LESS even.",
+      "Having the same number of species means equal RICHNESS, not equal evenness. Their individuals are spread among the species very differently.",
+      "This is an opinion (“nicer to me”), and it doesn't answer the question about evenness.",
+      ""
+    ],
+    "trap": "Confusing richness with evenness; an opinion used as a claim"
+  },
+  {
+    "id": "T9-03",
+    "topic": 9,
+    "subtopic": "Choosing the strongest evidence",
+    "review": "s9-cer",
+    "source": "Carrying Capacity Simulation Activity (bean simulation)",
+    "level": "apply",
+    "figure": "bean-line",
+    "stem": "Claim: <i>The bean-rabbit population leveled off near a carrying capacity of about 50 rabbits.</i> Using the graph, which is the <b>strongest</b> evidence for this claim?",
+    "choices": [
+      "The population started at 25 rabbits in year 0 and was 33 rabbits in year 1.",
+      "From year 6 to year 8, the population stayed between 50 and 55 rabbits.",
+      "The population went up and down a lot, and then it sort of stayed the same.",
+      "A habitat has limited food and space, so it can support only so many rabbits."
+    ],
+    "answer": 1,
+    "hint": "Strong evidence is specific data (numbers with units) that relates directly to the claim. Which part of the graph is the claim talking about?",
+    "explanation": "Correct: This evidence is quantitative, has units (rabbits), and comes from the part of the graph that actually shows leveling off: 55, 50, and 54 rabbits in years 6–8. Strong evidence is specific, relevant data from the investigation that supports the claim.",
+    "why_wrong": [
+      "These are real numbers with units, but they describe the start, when the population was still growing, not leveling off. Evidence must be relevant to the claim.",
+      "",
+      "This is vague: no numbers, no units, no years. Strong evidence gives specific data from the graph.",
+      "This is a science idea that explains WHY a population levels off. That makes it reasoning, not evidence (data)."
+    ],
+    "trap": "Evidence that is irrelevant, vague, or actually reasoning"
+  },
+  {
+    "id": "T9-04",
+    "topic": 9,
+    "subtopic": "Choosing the best reasoning",
+    "review": "s9-cer",
+    "source": "Creating Chains and Webs: Redwood Forests (energy pyramid calculation)",
+    "level": "apply",
+    "figure": null,
+    "stem": "Question: <i>Why are there far fewer pumas than brush rabbits in Big Basin?</i><br><b>Claim:</b> Fewer pumas can live there because less energy reaches the top of the food chain.<br><b>Evidence:</b> In the class energy pyramid, producers have 3,500,000 kcal, rabbits 350,000 kcal, gray foxes 35,000 kcal, and pumas only 3,500 kcal.<br>Which is the best <b>reasoning</b>?",
+    "choices": [
+      "Only about 10% of energy passes up each level; the rest is used for metabolism and lost as heat, so fewer pumas can be supported.",
+      "Pumas received only 3,500 kcal while rabbits received 350,000 kcal, so the rabbits had 100 times more energy than the pumas did.",
+      "Pumas are apex predators, so no other animal in Big Basin hunts them, and they are able to live for many years in the forest.",
+      "Decomposers recycle the energy stored in dead rabbits and pass it back up to the pumas, so the pumas need to eat much less food."
+    ],
+    "answer": 0,
+    "hint": "Good reasoning uses a science rule to explain WHY the numbers shrink at each level. It doesn't just repeat the numbers.",
+    "explanation": "Correct: Reasoning links the evidence to the claim with a science concept, here the 10% rule. Each trophic level uses about 90% of its energy for metabolism (living, growing, reproducing), and that energy leaves as heat, so only about 10% passes up. With so little energy at the top, the ecosystem can support only a few pumas.",
+    "why_wrong": [
+      "",
+      "This only restates the evidence (with a little math). It doesn't explain WHY there is less energy at the top.",
+      "It's true that pumas have almost no predators, but that would lead you to expect MORE pumas, not fewer. It doesn't explain the energy data.",
+      "Energy doesn't cycle; it flows one way and leaves as heat. Decomposers recycle nutrients (matter), not energy back up to pumas."
+    ],
+    "trap": "Reasoning that only restates the evidence; thinking energy cycles"
+  },
+  {
+    "id": "T9-05",
+    "topic": 9,
+    "subtopic": "Weak vs. strong claims",
+    "review": "s9-cer",
+    "source": "CZU Wildfires: The Biology of the CZU Lightning Complex (wind and slope)",
+    "level": "core",
+    "figure": null,
+    "stem": "The CZU fire spread quickly partly because of wind and steep slopes. Question: <i>How do wind and slope affect how fast a wildfire spreads?</i> A student's claim: <i>“Wind and slope have an effect on fires.”</i> Why is this a <b>weak</b> claim?",
+    "choices": [
+      "It has no numbers; every claim must include data with units, such as wind speed in km/h.",
+      "It is too short; a strong claim should be a full paragraph that explains everything.",
+      "It is too vague; it doesn't say how wind and slope change fire spread (faster or slower).",
+      "It leaves out the science of heat and fuel, and a claim must include the reasoning."
+    ],
+    "answer": 2,
+    "hint": "Imagine reading only this claim. Could you tell what actually happens to a fire when the wind picks up?",
+    "explanation": "Correct: A claim must clearly answer the question. “Have an effect” doesn't say WHAT the effect is. A strong claim would be: “Stronger wind and steeper slopes make a wildfire spread faster.” Numbers belong in the evidence and the science explanation belongs in the reasoning; the claim just needs to be a clear, one-sentence answer.",
+    "why_wrong": [
+      "Data with units belongs in the EVIDENCE. A claim can be a clear sentence with no numbers.",
+      "The teacher's rule is that a claim is ONE sentence. Length isn't the problem; vagueness is.",
+      "",
+      "Explaining the science (heat, fuel, oxygen) is the job of the REASONING, not the claim."
+    ],
+    "trap": "Thinking a claim must contain data or reasoning; vague claims"
+  },
+  {
+    "id": "T9-06",
+    "topic": 9,
+    "subtopic": "Evidence needs units",
+    "review": "s9-cer",
+    "source": "Gizmos: Ecosystems STEM Case (Atlas National Park)",
+    "level": "core",
+    "figure": null,
+    "stem": "Claim: <i>Reintroducing wolves helped the grass in Atlas National Park recover.</i> A student's evidence says: <i>“The grass went from 400 to 850.”</i> Which revision turns this into the strongest evidence?",
+    "choices": [
+      "After the wolves came back, the grass in the park grew back a whole lot more than it was before they returned.",
+      "Within 5 years of wolves returning, grass rose from 400 to 850 blades/m² (normal: 800–1,000 blades/m²).",
+      "Wolves are a keystone species, so adding them back starts a trophic cascade that lets the grass recover.",
+      "I think the grass went from 400 to 850 because wolves are very important animals in the park."
+    ],
+    "answer": 1,
+    "hint": "400 and 850 of what? Strong evidence tells the reader the units, the time frame, and how the numbers compare to normal.",
+    "explanation": "Correct: “400 to 850” has no units (400 what?). The revision adds units (blades/m²), a time frame (5 years), and a comparison to the normal range (800–1,000 blades/m²). Evidence should be specific data, with units, that clearly supports the claim.",
+    "why_wrong": [
+      "This removes the numbers entirely. “A whole lot” is vague; strong evidence keeps the data and adds units.",
+      "",
+      "This is reasoning (science concepts: keystone species, trophic cascade), not evidence. It also doesn't fix the missing units.",
+      "“I think” turns it into an opinion, and the numbers still have no units."
+    ],
+    "trap": "Evidence without units; mixing reasoning into evidence"
+  },
+  {
+    "id": "T9-07",
+    "topic": 9,
+    "subtopic": "Evaluating a full CER (reasoning that restates evidence)",
+    "review": "s9-cer",
+    "source": "Carrying Capacity Simulation Activity (what increases K)",
+    "level": "challenge",
+    "figure": "cer-diagram",
+    "stem": "Use the CER model. Question: <i>Does a bigger habitat support more rabbits?</i> Groups ran the bean simulation on a large grid (100 squares) and a small grid (50 squares).<br><b>Claim:</b> A bigger habitat supports more rabbits.<br><b>Evidence:</b> After 8 years, the large grid had 54 rabbits and the small grid had 27 rabbits.<br><b>Reasoning:</b> The large grid had 54 rabbits, which is more than the 27 rabbits on the small grid.<br>Which part is weakest, and how should it be fixed?",
+    "choices": [
+      "Claim: it should include the data, such as 54 rabbits vs. 27 rabbits, to be complete.",
+      "Evidence: it should name a science idea, such as carrying capacity, to be complete.",
+      "Reasoning: it just repeats the evidence; it should explain how more space raises the carrying capacity.",
+      "Reasoning: it should add the student's own opinion that bigger habitats are simply better for rabbits."
+    ],
+    "answer": 2,
+    "hint": "Compare each part to the model. Does the reasoning tell you anything the evidence didn't already say?",
+    "explanation": "Correct: The reasoning just repeats the numbers from the evidence. Strong reasoning uses a science concept to explain WHY: a bigger grid has more squares (more space and resources), so fewer squares get overcrowded (5+ rabbits). That gives the habitat a higher carrying capacity, so it supports more rabbits. The claim (one clear sentence) and the evidence (numbers with units) are already fine.",
+    "why_wrong": [
+      "Data belongs in the evidence. The claim is already a clear, one-sentence answer to the question.",
+      "Science ideas belong in the reasoning. The evidence already has specific numbers with units (rabbits).",
+      "",
+      "Opinions don't belong in a CER. Reasoning needs a science concept (carrying capacity, limiting factors), not a personal view."
+    ],
+    "trap": "Reasoning that only restates the evidence"
+  }
+]

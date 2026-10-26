@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 486" width="100%" role="img" aria-label="Redwood forest food web for Big Basin, arranged by trophic level from bottom to top. Producers (trophic level 1): redwood sorrel and California poppy. Primary consumers (level 2): California brush rabbit and mule deer. Secondary consumers (level 3): gray fox, bobcat, and coyote. Top consumer (level 3 or 4, depending on what it eats): puma (mountain lion). On the right side: black bear (omnivore). Arrows point from the organism eaten to the organism that eats it: redwood sorrel to rabbit, sorrel to mule deer, California poppy to rabbit, poppy to mule deer, sorrel to black bear, rabbit to gray fox, rabbit to bobcat, rabbit to coyote, mule deer to coyote, mule deer to puma, mule deer to black bear, gray fox to puma, and bobcat to puma. At the bottom, decomposers (fungi, bacteria) receive a dashed arrow from all dead organisms and send a dashed arrow of nutrients to the soil and back to the producers." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title>Redwood forest food web (Big Basin)</title>
+  <defs>
+    <marker id="redwood-web-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1f2937"/></marker>
+    <marker id="redwood-web-arrow-dashed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#8b5e34"/></marker>
+  </defs>
+  <text x="360" y="20" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2937">Redwood forest food web (Big Basin)</text>
+  <rect x="8" y="34" width="560" height="72" rx="8" fill="#c53030" fill-opacity="0.06"/>
+  <rect x="8" y="118" width="560" height="72" rx="8" fill="#dd6b20" fill-opacity="0.08"/>
+  <rect x="8" y="202" width="560" height="72" rx="8" fill="#f6e7cb" fill-opacity="0.5"/>
+  <rect x="8" y="286" width="560" height="72" rx="8" fill="#c6f6d5" fill-opacity="0.4"/>
+  <text x="18" y="61" font-size="13" font-weight="700" fill="#1f2937">Top</text>
+  <text x="18" y="76" font-size="13" font-weight="700" fill="#1f2937">consumer</text>
+  <text x="18" y="92" font-size="12" fill="#6b7280">(level 3 or 4)</text>
+  <text x="18" y="145" font-size="13" font-weight="700" fill="#1f2937">Secondary</text>
+  <text x="18" y="160" font-size="13" font-weight="700" fill="#1f2937">consumers</text>
+  <text x="18" y="176" font-size="12" fill="#6b7280">(trophic level 3)</text>
+  <text x="18" y="229" font-size="13" font-weight="700" fill="#1f2937">Primary</text>
+  <text x="18" y="244" font-size="13" font-weight="700" fill="#1f2937">consumers</text>
+  <text x="18" y="260" font-size="12" fill="#6b7280">(trophic level 2)</text>
+  <text x="18" y="320" font-size="13" font-weight="700" fill="#1f2937">Producers</text>
+  <text x="18" y="336" font-size="12" fill="#6b7280">(trophic level 1)</text>
+  <rect x="175" y="380" width="360" height="34" rx="8" fill="#f6e7cb" stroke="#8b5e34" stroke-width="1.8"/>
+  <text x="355" y="402" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Decomposers <tspan font-weight="400">(fungi, bacteria)</tspan></text>
+  <g fill="none" stroke="#8b5e34" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#redwood-web-arrow-dashed)">
+    <line x1="215" y1="380" x2="215" y2="345.0"/>
+    <line x1="495" y1="380" x2="495" y2="345.0"/>
+    <path d="M640,336 V397.0 H538"/>
+  </g>
+  <text x="355" y="363.0" font-size="12.5" font-style="italic" text-anchor="middle" fill="#8b5e34">nutrients → soil → producers</text>
+  <text x="640" y="314" font-size="13" font-weight="700" text-anchor="middle" fill="#8b5e34">all dead</text>
+  <text x="640" y="330" font-size="13" font-weight="700" text-anchor="middle" fill="#8b5e34">organisms</text>
+  <g fill="none" stroke="#1f2937" stroke-width="1.8" marker-end="url(#redwood-web-arrow)">
+    <line x1="407.4" y1="302.0" x2="309.8" y2="261.0"/>  <!-- sorrel -> rabbit -->
+    <line x1="455.0" y1="302.0" x2="455.0" y2="261.0"/>  <!-- sorrel -> deer -->
+    <line x1="255.0" y1="302.0" x2="255.0" y2="261.0"/>  <!-- poppy -> rabbit -->
+    <line x1="302.6" y1="302.0" x2="400.2" y2="261.0"/>  <!-- poppy -> deer -->
+    <line x1="484.4" y1="302.0" x2="606.2" y2="219.0"/>  <!-- sorrel -> bear -->
+    <line x1="243.1" y1="218.0" x2="218.7" y2="177.0"/>  <!-- rabbit -> fox -->
+    <line x1="274.0" y1="218.0" x2="313.1" y2="177.0"/>  <!-- rabbit -> bobcat -->
+    <line x1="300.0" y1="218.0" x2="436.0" y2="177.0"/>  <!-- rabbit -> coyote -->
+    <line x1="458.6" y1="218.0" x2="465.9" y2="177.0"/>  <!-- deer -> coyote -->
+    <path d="M506,218.0 C578,196.0 588,100 406.0,76"/>  <!-- deer -> puma -->
+    <line x1="514.0" y1="224.6" x2="577.0" y2="210.3"/>  <!-- deer -> bear -->
+    <line x1="236.0" y1="134.0" x2="299.4" y2="93.0"/>  <!-- fox -> puma -->
+    <line x1="335.0" y1="134.0" x2="335.0" y2="93.0"/>  <!-- bobcat -> puma -->
+  </g>
+  <rect x="267.0" y="50.0" width="136" height="40" rx="8" fill="#ffffff" stroke="#c53030" stroke-width="2"/>
+  <text x="335" y="67" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">Puma</text>
+  <text x="335" y="83" font-size="12" text-anchor="middle" fill="#6b7280">(mountain lion)</text>
+  <rect x="149.0" y="134.0" width="112" height="40" rx="8" fill="#ffffff" stroke="#dd6b20" stroke-width="2"/>
+  <text x="205" y="159" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Gray fox</text>
+  <rect x="279.0" y="134.0" width="112" height="40" rx="8" fill="#ffffff" stroke="#dd6b20" stroke-width="2"/>
+  <text x="335" y="159" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Bobcat</text>
+  <rect x="414.0" y="134.0" width="112" height="40" rx="8" fill="#ffffff" stroke="#dd6b20" stroke-width="2"/>
+  <text x="470" y="159" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Coyote</text>
+  <rect x="196.0" y="218.0" width="118" height="40" rx="8" fill="#f6e7cb" stroke="#8b5e34" stroke-width="2"/>
+  <text x="255" y="235" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">California</text>
+  <text x="255" y="251" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">brush rabbit</text>
+  <rect x="396.0" y="218.0" width="118" height="40" rx="8" fill="#f6e7cb" stroke="#8b5e34" stroke-width="2"/>
+  <text x="455" y="243" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">Mule deer</text>
+  <rect x="196.0" y="302.0" width="118" height="40" rx="8" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+  <text x="255" y="319" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">California</text>
+  <text x="255" y="335" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">poppy</text>
+  <rect x="396.0" y="302.0" width="118" height="40" rx="8" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+  <text x="455" y="319" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">Redwood</text>
+  <text x="455" y="335" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">sorrel</text>
+  <rect x="580.0" y="176.0" width="120" height="40" rx="8" fill="#ffffff" stroke="#6b46c1" stroke-width="2"/>
+  <text x="640" y="193.0" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">Black bear</text>
+  <text x="640" y="209.0" font-size="12" text-anchor="middle" fill="#6b7280">(omnivore)</text>
+  <rect x="8" y="430" width="704" height="48" rx="8" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1.5"/>
+  <line x1="22" y1="454" x2="62" y2="454" stroke="#1f2937" stroke-width="1.8" marker-end="url(#redwood-web-arrow)"/>
+  <text x="72" y="450" font-size="13" fill="#1f2937">Arrow points from the organism eaten to the organism that eats it</text>
+  <text x="72" y="467" font-size="13" font-weight="700" fill="#1f2937">= direction of energy flow.</text>
+  <line x1="520" y1="454" x2="556" y2="454" stroke="#8b5e34" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#redwood-web-arrow-dashed)"/>
+  <text x="566" y="450" font-size="13" fill="#1f2937">dead matter &amp;</text>
+  <text x="566" y="467" font-size="13" fill="#1f2937">recycled nutrients</text>
+</svg>

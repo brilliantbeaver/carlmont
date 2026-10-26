@@ -1,0 +1,496 @@
+[
+ {
+  "id": "T5-01",
+  "topic": 5,
+  "subtopic": "Primary succession & pioneer species",
+  "review": "s5-primary",
+  "source": "Ecological Succession: Life from Stone — How Yosemite was Made",
+  "level": "core",
+  "figure": null,
+  "stem": "Glaciers scraped Yosemite Valley down to bare granite and then melted away. The first living things to grow there were lichens, which slowly broke the rock into tiny pieces that later became soil. Which pair of terms correctly names the process and the lichens' role?",
+  "choices": [
+   "Secondary succession; lichens are pioneer species",
+   "Primary succession; lichens are a climax community",
+   "Primary succession; lichens are pioneer species",
+   "Secondary succession; lichens are a climax community"
+  ],
+  "answer": 2,
+  "hint": "Was there any soil when the glaciers left? And are lichens the first arrivals or the final, mature stage?",
+  "explanation": "Correct: Bare, glacier-scraped granite has NO soil, so building an ecosystem there is primary succession. Lichens are pioneer species: tough first arrivals that don't need soil and break bare rock into tiny pieces, the foundation of soil. In the class timeline the pioneer stage lasts about 0–150 years; the climax community (large trees, apex predators, deep soil) comes after 1,000+ years.",
+  "why_wrong": [
+   "Lichens are pioneers, but secondary succession starts where soil is still present (for example, after a fire). Glacier-scraped granite has no soil at all.",
+   "Primary is right, but a climax community is the final, mature stage (large trees, deep rich soil), not the first organisms on bare rock.",
+   "",
+   "Both parts are wrong: there was no soil (so it is not secondary), and lichens are the first arrivals, not the final stage."
+  ],
+  "trap": "Pioneer species ≠ climax community; no soil = primary"
+ },
+ {
+  "id": "T5-02",
+  "topic": 5,
+  "subtopic": "Primary vs. secondary succession",
+  "review": "s5-secondary",
+  "source": "Ecological Succession: Life from Stone — How Yosemite was Made",
+  "level": "core",
+  "figure": null,
+  "stem": "Which situation would be followed by <b>secondary</b> succession rather than primary succession?",
+  "choices": [
+   "Lava from an eruption cools into a brand-new island of bare rock",
+   "A farmer stops plowing a field, and weeds sprout from the soil",
+   "A glacier melts back and exposes bare, scraped granite",
+   "A landslide strips a hillside all the way down to bare bedrock"
+  ],
+  "answer": 1,
+  "hint": "Find the one place where the soil is still there after the change.",
+  "explanation": "Correct: An abandoned farm field still has its soil (and seeds in it), so plants move back quickly. That is secondary succession. New lava rock, glacier-scraped granite, and bare bedrock have no soil, so life must start over with pioneers like lichens (primary succession). Secondary succession is faster because the soil is already there.",
+  "why_wrong": [
+   "New lava rock has no soil, so this would be primary succession.",
+   "",
+   "Glacier-scraped granite has no soil. This is the Yosemite example of primary succession.",
+   "Bare bedrock has no soil left, so succession would start over as primary succession."
+  ],
+  "trap": "Soil present = secondary; no soil = primary"
+ },
+ {
+  "id": "T5-03",
+  "topic": 5,
+  "subtopic": "Secondary succession after fire",
+  "review": "s5-secondary",
+  "source": "Ecological Succession: Life from Stone (secondary succession timeline); CZU Wildfires",
+  "level": "apply",
+  "figure": "secondary-succession",
+  "stem": "The 2020 CZU fire burned more than 97% of Big Basin, but the soil and the seed bank in it stayed in place. Using the secondary-succession timeline in the figure, which organisms would be the main <b>new arrivals</b> about 10 years after the fire?",
+  "choices": [
+   "Lichens on bare rock, because such a huge fire restarts primary succession",
+   "Shrubs and small trees, the mid-recovery stage",
+   "Large trees and apex predators of a climax forest",
+   "Grasses and wildflowers, the early-recovery pioneers"
+  ],
+  "answer": 3,
+  "hint": "Find '10 years' on the timeline. Also ask: did the soil stay or go?",
+  "explanation": "Correct: Because the soil stayed, Big Basin is going through secondary succession. On the class timeline, years 1–20 are early recovery, when grasses and wildflowers (the pioneers of secondary succession) move back in. Shrubs and small trees come in at about 20–150 years, and long-term (climax) recovery takes 150+ years.",
+  "why_wrong": [
+   "Even a huge fire did not remove the soil here. Soil and seed bank remained, so this is secondary succession. Lichens on bare rock belong to primary succession.",
+   "Shrubs and small trees are the mid-recovery stage, about 20–150 years after the fire. That is too late for year 10.",
+   "Climax (long-term) recovery takes 150+ years on the timeline, not 10.",
+   ""
+  ],
+  "trap": "Fire where soil remains = secondary, even if almost everything burned"
+ },
+ {
+  "id": "T5-04",
+  "topic": 5,
+  "subtopic": "Tertiary succession (Ms. Hero's term)",
+  "review": "s5-secondary",
+  "source": "Ecology Key Concepts review (Ms. Hero)",
+  "level": "apply",
+  "figure": null,
+  "stem": "A very severe fire is followed by heavy rain that washes nearly all the soil off a hillside. Crews then add topsoil, plant native seedlings, and lay straw to stop erosion. Using <b>Ms. Hero's definition</b>, which type of succession is this?",
+  "choices": [
+   "Tertiary — the soil was lost and humans are helping restore it",
+   "Secondary — a fire was the disturbance that started the change",
+   "No succession — people, not nature, are causing the change",
+   "Primary — lichens must first rebuild the soil from bare rock"
+  ],
+  "answer": 0,
+  "hint": "Two clues matter in Ms. Hero's definition: what happened to the soil, and who is doing the restoring?",
+  "explanation": "Correct: Ms. Hero defines tertiary succession as recovery where the soil is NOT intact and humans intervene to restore the ecosystem (adding soil, replanting, controlling erosion). This is her term, not a standard textbook term, so use her definition on the test. If the soil had stayed, it would be secondary; if the soil were gone and nature rebuilt it alone, it would be primary.",
+  "why_wrong": [
+   "",
+   "Fire does not automatically mean secondary succession. Secondary requires the soil to stay intact, and here it washed away.",
+   "Human-led restoration is exactly what Ms. Hero calls tertiary succession. The community still changes over time.",
+   "The crews added topsoil, so the hillside is not starting over from bare rock with lichens, and humans are stepping in to help."
+  ],
+  "trap": "Fire ≠ automatically secondary; soil lost + human restoration = tertiary (teacher's term)"
+ },
+ {
+  "id": "T5-05",
+  "topic": 5,
+  "subtopic": "Organisms in communities: pioneer vs. climax",
+  "review": "s5-organisms",
+  "source": "Ecological Succession: Life from Stone (primary succession timeline)",
+  "level": "apply",
+  "figure": "primary-succession",
+  "stem": "Use the primary-succession timeline in the figure. A spot in Yosemite has been developing for about 1,200 years. Compared with the pioneer stage, which description best fits this spot now?",
+  "choices": [
+   "Maximum sunlight reaches the ground, and tiny rock bits cover the surface",
+   "Gravelly, shallow soil covered mostly by grasses and wildflowers",
+   "Lichens and crevice plants are still the main organisms",
+   "Deep, rich soil, and little sunlight reaches the shaded ground"
+  ],
+  "answer": 3,
+  "hint": "Which stage does 1,200 years fall in? Then follow the arrow under the timeline for light and soil.",
+  "explanation": "Correct: At 1,000+ years the area is a climax community: large trees, tertiary consumers and apex predators, and deep, rich soil. The tall trees shade the ground, so ground-level light is at its lowest and sun-loving species die out. Over succession, soil depth and biodiversity increase while light at the ground decreases. The lichens have become 'retired pioneers' that were largely replaced.",
+  "why_wrong": [
+   "That describes the pioneer stage (0–150 years): bare granite breaking into tiny rock bits, with maximum light at the ground.",
+   "Gravelly, shallow soil with grasses and wildflowers is the early intermediate stage (150–500 years).",
+   "Lichens and crevice plants are pioneers. By the climax stage they are 'retired pioneers,' largely replaced by large trees.",
+   ""
+  ],
+  "trap": "Pioneer ≠ climax; ground light DECREASES as succession goes on"
+ },
+ {
+  "id": "T5-06",
+  "topic": 5,
+  "subtopic": "Crown & surface fires",
+  "review": "s5-fire",
+  "source": "Ecological Succession: Life from Stone (disturbance card)",
+  "level": "apply",
+  "figure": null,
+  "stem": "A disturbance card says: the fire burned dry needles and fallen branches on the forest floor, the tall tree canopy was barely touched, the soil stayed healthy, and seeds stored in the soil began to sprout. Which type of fire is described?",
+  "choices": [
+   "Crown fire — it spread from treetop to treetop through the canopy",
+   "Ground fire — it smoldered in roots and duff below the soil surface",
+   "Surface fire — it burned fuel on the forest floor and spared the canopy",
+   "Crown fire — it killed most tall trees and opened up the sky"
+  ],
+  "answer": 2,
+  "hint": "Where were the flames: in the treetops, on the forest floor, or underground?",
+  "explanation": "Correct: A surface fire burns low fuels on the forest floor (needles, fallen branches, grass, shrubs) and leaves tall tree crowns mostly untouched. It is usually low to moderate severity: it clears dead fuel, keeps the soil healthy, and lets the seed bank sprout, so fire does not always mean destruction. A crown fire burns through the treetops, spreads tree to tree, and kills most trees (high severity).",
+  "why_wrong": [
+   "A crown fire burns in the treetops, but the card says the canopy was barely touched.",
+   "A ground fire smolders in duff and roots below the surface and damages the soil. Here the soil stayed healthy and seeds sprouted.",
+   "",
+   "A crown fire does kill most tall trees, but the card says the tall canopy was barely touched."
+  ],
+  "trap": "Surface fire (forest floor) vs. crown fire (treetops)"
+ },
+ {
+  "id": "T5-07",
+  "topic": 5,
+  "subtopic": "Fire severity (vs. intensity)",
+  "review": "s5-fire",
+  "source": "CZU Wildfires (Big Basin) + Standard HS ecology",
+  "level": "apply",
+  "figure": null,
+  "stem": "After the CZU fire, scientists rated each part of Big Basin as low, moderate, or high <b>fire severity</b>. Which measurement would they use to decide an area's fire severity?",
+  "choices": [
+   "How much of the vegetation died and how much of the soil's organic layer burned",
+   "How hot the flames got and how much heat energy they released",
+   "How many lightning strikes started fires in that area",
+   "How many days the fire burned before firefighters contained it"
+  ],
+  "answer": 0,
+  "hint": "Severity is about the aftermath. What would you look at after the smoke clears?",
+  "explanation": "Correct: Fire severity is how much the fire changed the ecosystem — how much of the vegetation (trees, canopy, understory) was killed and how much of the soil's organic layer burned. Fire intensity is different: it is how much heat or energy the fire released. In Big Basin about 77% of the area burned at high severity (most of the canopy killed or scorched) — yet many old-growth redwoods still resprouted afterward.",
+  "why_wrong": [
+   "",
+   "Heat and energy released describe fire INTENSITY, not severity. A very hot fire usually, but not always, causes high severity.",
+   "The number of lightning strikes explains how the fires started, not how much they changed the ecosystem.",
+   "How long a fire burned is not how severity is rated. Severity is judged by the damage to plants and soil."
+  ],
+  "trap": "Severity (ecosystem damage) ≠ intensity (heat released)"
+ },
+ {
+  "id": "T5-08",
+  "topic": 5,
+  "subtopic": "Disturbances",
+  "review": "s5-fire",
+  "source": "Standard HS ecology; Creating Chains and Webs (disturbance cards)",
+  "level": "core",
+  "figure": null,
+  "stem": "A disturbance is an event that suddenly changes an ecosystem and can restart succession. Which list contains <b>only natural</b> disturbances?",
+  "choices": [
+   "Logging, farming, building roads",
+   "Lightning fire, clear-cut logging, hurricane",
+   "Flood, housing development, drought",
+   "Lightning fire, flood, volcanic eruption"
+  ],
+  "answer": 3,
+  "hint": "Check every item. One human-caused event makes the whole list wrong.",
+  "explanation": "Correct: Lightning fires (like the 2020 CZU Lightning Complex), floods, and volcanic eruptions happen without people. Logging, farming, roads, and housing development are human disturbances. Both kinds matter: disturbances can destroy or fragment habitat and reset succession, but some, like surface fires, also renew an ecosystem.",
+  "why_wrong": [
+   "All three are human disturbances, not natural ones.",
+   "Clear-cut logging is a human disturbance, so this list is not all natural.",
+   "Housing development is a human disturbance, so this list is not all natural.",
+   ""
+  ],
+  "trap": "Disturbances can be natural OR human-caused"
+ },
+ {
+  "id": "T5-09",
+  "topic": 5,
+  "subtopic": "Habitat fragmentation: same amount, different pattern",
+  "review": "s5-fragmentation",
+  "source": "Habitat Fragmentation Simulation",
+  "level": "apply",
+  "figure": "frag-patterns",
+  "stem": "Every grid in the figure has the same amount of forest: 50 gray cells out of 100. Which pattern is the <b>most fragmented</b>, making it the worst for a bird that needs large, connected blocks of forest?",
+  "choices": [
+   "A Checkerboard",
+   "D Four Areas",
+   "E Diamond",
+   "F Two Areas"
+  ],
+  "answer": 0,
+  "hint": "Fragmented means broken into many small, separated pieces. Which pattern breaks the forest into the smallest pieces?",
+  "explanation": "Correct: In the checkerboard, every forest cell is surrounded by meadow, so no two forest cells share a side. The forest is all edge and has no interior, which makes it the most fragmented pattern. Four Areas, Diamond, and Two Areas keep large connected blocks that interior-forest species need. Key idea: the same AMOUNT of forest can give very different habitat depending on its PATTERN.",
+  "why_wrong": [
+   "",
+   "Four Areas keeps the forest in two solid 5×5 blocks of 25 cells each, so some interior forest remains.",
+   "The Diamond is one large, connected central forest patch with plenty of interior cells.",
+   "Two Areas keeps all 50 forest cells in one big connected block. That is the best case for a forest-interior bird, not the worst."
+  ],
+  "trap": "Same total forest ≠ same habitat; pattern matters"
+ },
+ {
+  "id": "T5-10",
+  "topic": 5,
+  "subtopic": "Habitat fragmentation (simulation data)",
+  "review": "s5-fragmentation",
+  "source": "Habitat Fragmentation Simulation (Marbled Murrelet data)",
+  "level": "challenge",
+  "figure": null,
+  "stem": "In the Habitat Fragmentation Simulation, more and more forest cells became meadow. A student counted the cells still suitable for the Marbled Murrelet, a forest bird.<table class='qt'><tr><th>Forest cells left (of 100)</th><th>Suitable murrelet cells</th></tr><tr><td>90</td><td>90</td></tr><tr><td>80</td><td>79</td></tr><tr><td>60</td><td>55</td></tr><tr><td>40</td><td>24</td></tr><tr><td>20</td><td>4</td></tr></table>Which conclusion is <b>best</b> supported by the data?",
+  "choices": [
+   "Habitat fell at the same rate as forest, so only the amount of forest matters",
+   "Habitat rose, because more meadow made more edge for the murrelet to use",
+   "Habitat fell faster than forest: at 20 forest cells, only 4 (20%) were usable",
+   "Habitat stayed steady until the forest was almost completely gone"
+  ],
+  "answer": 2,
+  "hint": "Compare the two columns row by row. Does the gap between them stay the same or grow?",
+  "explanation": "Correct: At first, suitable habitat tracked the forest closely (80 forest cells → 79 suitable). As the forest shrank, suitable cells crashed: 40 → 24 (60%) and 20 → 4 (20%). The remaining forest was broken into small, scattered patches with lots of edge and little interior, which a forest-interior bird can't use. This is the habitat-fragmentation effect: habitat is lost AND broken apart.",
+  "why_wrong": [
+   "Early on the numbers are close (80 → 79), but later they split far apart: 20 forest cells gave only 4 suitable cells. Pattern matters, not just amount.",
+   "Suitable cells went DOWN at every step (90 → 4). The murrelet is a forest bird; the meadow species in the simulation was Say's Phoebe.",
+   "",
+   "Suitable habitat fell at every step, and it was down to 4 cells while 20 forest cells still remained."
+  ],
+  "trap": "Fragmentation shrinks usable habitat faster than area loss alone"
+ },
+ {
+  "id": "T5-11",
+  "topic": 5,
+  "subtopic": "CZU Lightning Complex & redwood fire adaptations",
+  "review": "s5-czu",
+  "source": "CZU Wildfires: The Biology of the CZU Lightning Complex & Big Basin Redwoods State Park",
+  "level": "core",
+  "figure": null,
+  "stem": "In August 2020, dry lightning started the CZU Lightning Complex, and more than 97% of Big Basin Redwoods State Park burned. Yet many old-growth coast redwoods survived and soon sprouted new green shoots. Which trait best explains this?",
+  "choices": [
+   "Resin-rich bark that coats the trunk and seals out the flames",
+   "Very thick bark (up to about 1 ft) plus buds that can resprout",
+   "Cones that stay sealed shut until the heat of a fire opens them",
+   "Needles kept so wet by coastal fog that they cannot catch fire"
+  ],
+  "answer": 1,
+  "hint": "Think about what protects the living layer just under the outside of a redwood trunk.",
+  "explanation": "Correct: Coast redwoods have bark up to about a foot thick that insulates the living tissue from heat, and they can resprout from dormant buds and burls even after their crowns burn. That is why many redwoods survived even though more than 97% of the park burned. Fire also creates tree cavities that animals use as homes, and prescribed fire can reduce fuel so future wildfires are less destructive.",
+  "why_wrong": [
+   "Resin is flammable, so it would feed a fire, not stop it. Redwood bark actually has very little resin.",
+   "",
+   "Sealed cones that open with fire heat belong to knobcone pines. They help a pine reseed; they don't keep a redwood trunk alive.",
+   "Many redwood crowns did burn in 2020, so fog-wet needles didn't stop the fire. Thick bark and resprouting explain survival."
+  ],
+  "trap": "Redwood survival = thick bark + resprouting (not sealed cones)"
+ },
+ {
+  "id": "T6-01",
+  "topic": 6,
+  "subtopic": "Richness",
+  "review": "s6-richeven",
+  "source": "Sampling Diversity",
+  "level": "core",
+  "figure": null,
+  "stem": "In the Sampling Diversity lesson, rainforests were described as 'very rich.' What does high species <b>richness</b> mean?",
+  "choices": [
+   "The area contains a large number of different species",
+   "Each species in the area has about the same number of individuals",
+   "One species makes up most of the individuals in the area",
+   "The soil in the area holds a large amount of nutrients"
+  ],
+  "answer": 0,
+  "hint": "Richness is a count, but a count of what?",
+  "explanation": "Correct: Species richness is the number of different species in an area. Rainforests have huge numbers of different species, so they are very rich. Evenness is a different measure: how similar the numbers of each species are. Richness and evenness are both parts of biodiversity.",
+  "why_wrong": [
+   "",
+   "Similar numbers of each species describes high EVENNESS, not richness.",
+   "One species dominating describes LOW evenness (like a grass lawn), not richness.",
+   "'Rich' here means many species, not nutrient-rich soil."
+  ],
+  "trap": "Richness (number of species) ≠ evenness"
+ },
+ {
+  "id": "T6-02",
+  "topic": 6,
+  "subtopic": "Richness/Evenness (fields of mice)",
+  "review": "s6-richeven",
+  "source": "Sampling Diversity (fields of 16 mice)",
+  "level": "apply",
+  "figure": "fields-mice",
+  "stem": "Each field in the figure has 16 mice. Which field has <b>both</b> high species richness <b>and</b> high evenness?",
+  "choices": [
+   "Field W",
+   "Field X",
+   "Field Y",
+   "Field Z"
+  ],
+  "answer": 3,
+  "hint": "First count the species in each field (richness). Then check whether the species have similar counts (evenness).",
+  "explanation": "Correct: Field Z has 4 species with 4 mice each: the most species of any field AND perfectly equal numbers. Field Y also has 4 species but is very uneven (13, 1, 1, 1). Field X is perfectly even but has only 2 species. Field W has just 1 species, so it is neither rich nor even.",
+  "why_wrong": [
+   "All 16 mice in Field W are one species, so it is neither rich nor even.",
+   "Field X is perfectly even (8 and 8), but with only 2 species its richness is low.",
+   "Field Y has 4 species (rich), but one species has 13 of the 16 mice, so it is very uneven.",
+   ""
+  ],
+  "trap": "Richness ≠ evenness; you need both for high diversity"
+ },
+ {
+  "id": "T6-03",
+  "topic": 6,
+  "subtopic": "Richness/Evenness (comparing fields)",
+  "review": "s6-richeven",
+  "source": "Sampling Diversity (fields of 16 mice)",
+  "level": "challenge",
+  "figure": "fields-mice",
+  "stem": "Compare <b>Field X</b> and <b>Field Y</b> in the figure (16 mice each). Which statement is correct?",
+  "choices": [
+   "Field Y has greater richness, but Field X has greater evenness",
+   "Field Y has greater richness and greater evenness than Field X",
+   "They have equal richness, because each field has 16 mice",
+   "Field X has greater richness, because each species has more mice"
+  ],
+  "answer": 0,
+  "hint": "Answer two separate questions: Which field has more species? Which field's species counts are closer to equal?",
+  "explanation": "Correct: Field Y has 4 species and Field X has 2, so Y is richer. But Field X's two species are equal (8 and 8), while Field Y is dominated by one species (13, 1, 1, 1), so X is more even. A community can be rich but uneven, or even but not rich. They are separate measures.",
+  "why_wrong": [
+   "",
+   "Y is richer, but one species has 13 of its 16 mice, so Y is very uneven. X (8 and 8) is more even.",
+   "Richness counts different SPECIES, not total individuals. X has 2 species; Y has 4.",
+   "More mice per species is about abundance, not richness. Y has more species (4 vs. 2)."
+  ],
+  "trap": "Richness = number of species, not number of individuals"
+ },
+ {
+  "id": "T6-04",
+  "topic": 6,
+  "subtopic": "Relative abundance (grass lawn)",
+  "review": "s6-relabund",
+  "source": "Sampling Diversity",
+  "level": "challenge",
+  "figure": null,
+  "stem": "A student samples a 1 m² patch of lawn.<table class='qt'><tr><th>Species</th><th>Number of individuals</th></tr><tr><td>Grass</td><td>180</td></tr><tr><td>Clover</td><td>12</td></tr><tr><td>Dandelion</td><td>6</td></tr><tr><td>Plantain</td><td>2</td></tr></table>What is the relative abundance of grass, and what does it show about the lawn?",
+  "choices": [
+   "0.25 (25%) — each of the 4 species is one-fourth, so the lawn is even",
+   "0.90 (90%) — one species dominates, so the lawn has low evenness",
+   "0.90 (90%) — most plants are alike, so the lawn has high evenness",
+   "180 — the lawn has so many plants that it has high richness"
+  ],
+  "answer": 1,
+  "hint": "Relative abundance is about individuals, not species. Add the whole column before you divide.",
+  "explanation": "Correct: Total = 180 + 12 + 6 + 2 = 200 plants. Relative abundance of grass = 180 ÷ 200 = 0.90 (90%). When one species makes up 90% of a community, the community is very uneven. That is why Ms. Hero calls a grass lawn 'very uneven.'",
+  "why_wrong": [
+   "0.25 comes from 1 species ÷ 4 species. Relative abundance uses numbers of individuals (180 ÷ 200), not the number of species.",
+   "",
+   "The math (0.90) is right, but one species making up 90% means LOW evenness, not high.",
+   "180 is just the count of grass, not a proportion of the total. And many individuals ≠ high richness; there are only 4 species."
+  ],
+  "trap": "Relative abundance = individuals of one species ÷ total individuals (not species ÷ species)"
+ },
+ {
+  "id": "T6-05",
+  "topic": 6,
+  "subtopic": "Relative abundance (calculation)",
+  "review": "s6-relabund",
+  "source": "Sampling Diversity (Community A table)",
+  "level": "challenge",
+  "figure": null,
+  "stem": "Here is the sample for Community A from the Sampling Diversity lab.<table class='qt'><tr><th>Species</th><th>Number of individuals</th></tr><tr><td>A</td><td>10</td></tr><tr><td>B</td><td>125</td></tr><tr><td>C</td><td>3</td></tr><tr><td>D</td><td>23</td></tr><tr><td>E</td><td>39</td></tr></table>What is the relative abundance of species D?",
+  "choices": [
+   "0.200",
+   "0.230",
+   "0.115",
+   "8.70"
+  ],
+  "answer": 2,
+  "hint": "Relative abundance compares one species to the whole sample. Start by finding the total number of individuals.",
+  "explanation": "Correct: Total = 10 + 125 + 3 + 23 + 39 = 200 individuals. Relative abundance of species D = 23 ÷ 200 = 0.115 (11.5%). This matches the class table, where species D ranks 3rd in Community A.",
+  "why_wrong": [
+   "0.200 is 1 species ÷ 5 species. Relative abundance uses numbers of individuals, not the number of species.",
+   "0.230 is 23 ÷ 100. Community A's total is 200 individuals, not 100.",
+   "",
+   "8.70 is 200 ÷ 23, which is upside down. Put the one species on top and the total on the bottom."
+  ],
+  "trap": "Divide individuals of ONE species by the TOTAL (right total, right order)"
+ },
+ {
+  "id": "T6-06",
+  "topic": 6,
+  "subtopic": "Richness (Communities A, B, C)",
+  "review": "s6-richeven",
+  "source": "Sampling Diversity (Community A/B/C tables)",
+  "level": "apply",
+  "figure": null,
+  "stem": "Species (letters) and numbers of individuals sampled in three communities:<table class='qt'><tr><th>Community A</th><th>Community B</th><th>Community C</th></tr><tr><td>A: 10</td><td>A: 10</td><td>A: 12</td></tr><tr><td>B: 125</td><td>E: 35</td><td>B: 1</td></tr><tr><td>C: 3</td><td>F: 8</td><td>C: 5</td></tr><tr><td>D: 23</td><td>G: 18</td><td>D: 31</td></tr><tr><td>E: 39</td><td>H: 29</td><td>E: 21</td></tr><tr><td></td><td></td><td>F: 4</td></tr><tr><td></td><td></td><td>G: 9</td></tr><tr><td></td><td></td><td>H: 8</td></tr><tr><td></td><td></td><td>I: 2</td></tr><tr><td></td><td></td><td>J: 2</td></tr><tr><th>Total: 200</th><th>Total: 100</th><th>Total: 95</th></tr></table>Which statement about species <b>richness</b> is correct?",
+  "choices": [
+   "A is richest, because it has the most individuals (200)",
+   "B is richest, because its species have the most similar numbers",
+   "C is least rich, because it has the fewest individuals (95)",
+   "C is richest (10 species); A and B are tied (5 species each)"
+  ],
+  "answer": 3,
+  "hint": "Richness and the total number of individuals are not the same thing.",
+  "explanation": "Correct: Richness is the number of different species. Community C has 10 species (A–J), while A and B each have 5, so A and B are equally rich and C is the richest. The totals (200, 100, 95) don't matter for richness. Note: B is more even than A, but evenness is a different measure.",
+  "why_wrong": [
+   "The total number of individuals is abundance, not richness. Community A has only 5 species.",
+   "Similar numbers describe EVENNESS. B is more even than A, but it still has only 5 species.",
+   "C has the fewest individuals but the MOST species (10). Richness counts species, not individuals.",
+   ""
+  ],
+  "trap": "Richness counts species, not individuals; richness ≠ evenness"
+ },
+ {
+  "id": "T6-07",
+  "topic": 6,
+  "subtopic": "Evenness (Community A vs. B)",
+  "review": "s6-richeven",
+  "source": "Sampling Diversity (Community A/B tables)",
+  "level": "apply",
+  "figure": "community-bars",
+  "stem": "The figure shows the relative abundance of each species in Community A and Community B. Both communities have 5 species. Which community is more <b>even</b>, and why?",
+  "choices": [
+   "Community A, because it has twice as many individuals (200 vs. 100)",
+   "Community B, because its relative abundances are closer to one another",
+   "Neither — both have 5 species, so their evenness is the same",
+   "Community A, because its top species has the highest relative abundance (0.625)"
+  ],
+  "answer": 1,
+  "hint": "An even community has bars of similar length. Which chart's bars are closer to the same length?",
+  "explanation": "Correct: In Community B the shares range from 0.08 to 0.35, fairly close together. In Community A one species makes up 0.625 (62.5%) while another is only 0.015, so A is dominated by one species and is uneven. Same richness does not mean same evenness, and B is the more diverse community of the two.",
+  "why_wrong": [
+   "The number of individuals doesn't measure evenness. Evenness compares how similar the species' shares are.",
+   "",
+   "Equal richness (5 species each) does not mean equal evenness. That is the point of this comparison.",
+   "One species having 0.625 means it DOMINATES the community, which makes A LESS even, not more."
+  ],
+  "trap": "Same richness ≠ same evenness; one dominant species = low evenness"
+ },
+ {
+  "id": "T6-08",
+  "topic": 6,
+  "subtopic": "Biodiversity (why it matters)",
+  "review": "s6-biodiversity",
+  "source": "Sampling Diversity; Ecology Key Concepts review (Ms. Hero)",
+  "level": "apply",
+  "figure": null,
+  "stem": "Foxes in Forest 1 can eat 3 prey species. Foxes in Forest 2 can eat 15 prey species. A disease wipes out one prey species in each forest. Why are Forest 2's foxes more likely to be fine?",
+  "choices": [
+   "Biodiversity keeps diseases and other disturbances from happening",
+   "Forest 2 must also have more foxes, so some are sure to survive",
+   "Forest 2's foxes have more other prey to eat if one species is lost",
+   "Forest 2 is a climax community, so its populations can't change"
+  ],
+  "answer": 2,
+  "hint": "Think about the foxes' menu. What happens to a predator with few food choices when one choice disappears?",
+  "explanation": "Correct: Higher biodiversity usually means more resilience and stability. With 15 prey species, Forest 2's foxes have many other food sources (backup, or redundancy, in the food web), so losing one prey species barely changes their food supply. In Forest 1, losing 1 of only 3 prey species removes a third of the menu, and the disruption ripples through the food web.",
+  "why_wrong": [
+   "Biodiversity doesn't stop disturbances from happening. The disease hit both forests; biodiversity helps an ecosystem absorb and recover from it.",
+   "More prey SPECIES doesn't mean more foxes. The advantage is more food choices, not more predators.",
+   "",
+   "Nothing says Forest 2 is a climax community, and even climax communities change after disturbances."
+  ],
+  "trap": "Biodiversity = resilience through backup food sources, not immunity to disturbance"
+ }
+]

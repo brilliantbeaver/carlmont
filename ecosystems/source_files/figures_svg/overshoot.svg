@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" width="100%" role="img" aria-label="Graph of population size versus time. The population rises steeply (marker 2), shoots far above a dashed horizontal line (marker 3) to a big peak (marker 1), falls sharply below the line (marker 4), rises again after the lowest point (marker 5), then smaller ups and downs settle onto the dashed line." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title>Population overshoot graph with numbered markers 1 to 5</title>
+<defs><marker id="overshoot-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker></defs>
+<line x1="72" y1="372" x2="72" y2="34" stroke="#1f2937" stroke-width="2" marker-end="url(#overshoot-arrow)"/>
+<line x1="72" y1="372" x2="704" y2="372" stroke="#1f2937" stroke-width="2" marker-end="url(#overshoot-arrow)"/>
+<text x="34" y="212" font-size="15" text-anchor="middle" font-weight="600" fill="#1f2937" transform="rotate(-90 34 212)">Population size</text>
+<text x="381" y="404" font-size="15" text-anchor="middle" font-weight="600" fill="#1f2937">Time</text>
+<line x1="72" y1="228" x2="690" y2="228" stroke="#c53030" stroke-width="2.2" stroke-dasharray="9 6"/>
+<path d="M72,360.8C92.6,360.1 113.2,359.1 133.8,356.4C150.3,354.3 166.8,351.1 183.2,344.5C195.6,339.5 208,332.6 220.3,321.1C230.6,311.5 240.9,298.7 251.2,279.4C259.5,264 267.7,244.3 275.9,217.3C282.1,197 288.3,172.5 294.5,141.6C304.8,90.1 315.1,77.6 325.4,77.6C349.1,77.6 372.8,333.6 396.4,333.6C417.1,333.6 437.6,172 458.2,172C477.8,172 497.4,255.2 517,255.2C534.5,255.2 552,207.2 569.5,207.2C584.9,207.2 600.4,237.6 615.8,237.6C629.2,237.6 642.6,224.2 656,224.2C667.3,224.2 678.7,228 690,228" fill="none" stroke="#3182ce" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="325.4" cy="53.6" r="12" fill="#ffffff" stroke="#1f2937" stroke-width="2"/><text x="325.4" y="58.6" font-size="15" text-anchor="middle" font-weight="700" fill="#1f2937">1</text>
+<circle cx="231.4" cy="267" r="12" fill="#ffffff" stroke="#1f2937" stroke-width="2"/><text x="231.4" y="272" font-size="15" text-anchor="middle" font-weight="700" fill="#1f2937">2</text>
+<circle cx="98" cy="228" r="12" fill="#ffffff" stroke="#1f2937" stroke-width="2"/><text x="98" y="233" font-size="15" text-anchor="middle" font-weight="700" fill="#1f2937">3</text>
+<circle cx="368.9" cy="120.8" r="12" fill="#ffffff" stroke="#1f2937" stroke-width="2"/><text x="368.9" y="125.8" font-size="15" text-anchor="middle" font-weight="700" fill="#1f2937">4</text>
+<circle cx="443.1" cy="292.1" r="12" fill="#ffffff" stroke="#1f2937" stroke-width="2"/><text x="443.1" y="297.1" font-size="15" text-anchor="middle" font-weight="700" fill="#1f2937">5</text>
+</svg>

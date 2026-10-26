@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 392" width="100%" role="img" aria-label="Blank graph frame explaining DRY MIX. Y-axis labeled DRY: Dependent / Responding variable, Y-axis, what you MEASURE. X-axis labeled MIX: Manipulated / Independent variable, X-axis, what you CHANGE. Example inset: Bean simulation, x = Time (years), y = Rabbit population. Reminder: Title = DV vs. IV; label axes with units." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#1f2937">
+<title>DRY MIX: dependent variable on the y-axis, independent variable on the x-axis</title>
+<defs>
+<marker id="drymix-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker>
+</defs>
+<text x="360" y="28" font-size="17" font-weight="bold" text-anchor="middle">DRY MIX: which variable goes on which axis?</text>
+<line x1="132" y1="269.6" x2="456" y2="269.6" stroke="#e5e7eb"/>
+<line x1="132" y1="221.2" x2="456" y2="221.2" stroke="#e5e7eb"/>
+<line x1="132" y1="172.8" x2="456" y2="172.8" stroke="#e5e7eb"/>
+<line x1="132" y1="124.4" x2="456" y2="124.4" stroke="#e5e7eb"/>
+<line x1="132" y1="76" x2="456" y2="76" stroke="#e5e7eb"/>
+<line x1="186" y1="76" x2="186" y2="318" stroke="#e5e7eb"/>
+<line x1="240" y1="76" x2="240" y2="318" stroke="#e5e7eb"/>
+<line x1="294" y1="76" x2="294" y2="318" stroke="#e5e7eb"/>
+<line x1="348" y1="76" x2="348" y2="318" stroke="#e5e7eb"/>
+<line x1="402" y1="76" x2="402" y2="318" stroke="#e5e7eb"/>
+<line x1="456" y1="76" x2="456" y2="318" stroke="#e5e7eb"/>
+<line x1="132" y1="318" x2="132" y2="66" stroke="#1f2937" stroke-width="2.2" marker-end="url(#drymix-arrow)"/>
+<line x1="132" y1="318" x2="470" y2="318" stroke="#1f2937" stroke-width="2.2" marker-end="url(#drymix-arrow)"/>
+<text x="307" y="68" font-size="13" fill="#6b7280" text-anchor="middle" font-style="italic">Title: DV vs. IV</text>
+<text x="70" y="192" font-size="14" xml:space="preserve" text-anchor="middle" transform="rotate(-90 70 192)"><tspan font-weight="bold" fill="#2f855a">DRY: </tspan><tspan font-weight="bold" fill="#2f855a">D</tspan><tspan>ependent / </tspan><tspan font-weight="bold" fill="#2f855a">R</tspan><tspan>esponding variable</tspan></text>
+<text x="92" y="192" font-size="14" xml:space="preserve" text-anchor="middle" transform="rotate(-90 92 192)"><tspan font-weight="bold" fill="#2f855a">Y</tspan><tspan>-axis (what you </tspan><tspan font-weight="bold">MEASURE</tspan><tspan>)</tspan></text>
+<text x="301" y="348" font-size="14" xml:space="preserve" text-anchor="middle"><tspan font-weight="bold" fill="#6b46c1">MIX: </tspan><tspan font-weight="bold" fill="#6b46c1">M</tspan><tspan>anipulated / </tspan><tspan font-weight="bold" fill="#6b46c1">I</tspan><tspan>ndependent variable</tspan></text>
+<text x="301" y="368" font-size="14" xml:space="preserve" text-anchor="middle"><tspan font-weight="bold" fill="#6b46c1">X</tspan><tspan>-axis (what you </tspan><tspan font-weight="bold">CHANGE</tspan><tspan>)</tspan></text>
+<rect x="500" y="62" width="206" height="196" rx="8" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1.2"/>
+<text x="514" y="84" font-size="13" font-weight="bold" fill="#3182ce">Example</text>
+<text x="514" y="103" font-size="13" font-weight="bold">Bean simulation:</text>
+<text x="514" y="122" font-size="13" xml:space="preserve"><tspan font-weight="bold" fill="#6b46c1">x</tspan><tspan> = Time (years)</tspan></text>
+<text x="514" y="140" font-size="13" xml:space="preserve"><tspan font-weight="bold" fill="#2f855a">y</tspan><tspan> = Rabbit population</tspan></text>
+<path d="M546,238 V156 M546,238 H688" stroke="#1f2937" stroke-width="1.4" fill="none"/>
+<polyline points="552,213.62 568.5,205.82 585,195.1 601.5,175.6 618,192.18 634.5,166.82 651,184.38 667.5,189.25 684,185.35" fill="none" stroke="#3182ce" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="617" y="252" font-size="11" fill="#6b7280" text-anchor="middle">Time (years)</text>
+<text x="538" y="197" font-size="11" fill="#6b7280" text-anchor="middle" transform="rotate(-90 538 197)">Rabbits</text>
+<rect x="500" y="272" width="206" height="96" rx="8" fill="#fffaf0" stroke="#d69e2e" stroke-width="1.4"/>
+<text x="514" y="294" font-size="13" font-weight="bold" fill="#8b5e34">Remember:</text>
+<text x="514" y="314" font-size="13" xml:space="preserve"><tspan font-weight="bold">Title</tspan><tspan> = DV vs. IV;</tspan></text>
+<text x="514" y="333" font-size="13">label axes with units.</text>
+<text x="514" y="355" font-size="11.5" fill="#6b7280" font-style="italic">e.g., Rabbit population vs. Time</text>
+</svg>

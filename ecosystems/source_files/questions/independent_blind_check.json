@@ -1,0 +1,608 @@
+[
+ {
+  "id": "T1-01",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T1-02",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T1-03",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T1-04",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T1-05",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T1-06",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T1-07",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-01",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-02",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-03",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-04",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-05",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-06",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-07",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-08",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-09",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T2-10",
+  "answer": "C",
+  "confidence": "high",
+  "flag": "(c) Biology nuance: bees do not feed on grass (grasses are wind-pollinated), so 'overgrazed grass -> fewer hives' is a Gizmo shortcut a sharp student may question. Fix: word the chain as 'more deer -> overgrazed grass and flowering plants -> fewer hives' (same tweak for M-21 B 'grass and bees recover')."
+ },
+ {
+  "id": "T7-01",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T7-02",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T7-03",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T7-04",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T7-05",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-01",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-02",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-03",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-04",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-05",
+  "answer": "C",
+  "confidence": "medium",
+  "flag": "(d) Figure/key tension: redwood-web puts the puma inside the band labeled 'Tertiary consumers (trophic level 4)', which literally supports distractor A ('always tertiary because it sits in the top row'). Keyed idea (secondary when eating deer, tertiary when eating fox) is right, but the figure contradicts it. Fix: relabel the top band 'Top consumers (level 3-4)' or add a note on the puma box: 'level 3 when eating deer, level 4 when eating fox/bobcat'."
+ },
+ {
+  "id": "T3-06",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-07",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-08",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-09",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T3-10",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-01",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-02",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-03",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-04",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-05",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-06",
+  "answer": "C",
+  "confidence": "high",
+  "flag": "(d) Minor figure issue: marker 2 ('exponential growth') sits beside the steep rise where the curve is already above the dashed K line, which puts 'exponential growth' visually inside the overshoot zone. Answer C is still clear. Fix: move marker 2 down to the steep part of the curve below line 3."
+ },
+ {
+  "id": "T4-07",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-08",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-09",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-10",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T4-11",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-01",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-02",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-03",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-04",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-05",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-06",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-07",
+  "answer": "A",
+  "confidence": "high",
+  "flag": "(e)+(d) The fire-severity figure has a SEVERITY vs INTENSITY definition box that states the answer outright, so the item only tests reading the figure. The figure also says high severity = 'Most trees killed' while reporting Big Basin as ~77% high severity, which clashes with T5-11/M-14 ('many old-growth redwoods survived'). The 77% mapping measured canopy loss, not tree death. Fix: drop the definition box for this item (or ask an application question), and change 'Most trees killed' to 'Most canopy burned' plus a footnote that many redwoods resprouted."
+ },
+ {
+  "id": "T5-08",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-09",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-10",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T5-11",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T6-01",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T6-02",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T6-03",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T6-04",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T6-05",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T6-06",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T6-07",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T6-08",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T8-01",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T8-02",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T8-03",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T8-04",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T8-05",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T8-06",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T8-07",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T9-01",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T9-02",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T9-03",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T9-04",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T9-05",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T9-06",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "T9-07",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-01",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-02",
+  "answer": "B",
+  "confidence": "high",
+  "flag": "Near-duplicate of T1-02: the same three items (aquifers, soil moisture, snow/glaciers) and the same answer (hydrosphere). Fix: replace it with a different sphere item, e.g. a two-sphere interaction or classifying permafrost/water vapor, or drop it."
+ },
+ {
+  "id": "M-03",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-04",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-05",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-06",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-07",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-08",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-09",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-10",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-11",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-12",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-13",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-14",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-15",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-16",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-17",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-18",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-19",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-20",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-21",
+  "answer": "B",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-22",
+  "answer": "A",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-23",
+  "answer": "C",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-24",
+  "answer": "D",
+  "confidence": "high",
+  "flag": null
+ },
+ {
+  "id": "M-25",
+  "answer": "B",
+  "confidence": "high",
+  "flag": "Near-duplicate of T8-06/T8-07: same fire-trend graph, and distractors C (climate change proves cause) and D (2017 highest) repeat the T8-07 key and the T8-06 distractor. A student who has done T8-06/T8-07 gets this one for free. Fix: ask something new, e.g. the 2007 vs 2017 change, the range, or which years fall below the trendline."
+ }
+]

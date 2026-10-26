@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ecosystems Unit — Study Guide &amp; Practice</title>
+<meta name="description" content="Interactive study guide and practice questions for a high-school ECOSYSTEMS unit test.">
+<style>
+{{CSS}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="app">
+  <div class="hwrap">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">🌲</span>
+      <div class="titles"><h1>Ecosystems Unit Test Prep</h1><span class="sub">Ms. Hero · 25 multiple-choice · 30 min</span></div>
+      <span class="pill">Offline · private · no login</span>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Main sections">
+      <button data-tab="home" role="tab" aria-selected="true"><span class="ico">🏠</span>Home</button>
+      <button data-tab="study" role="tab"><span class="ico">📖</span><span class="step">1</span>Learn</button>
+      <button data-tab="practice" role="tab"><span class="ico">✏️</span><span class="step">2</span>Practice</button>
+      <button data-tab="mock" role="tab"><span class="ico">⏱</span><span class="step">3</span>Mock Test</button>
+      <button data-tab="results" role="tab"><span class="ico">📊</span><span class="step">4</span>My Results<span class="count" id="missedcount" style="display:none" title="questions to retry">0</span></button>
+      <button data-tab="review" role="tab"><span class="ico">⚡</span>Quick Review</button>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div id="errbar" role="alert"></div>
+
+  <!-- ================= HOME ================= -->
+  <section class="tab active" id="tab-home">
+    <div class="hero panel">
+      <div>
+        <p class="eyebrow">ECOSYSTEMS · Unit test study guide</p>
+        <p class="big">Learn it, practice it, test yourself, fix what you missed.</p>
+        <p class="lead">Built from Ms. Hero's review guide and <b>your own class handouts</b>. {{NQ}} practice questions with hints and step-by-step explanations, plus a full 25-question mock test.</p>
+        <div class="row" id="home-cta"></div>
+      </div>
+      <div class="statgrid" id="home-stats"></div>
+    </div>
+
+    <h2 class="sect-title">Your study path</h2>
+    <div class="path" id="home-path"></div>
+
+    <h2 class="sect-title">The 9 topics on your test</h2>
+    <p class="sect-sub">Each card lists the items from Ms. Hero's checklist. Know each one's <b>definition</b>, its <b>importance</b>, and how to <b>spot it in context</b>.</p>
+    <div class="topicgrid" id="home-topics"></div>
+
+    <div class="grid2" style="margin-top:22px">
+      <div class="panel content">
+{{HOME}}
+      </div>
+      <div>
+        <div class="panel content">
+          <h3 id="home-legend" style="margin-top:0">How to read the study guide</h3>
+          <div class="legend">
+            <div class="callout know"><p>The 1–2 sentences you must know.</p></div>
+            <div class="callout handout"><p>What your class handouts said — likely test material.</p></div>
+            <div class="callout trap"><p>A mix-up the test is designed to catch.</p></div>
+            <div class="callout tip"><p>A strategy for answering multiple-choice questions.</p></div>
+            <div class="callout model"><p>Worked answers to handout and CER questions.</p></div>
+          </div>
+        </div>
+        <div class="panel content">
+          <h3 id="home-hosting" style="margin-top:0">For parents &amp; teachers</h3>
+          <p style="font-size:14.5px">This is one self-contained file — no internet, logins, or tracking. Copy <b>Ecosystems_Study_Guide.html</b> to the Chromebook (Files › My files › Downloads) and open it in Chrome, or upload it to a free static host (Netlify Drop, GitHub Pages) for a shareable link. Step-by-step instructions are in <b>HOW_TO_HOST_AND_USE.md</b>; a printable version is <b>Ecosystems_Study_Guide_Print.pdf</b>.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= LEARN ================= -->
+  <section class="tab" id="tab-study">
+    <div class="study">
+      <nav class="toc" aria-label="Study guide topics">
+        <div class="ttl">Topics</div>
+{{TOC}}
+        <div class="ttl" style="margin-top:12px">Quick review</div>
+        <a class="tocl t" href="#glossary">🔤 Glossary of key terms</a>
+        <a class="tocl t" href="#traps">⚠️ Common traps</a>
+        <a class="tocl t" href="#card">🗂 Index card model</a>
+      </nav>
+      <div class="studymain">
+        <select class="tocsel" id="tocsel" aria-label="Jump to a topic or section">{{TOCSEL}}</select>
+        <div class="content">
+{{STUDY}}
+        </div>
+      </div>
+    </div>
+    <button id="totop" class="btn ghost small noprint" title="Back to top of topic">↑ Top</button>
+  </section>
+
+  <!-- ================= PRACTICE / MOCK / RESULTS ================= -->
+  <section class="tab" id="tab-practice"><div id="practice-root"></div></section>
+  <section class="tab" id="tab-mock"><div id="mock-root"></div></section>
+  <section class="tab" id="tab-results"><div id="results-root"></div></section>
+
+  <!-- ================= QUICK REVIEW ================= -->
+  <section class="tab" id="tab-review">
+    <div class="seg noprint" role="tablist" aria-label="Quick review">
+      <button data-pane="glossary" aria-selected="true">🔤 Glossary</button>
+      <button data-pane="traps" aria-selected="false">⚠️ Common Traps</button>
+      <button data-pane="card" aria-selected="false">🗂 Index Card</button>
+    </div>
+    <div class="pane active" id="pane-glossary">
+      <div class="panel content">
+        <h2 id="glossary" style="margin-top:0">Glossary of key terms</h2>
+        <p style="margin-top:0">Every term on the test checklist, in one line. Type to search, or filter by topic. Click <b>Learn more</b> to open the section.</p>
+        <div class="glos-tools noprint">
+          <input type="search" id="glos-q" placeholder="Search terms… (e.g., evenness, crown fire, DRY MIX)" aria-label="Search glossary">
+          <div class="chips" id="glos-chips"></div>
+        </div>
+        <div id="glos-list"></div>
+      </div>
+    </div>
+    <div class="pane" id="pane-traps">
+      <div class="content panel">
+{{TRAPS}}
+      </div>
+    </div>
+    <div class="pane" id="pane-card">
+      <div class="content">
+{{CARD}}
+        <div class="row noprint" style="justify-content:center;margin-top:8px"><button class="btn secondary" onclick="window.print()">🖨 Print this card model</button></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="app">
+  Built from Ms. Hero's ECOSYSTEMS Assessment Review Guide, the unit review notes, and class handouts (Earth Systems organizer, Creating Chains &amp; Webs, Limiting Factors &amp; Carrying Capacity, Gizmos Ecosystems handbook &amp; Atlas NP case, Life from Stone, Sampling Diversity, Carrying Capacity &amp; Habitat Fragmentation simulations, CZU/Big Basin). Graphs marked "practice data — illustrative" are not real records. Facts checked October 2026.
+</footer>
+
+<button id="backbtn" class="btn blue">↩ Back to my question</button>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script>
+{{DATA}}
+</script>
+{{SELFTEST}}
+<script>
+{{JS}}
+</script>
+</body>
+</html>

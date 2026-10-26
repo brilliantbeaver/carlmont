@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 462" width="100%" role="img" aria-label="Chart of species interactions with plus, zero, and minus symbols for species 1 and species 2. Mutualism (plus / plus): bee and flower, both benefit. Commensalism (plus / zero): barnacle on whale, barnacle benefits and whale is not affected. Parasitism (plus / minus): tick on deer, tick benefits and deer is harmed. Predation (plus / minus): mountain lion and deer, predator kills prey. Competition (minus / minus): both species are harmed. Legend: plus = benefits, zero = not affected, minus = harmed." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title>Symbiosis and other species interactions: mutualism, commensalism, parasitism, predation, competition</title>
+  <defs>
+    <clipPath id="symbiosis-chart-bee-clip">
+      <ellipse cx="160" cy="112" rx="14" ry="9"/>
+    </clipPath>
+  </defs>
+
+  <!-- ===== group header: symbiosis ===== -->
+  <text x="12" y="20" font-size="14" font-weight="700" fill="#1f2937">SYMBIOSIS <tspan font-weight="400" fill="#6b7280">– a close, long-term relationship between two species</tspan></text>
+
+  <!-- ===================== MUTUALISM ===================== -->
+  <rect x="12" y="30" width="224" height="234" rx="10" fill="#ffffff" stroke="#2f855a" stroke-width="2"/>
+  <path d="M12,60 V40 Q12,30 22,30 H226 Q236,30 236,40 V60 Z" fill="#2f855a" stroke="#2f855a" stroke-width="2"/>
+  <text x="124" y="51" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">MUTUALISM  (+ / +)</text>
+  <text x="124" y="80" font-size="13" text-anchor="middle" fill="#1f2937">Both species benefit</text>
+  <!-- flower -->
+  <line x1="88" y1="160" x2="88" y2="120" stroke="#2f855a" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="97" cy="146" rx="9" ry="4" fill="#2f855a" transform="rotate(-30 97 146)"/>
+  <g fill="#6b46c1">
+    <circle cx="88" cy="104" r="8"/>
+    <circle cx="96.6" cy="110.2" r="8"/>
+    <circle cx="93.3" cy="120.3" r="8"/>
+    <circle cx="82.7" cy="120.3" r="8"/>
+    <circle cx="79.4" cy="110.2" r="8"/>
+  </g>
+  <circle cx="88" cy="113" r="5.5" fill="#d69e2e"/>
+  <!-- flight path -->
+  <path d="M140,122 Q124,138 106,126" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <!-- bee -->
+  <ellipse cx="157" cy="101" rx="5.5" ry="9" fill="#bee3f8" stroke="#3182ce" stroke-width="1" transform="rotate(-25 157 101)"/>
+  <ellipse cx="166" cy="101" rx="5.5" ry="9" fill="#bee3f8" stroke="#3182ce" stroke-width="1" transform="rotate(25 166 101)"/>
+  <ellipse cx="160" cy="112" rx="14" ry="9" fill="#d69e2e"/>
+  <g clip-path="url(#symbiosis-chart-bee-clip)" fill="#1f2937">
+    <rect x="155" y="100" width="4" height="24"/>
+    <rect x="163" y="100" width="4" height="24"/>
+  </g>
+  <path d="M174,112 L180,112" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="145" cy="112" r="5.5" fill="#1f2937"/>
+  <path d="M143,107 Q140,100 136,99 M146,107 Q146,100 142,97" fill="none" stroke="#1f2937" stroke-width="1.2"/>
+  <!-- example + symbols -->
+  <text x="124" y="182" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">bee &amp; flower</text>
+  <circle cx="74" cy="207" r="15" fill="#2f855a"/>
+  <text x="74" y="214" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">+</text>
+  <circle cx="174" cy="207" r="15" fill="#2f855a"/>
+  <text x="174" y="214" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">+</text>
+  <text x="74" y="239" font-size="12" text-anchor="middle" fill="#6b7280">Species 1</text>
+  <text x="74" y="255" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">bee</text>
+  <text x="174" y="239" font-size="12" text-anchor="middle" fill="#6b7280">Species 2</text>
+  <text x="174" y="255" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">flower</text>
+
+  <!-- ===================== COMMENSALISM ===================== -->
+  <rect x="248" y="30" width="224" height="234" rx="10" fill="#ffffff" stroke="#3182ce" stroke-width="2"/>
+  <path d="M248,60 V40 Q248,30 258,30 H462 Q472,30 472,40 V60 Z" fill="#3182ce" stroke="#3182ce" stroke-width="2"/>
+  <text x="360" y="51" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">COMMENSALISM  (+ / 0)</text>
+  <text x="360" y="80" font-size="13" text-anchor="middle" fill="#1f2937">One benefits; other not affected</text>
+  <!-- whale -->
+  <path d="M306,130 C306,112 326,104 352,104 C378,104 394,114 402,124 L418,112 C421,120 420,126 415,130 C421,134 422,142 418,148 L402,136 C392,148 376,154 352,154 C326,154 306,148 306,130 Z" fill="#3182ce"/>
+  <path d="M310,138 C320,150 338,152 354,152 C370,152 384,148 394,142 C378,146 360,147 344,146 C330,145 318,142 310,138 Z" fill="#bee3f8"/>
+  <circle cx="323" cy="126" r="2.2" fill="#1f2937"/>
+  <path d="M308,134 Q318,138 332,136" fill="none" stroke="#1f2937" stroke-width="1.2"/>
+  <g fill="#e5e7eb" stroke="#6b7280" stroke-width="1.2" stroke-linejoin="round">
+    <path d="M321,110 L323,103 L329,103 L331,110 Z"/>
+    <path d="M332,108 L334,101 L340,101 L342,108 Z"/>
+    <path d="M343,107 L345,100 L351,100 L353,107 Z"/>
+    <path d="M354,107 L356,100 L362,100 L364,107 Z"/>
+  </g>
+  <g stroke="#6b7280" stroke-width="1.2">
+    <line x1="324.5" y1="103" x2="327.5" y2="103"/>
+    <line x1="335.5" y1="101" x2="338.5" y2="101"/>
+    <line x1="346.5" y1="100" x2="349.5" y2="100"/>
+    <line x1="357.5" y1="100" x2="360.5" y2="100"/>
+  </g>
+  <!-- example + symbols -->
+  <text x="360" y="182" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">barnacle on whale</text>
+  <circle cx="310" cy="207" r="15" fill="#2f855a"/>
+  <text x="310" y="214" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">+</text>
+  <circle cx="410" cy="207" r="15" fill="#e5e7eb" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="410" y="214" font-size="19" font-weight="700" text-anchor="middle" fill="#1f2937">0</text>
+  <text x="310" y="239" font-size="12" text-anchor="middle" fill="#6b7280">Species 1</text>
+  <text x="310" y="255" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">barnacle</text>
+  <text x="410" y="239" font-size="12" text-anchor="middle" fill="#6b7280">Species 2</text>
+  <text x="410" y="255" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">whale</text>
+
+  <!-- ===================== PARASITISM ===================== -->
+  <rect x="484" y="30" width="224" height="234" rx="10" fill="#ffffff" stroke="#c53030" stroke-width="2"/>
+  <path d="M484,60 V40 Q484,30 494,30 H698 Q708,30 708,40 V60 Z" fill="#c53030" stroke="#c53030" stroke-width="2"/>
+  <text x="596" y="51" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">PARASITISM  (+ / −)</text>
+  <text x="596" y="80" font-size="13" text-anchor="middle" fill="#1f2937">One benefits; other is harmed</text>
+  <!-- deer -->
+  <g transform="translate(572 136) scale(0.85)">
+    <g stroke="#8b5e34" stroke-width="4" stroke-linecap="round">
+      <line x1="-18" y1="6" x2="-21" y2="30"/>
+      <line x1="-9" y1="8" x2="-9" y2="30"/>
+      <line x1="11" y1="8" x2="11" y2="30"/>
+      <line x1="19" y1="6" x2="22" y2="30"/>
+    </g>
+    <ellipse cx="0" cy="0" rx="26" ry="12" fill="#8b5e34"/>
+    <ellipse cx="-26" cy="-5" rx="4.5" ry="3" fill="#f6e7cb"/>
+    <path d="M12,-6 L21,-29 L30,-26 L26,-1 Z" fill="#8b5e34"/>
+    <ellipse cx="31" cy="-30" rx="10" ry="6.5" fill="#8b5e34" transform="rotate(12 31 -30)"/>
+    <ellipse cx="22" cy="-37" rx="5" ry="2.6" fill="#8b5e34" transform="rotate(-35 22 -37)"/>
+    <circle cx="40" cy="-27" r="1.8" fill="#1f2937"/>
+    <circle cx="31" cy="-32" r="1.4" fill="#1f2937"/>
+    <path d="M27,-36 L25,-49 M25,-43 L18,-47 M26,-45 L31,-50" fill="none" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- tick on deer + magnifier -->
+  <circle cx="588" cy="123" r="2.6" fill="#1f2937"/>
+  <line x1="591" y1="124" x2="645" y2="129" stroke="#6b7280" stroke-width="1.2"/>
+  <line x1="676" y1="143" x2="688" y2="155" stroke="#1f2937" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="664" cy="130" r="19" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+  <g stroke="#1f2937" stroke-width="1.4" stroke-linecap="round">
+    <path d="M659,126 L651,121 M659,130 L650,130 M659,134 L651,139 M660,137 L654,144"/>
+    <path d="M669,126 L677,121 M669,130 L678,130 M669,134 L677,139 M668,137 L674,144"/>
+  </g>
+  <ellipse cx="664" cy="132" rx="6" ry="8" fill="#8b5e34" stroke="#1f2937" stroke-width="1"/>
+  <circle cx="664" cy="122" r="3" fill="#1f2937"/>
+  <!-- example + symbols -->
+  <text x="596" y="182" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2937">tick on deer</text>
+  <circle cx="546" cy="207" r="15" fill="#2f855a"/>
+  <text x="546" y="214" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">+</text>
+  <circle cx="646" cy="207" r="15" fill="#c53030"/>
+  <text x="646" y="214" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">−</text>
+  <text x="546" y="239" font-size="12" text-anchor="middle" fill="#6b7280">Species 1</text>
+  <text x="546" y="255" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">tick</text>
+  <text x="646" y="239" font-size="12" text-anchor="middle" fill="#6b7280">Species 2</text>
+  <text x="646" y="255" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">deer</text>
+
+  <!-- ===== group header: other interactions ===== -->
+  <text x="12" y="292" font-size="14" font-weight="700" fill="#1f2937">OTHER INTERACTIONS <tspan font-weight="400" fill="#6b7280">between species</tspan></text>
+
+  <!-- ===================== PREDATION ===================== -->
+  <rect x="12" y="302" width="342" height="122" rx="10" fill="#ffffff" stroke="#dd6b20" stroke-width="2"/>
+  <path d="M12,332 V312 Q12,302 22,302 H344 Q354,302 354,312 V332 Z" fill="#dd6b20" stroke="#dd6b20" stroke-width="2"/>
+  <text x="183" y="323" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">PREDATION  (+ / −)</text>
+  <text x="28" y="360" font-size="14" font-weight="700" fill="#1f2937">mountain lion &amp; deer</text>
+  <text x="28" y="380" font-size="13" fill="#1f2937">— predator kills prey</text>
+  <circle cx="232" cy="362" r="15" fill="#2f855a"/>
+  <text x="232" y="369" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">+</text>
+  <circle cx="320" cy="362" r="15" fill="#c53030"/>
+  <text x="320" y="369" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">−</text>
+  <text x="232" y="397" font-size="12" text-anchor="middle" fill="#6b7280">Species 1</text>
+  <text x="232" y="413" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">mountain lion</text>
+  <text x="320" y="397" font-size="12" text-anchor="middle" fill="#6b7280">Species 2</text>
+  <text x="320" y="413" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">deer</text>
+
+  <!-- ===================== COMPETITION ===================== -->
+  <rect x="366" y="302" width="342" height="122" rx="10" fill="#ffffff" stroke="#6b46c1" stroke-width="2"/>
+  <path d="M366,332 V312 Q366,302 376,302 H698 Q708,302 708,312 V332 Z" fill="#6b46c1" stroke="#6b46c1" stroke-width="2"/>
+  <text x="537" y="323" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">COMPETITION  (− / −)</text>
+  <text x="382" y="360" font-size="14" font-weight="700" fill="#1f2937">Both are harmed</text>
+  <text x="382" y="380" font-size="13" fill="#1f2937">— they need the same</text>
+  <text x="382" y="397" font-size="13" fill="#1f2937">limited resource</text>
+  <circle cx="590" cy="362" r="15" fill="#c53030"/>
+  <text x="590" y="369" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">−</text>
+  <circle cx="668" cy="362" r="15" fill="#c53030"/>
+  <text x="668" y="369" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">−</text>
+  <text x="590" y="397" font-size="12" text-anchor="middle" fill="#6b7280">Species 1</text>
+  <text x="668" y="397" font-size="12" text-anchor="middle" fill="#6b7280">Species 2</text>
+
+  <!-- ===== legend ===== -->
+  <g font-size="13" fill="#1f2937">
+    <circle cx="168" cy="446" r="10" fill="#2f855a"/>
+    <text x="168" y="451" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">+</text>
+    <text x="184" y="451">= benefits</text>
+    <circle cx="300" cy="446" r="10" fill="#e5e7eb" stroke="#6b7280" stroke-width="1.2"/>
+    <text x="300" y="451" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">0</text>
+    <text x="316" y="451">= not affected</text>
+    <circle cx="460" cy="446" r="10" fill="#c53030"/>
+    <text x="460" y="451" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">−</text>
+    <text x="476" y="451">= harmed</text>
+  </g>
+</svg>

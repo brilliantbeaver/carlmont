@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 456" width="100%" role="img" aria-label="A wildfire at the center interacts with all four spheres. Atmosphere: lightning and wind start and spread fire; smoke and carbon dioxide are released. Biosphere: plants are fuel; habitat is lost; organisms are killed; fire-adapted species regrow. Hydrosphere: drought dries fuels; ash and sediment wash into streams; less water is absorbed by soil. Geosphere: the soil organic layer is burned; erosion and landslides happen after fire." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title>How a wildfire interacts with the atmosphere, biosphere, hydrosphere, and geosphere</title>
+  <defs>
+    <marker id="wildfire-spheres-arrow-end" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#6b7280"/>
+    </marker>
+    <marker id="wildfire-spheres-arrow-start" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M10,0 L0,5 L10,10 Z" fill="#6b7280"/>
+    </marker>
+  </defs>
+
+  <text x="360" y="24" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2937">Wildfire: one event, all four spheres</text>
+
+  <!-- ===== interaction arrows (behind) ===== -->
+  <g stroke="#6b7280" stroke-width="2.5" marker-start="url(#wildfire-spheres-arrow-start)" marker-end="url(#wildfire-spheres-arrow-end)">
+    <line x1="360" y1="174" x2="360" y2="124"/>
+    <line x1="360" y1="326" x2="360" y2="358"/>
+    <line x1="308" y1="236" x2="262" y2="236"/>
+    <line x1="412" y1="236" x2="458" y2="236"/>
+  </g>
+
+  <!-- ===== WILDFIRE (center) ===== -->
+  <ellipse cx="360" cy="292" rx="52" ry="6" fill="#e5e7eb"/>
+  <path d="M360,180 C374,204 402,214 402,250 C402,274 384,290 360,290 C336,290 318,274 318,250 C318,230 330,222 334,204 C342,216 348,222 350,232 C356,214 352,198 360,180 Z" fill="#c53030"/>
+  <path d="M362,210 C372,228 390,236 390,258 C390,276 376,288 360,288 C344,288 330,276 330,260 C330,246 338,240 342,230 C348,240 352,244 352,252 C358,238 356,224 362,210 Z" fill="#dd6b20"/>
+  <path d="M360,240 C366,252 376,258 376,270 C376,282 368,288 360,288 C352,288 344,282 344,272 C344,262 352,256 360,240 Z" fill="#d69e2e"/>
+  <g fill="#8b5e34">
+    <rect x="322" y="282" width="76" height="10" rx="5" transform="rotate(-10 360 287)"/>
+    <rect x="322" y="282" width="76" height="10" rx="5" transform="rotate(10 360 287)"/>
+  </g>
+  <text x="360" y="316" font-size="13" font-weight="700" text-anchor="middle" fill="#c53030" stroke="#ffffff" stroke-width="4" paint-order="stroke">WILDFIRE</text>
+
+  <!-- ===== ATMOSPHERE (top) ===== -->
+  <rect x="150" y="42" width="420" height="76" rx="10" fill="#ffffff" stroke="#3182ce" stroke-width="2"/>
+  <path d="M150,68 V52 Q150,42 160,42 H560 Q570,42 570,52 V68 Z" fill="#bee3f8" stroke="#3182ce" stroke-width="2"/>
+  <text x="164" y="60" font-size="15" font-weight="700" fill="#1f2937" letter-spacing="0.5">ATMOSPHERE</text>
+  <g font-size="13" fill="#1f2937">
+    <text x="166" y="88">• Lightning &amp; wind start and spread fire</text>
+    <text x="166" y="107">• Smoke and CO₂ released</text>
+  </g>
+  <!-- lightning + smoke icons -->
+  <path d="M520,76 L508,96 L516,96 L510,112 L528,90 L519,90 L526,76 Z" fill="#d69e2e"/>
+  <g fill="#6b7280" opacity="0.55">
+    <circle cx="482" cy="100" r="7"/>
+    <circle cx="492" cy="92" r="8"/>
+    <circle cx="474" cy="90" r="6"/>
+  </g>
+
+  <!-- ===== BIOSPHERE (left) ===== -->
+  <rect x="14" y="172" width="240" height="122" rx="10" fill="#ffffff" stroke="#2f855a" stroke-width="2"/>
+  <path d="M14,198 V182 Q14,172 24,172 H244 Q254,172 254,182 V198 Z" fill="#2f855a" stroke="#2f855a" stroke-width="2"/>
+  <text x="28" y="190" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="0.5">BIOSPHERE</text>
+  <g font-size="13" fill="#1f2937">
+    <text x="30" y="218">• Plants = fuel</text>
+    <text x="30" y="237">• Habitat lost</text>
+    <text x="30" y="256">• Organisms killed</text>
+    <text x="30" y="275">• Fire-adapted species regrow</text>
+  </g>
+
+  <!-- ===== HYDROSPHERE (right) ===== -->
+  <rect x="466" y="172" width="240" height="122" rx="10" fill="#ffffff" stroke="#3182ce" stroke-width="2"/>
+  <path d="M466,198 V182 Q466,172 476,172 H696 Q706,172 706,182 V198 Z" fill="#3182ce" stroke="#3182ce" stroke-width="2"/>
+  <text x="480" y="190" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="0.5">HYDROSPHERE</text>
+  <g font-size="13" fill="#1f2937">
+    <text x="482" y="218">• Drought dries fuels</text>
+    <text x="482" y="237">• Ash &amp; sediment wash</text>
+    <text x="492" y="254">into streams</text>
+    <text x="482" y="273">• Less water absorbed by soil</text>
+  </g>
+
+  <!-- ===== GEOSPHERE (bottom) ===== -->
+  <rect x="150" y="364" width="420" height="76" rx="10" fill="#ffffff" stroke="#8b5e34" stroke-width="2"/>
+  <path d="M150,390 V374 Q150,364 160,364 H560 Q570,364 570,374 V390 Z" fill="#8b5e34" stroke="#8b5e34" stroke-width="2"/>
+  <text x="164" y="382" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="0.5">GEOSPHERE</text>
+  <g font-size="13" fill="#1f2937">
+    <text x="166" y="410">• Soil organic layer burned</text>
+    <text x="166" y="429">• Erosion &amp; landslides after fire</text>
+  </g>
+  <!-- slope / landslide icon -->
+  <path d="M470,432 L548,432 L548,400 Z" fill="#f6e7cb" stroke="#8b5e34" stroke-width="1.5"/>
+  <g fill="#8b5e34">
+    <circle cx="498" cy="426" r="3.5"/>
+    <circle cx="508" cy="428" r="2.5"/>
+    <circle cx="489" cy="429" r="2.5"/>
+  </g>
+  <path d="M530,410 L512,420" stroke="#8b5e34" stroke-width="1.5" stroke-dasharray="3 2"/>
+</svg>

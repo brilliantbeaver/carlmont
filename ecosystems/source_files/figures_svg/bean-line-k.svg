@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="100%" role="img" aria-label="Line graph of rabbit population (0 to 80) versus time in years (0 to 8) from the bean simulation. Values: year 0: 25, year 1: 33, year 2: 44, year 3: 64, year 4: 47, year 5: 73, year 6: 55, year 7: 50, year 8: 54. A dashed line at about 52 rabbits with a light band from 47 to 55 marks the estimated carrying capacity of about 50 to 55 rabbits." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title>Bean 'rabbit' simulation: population per year with estimated carrying capacity</title>
+<defs><marker id="bean-line-k-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker></defs>
+<text x="360" y="30" font-size="17" text-anchor="middle" font-weight="700" fill="#1f2937">Bean ‘rabbit’ simulation: population per year</text>
+<rect x="76" y="165.8" width="614" height="30" fill="#c6f6d5" opacity="0.75"/>
+<line x1="70" y1="372" x2="76" y2="372" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="376.5" font-size="13" text-anchor="end" fill="#1f2937">0</text>
+<line x1="76" y1="334.5" x2="690" y2="334.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="70" y1="334.5" x2="76" y2="334.5" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="339" font-size="13" text-anchor="end" fill="#1f2937">10</text>
+<line x1="76" y1="297" x2="690" y2="297" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="70" y1="297" x2="76" y2="297" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="301.5" font-size="13" text-anchor="end" fill="#1f2937">20</text>
+<line x1="76" y1="259.5" x2="690" y2="259.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="70" y1="259.5" x2="76" y2="259.5" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="264" font-size="13" text-anchor="end" fill="#1f2937">30</text>
+<line x1="76" y1="222" x2="690" y2="222" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="70" y1="222" x2="76" y2="222" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="226.5" font-size="13" text-anchor="end" fill="#1f2937">40</text>
+<line x1="76" y1="184.5" x2="690" y2="184.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="70" y1="184.5" x2="76" y2="184.5" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="189" font-size="13" text-anchor="end" fill="#1f2937">50</text>
+<line x1="76" y1="147" x2="690" y2="147" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="70" y1="147" x2="76" y2="147" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="151.5" font-size="13" text-anchor="end" fill="#1f2937">60</text>
+<line x1="76" y1="109.5" x2="690" y2="109.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="70" y1="109.5" x2="76" y2="109.5" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="114" font-size="13" text-anchor="end" fill="#1f2937">70</text>
+<line x1="76" y1="72" x2="690" y2="72" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="70" y1="72" x2="76" y2="72" stroke="#1f2937" stroke-width="1.5"/>
+<text x="66" y="76.5" font-size="13" text-anchor="end" fill="#1f2937">80</text>
+<line x1="104" y1="72" x2="104" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="104" y1="372" x2="104" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="104" y="394" font-size="13" text-anchor="middle" fill="#1f2937">0</text>
+<line x1="174" y1="72" x2="174" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="174" y1="372" x2="174" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="174" y="394" font-size="13" text-anchor="middle" fill="#1f2937">1</text>
+<line x1="244" y1="72" x2="244" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="244" y1="372" x2="244" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="244" y="394" font-size="13" text-anchor="middle" fill="#1f2937">2</text>
+<line x1="314" y1="72" x2="314" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="314" y1="372" x2="314" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="314" y="394" font-size="13" text-anchor="middle" fill="#1f2937">3</text>
+<line x1="384" y1="72" x2="384" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="384" y1="372" x2="384" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="384" y="394" font-size="13" text-anchor="middle" fill="#1f2937">4</text>
+<line x1="454" y1="72" x2="454" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="454" y1="372" x2="454" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="454" y="394" font-size="13" text-anchor="middle" fill="#1f2937">5</text>
+<line x1="524" y1="72" x2="524" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="524" y1="372" x2="524" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="524" y="394" font-size="13" text-anchor="middle" fill="#1f2937">6</text>
+<line x1="594" y1="72" x2="594" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="594" y1="372" x2="594" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="594" y="394" font-size="13" text-anchor="middle" fill="#1f2937">7</text>
+<line x1="664" y1="72" x2="664" y2="372" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="664" y1="372" x2="664" y2="378" stroke="#1f2937" stroke-width="1.5"/>
+<text x="664" y="394" font-size="13" text-anchor="middle" fill="#1f2937">8</text>
+<line x1="76" y1="372" x2="76" y2="64" stroke="#1f2937" stroke-width="2"/>
+<line x1="76" y1="372" x2="690" y2="372" stroke="#1f2937" stroke-width="2"/>
+<text x="26" y="222" font-size="15" text-anchor="middle" font-weight="600" fill="#1f2937" transform="rotate(-90 26 222)">Rabbit population</text>
+<text x="384" y="422" font-size="15" text-anchor="middle" font-weight="600" fill="#1f2937">Time (years)</text>
+<line x1="76" y1="177" x2="690" y2="177" stroke="#2f855a" stroke-width="2.5" stroke-dasharray="10 6"/>
+<line x1="569.5" y1="250.8" x2="569.5" y2="198.8" stroke="#2f855a" stroke-width="2" marker-end="url(#bean-line-k-arrow)"/>
+<text x="569.5" y="270.8" font-size="14" text-anchor="middle" font-weight="700" fill="#2f855a" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Estimated carrying capacity</text>
+<text x="569.5" y="288.8" font-size="14" text-anchor="middle" font-weight="700" fill="#2f855a" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">≈ 50–55 rabbits</text>
+<path d="M104,278.2 L174,248.2 L244,207 L314,132 L384,195.8 L454,98.2 L524,165.8 L594,184.5 L664,169.5" fill="none" stroke="#3182ce" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="104" cy="278.2" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<circle cx="174" cy="248.2" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<circle cx="244" cy="207" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<circle cx="314" cy="132" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<circle cx="384" cy="195.8" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<circle cx="454" cy="98.2" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<circle cx="524" cy="165.8" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<circle cx="594" cy="184.5" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<circle cx="664" cy="169.5" r="5.5" fill="#3182ce" stroke="#ffffff" stroke-width="2"/>
+<text x="104" y="265.2" font-size="14" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">25</text>
+<text x="167" y="237.2" font-size="14" text-anchor="end" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">33</text>
+<text x="253" y="224" font-size="14" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">44</text>
+<text x="314" y="119" font-size="14" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">64</text>
+<text x="384" y="219.8" font-size="14" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">47</text>
+<text x="454" y="85.2" font-size="14" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">73</text>
+<text x="533" y="155.8" font-size="14" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">55</text>
+<text x="594" y="208.5" font-size="14" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">50</text>
+<text x="664" y="156.5" font-size="14" text-anchor="middle" font-weight="700" fill="#1f2937" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">54</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 388" width="100%" role="img" aria-label="Three panels showing habitat fragmentation. 1 Continuous habitat: one big forest block with a large dark interior zone and a thin edge band. 2 Fragmented by road, development or fire: the same area cut into 4 pieces by a road and a strip of houses; each piece has its own edge band and a small interior. 3 Isolated small patches: small forest patches far apart, mostly edge with little or no interior; a wildlife corridor connects two patches. Labels: edge, interior, wildlife corridor." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title>Habitat fragmentation: edge versus interior</title>
+<defs><marker id="frag-concept-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker><marker id="frag-concept-arrow-c" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L10,5 L0,10 z" fill="#6b46c1"/></marker></defs>
+<text x="360" y="28" font-size="17" font-weight="bold" fill="#1f2937" text-anchor="middle">Habitat fragmentation: same forest, more edge, less interior</text>
+<circle cx="44.17" cy="62" r="10" fill="#1f2937"/>
+<text x="44.17" y="66.5" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+<text x="129" y="67" font-size="14" font-weight="bold" fill="#1f2937" text-anchor="middle">Continuous habitat</text>
+<rect x="14" y="90" width="206" height="206" fill="#f6e7cb" stroke="#6b7280" stroke-width="1.2"/>
+<text x="117" y="318" font-size="13" fill="#1f2937" text-anchor="middle">One big block:</text><text x="117" y="335" font-size="13" fill="#1f2937" text-anchor="middle">large interior, thin edge</text>
+<circle cx="279.15" cy="67" r="10" fill="#1f2937"/>
+<text x="279.15" y="71.5" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+<text x="372" y="63.5" font-size="14" font-weight="bold" fill="#1f2937" text-anchor="middle">Fragmented by road /</text>
+<text x="372" y="80.5" font-size="14" font-weight="bold" fill="#1f2937" text-anchor="middle">development / fire</text>
+<rect x="257" y="90" width="206" height="206" fill="#f6e7cb" stroke="#6b7280" stroke-width="1.2"/>
+<text x="360" y="318" font-size="13" fill="#1f2937" text-anchor="middle">Same area cut into 4 pieces</text><text x="360" y="335" font-size="13" fill="#1f2937" text-anchor="middle">by a road and houses</text>
+<circle cx="518.36" cy="62" r="10" fill="#1f2937"/>
+<text x="518.36" y="66.5" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+<text x="615" y="67" font-size="14" font-weight="bold" fill="#1f2937" text-anchor="middle">Isolated small patches</text>
+<rect x="500" y="90" width="206" height="206" fill="#f6e7cb" stroke="#6b7280" stroke-width="1.2"/>
+<text x="603" y="318" font-size="13" fill="#1f2937" text-anchor="middle">Small patches far apart:</text><text x="603" y="335" font-size="13" fill="#1f2937" text-anchor="middle">mostly edge, little interior</text>
+<line x1="226" y1="193.0" x2="252" y2="193.0" stroke="#1f2937" stroke-width="2.5" marker-end="url(#frag-concept-arrow)"/>
+<line x1="469" y1="193.0" x2="495" y2="193.0" stroke="#1f2937" stroke-width="2.5" marker-end="url(#frag-concept-arrow)"/>
+<rect x="34" y="110" width="166" height="166" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="49" y="125" width="136" height="136" fill="#2f855a"/>
+<text x="117" y="198" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle">interior</text>
+<text x="117" y="121.5" font-size="12" font-weight="bold" fill="#1f2937" text-anchor="middle">edge</text>
+<text x="117" y="272.5" font-size="12" font-weight="bold" fill="#1f2937" text-anchor="middle">edge</text>
+<rect x="277" y="110" width="70" height="75" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="292" y="125" width="40" height="45" fill="#2f855a"/>
+<rect x="373" y="110" width="70" height="75" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="388" y="125" width="40" height="45" fill="#2f855a"/>
+<rect x="277" y="201" width="70" height="75" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="292" y="216" width="40" height="45" fill="#2f855a"/>
+<rect x="373" y="201" width="70" height="75" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="388" y="216" width="40" height="45" fill="#2f855a"/>
+<rect x="257" y="185" width="206" height="16" fill="#1f2937"/>
+<line x1="301" y1="193" x2="460" y2="193" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="269" y="197" font-size="11" font-weight="bold" fill="#ffffff">road</text>
+<rect x="353.5" y="122" width="13" height="10" fill="#ffffff" stroke="#1f2937" stroke-width="1"/><polygon points="351.5,122 360,114.85 368.5,122" fill="#c53030" stroke="#1f2937" stroke-width="1" stroke-linejoin="round"/><rect x="358.44" y="126.5" width="3.12" height="5.5" fill="#1f2937"/>
+<rect x="353.5" y="150" width="13" height="10" fill="#ffffff" stroke="#1f2937" stroke-width="1"/><polygon points="351.5,150 360,142.85 368.5,150" fill="#c53030" stroke="#1f2937" stroke-width="1" stroke-linejoin="round"/><rect x="358.44" y="154.5" width="3.12" height="5.5" fill="#1f2937"/>
+<rect x="353.5" y="174" width="13" height="10" fill="#ffffff" stroke="#1f2937" stroke-width="1"/><polygon points="351.5,174 360,166.85 368.5,174" fill="#c53030" stroke="#1f2937" stroke-width="1" stroke-linejoin="round"/><rect x="358.44" y="178.5" width="3.12" height="5.5" fill="#1f2937"/>
+<rect x="353.5" y="217" width="13" height="10" fill="#ffffff" stroke="#1f2937" stroke-width="1"/><polygon points="351.5,217 360,209.85 368.5,217" fill="#c53030" stroke="#1f2937" stroke-width="1" stroke-linejoin="round"/><rect x="358.44" y="221.5" width="3.12" height="5.5" fill="#1f2937"/>
+<rect x="353.5" y="243" width="13" height="10" fill="#ffffff" stroke="#1f2937" stroke-width="1"/><polygon points="351.5,243 360,235.85 368.5,243" fill="#c53030" stroke="#1f2937" stroke-width="1" stroke-linejoin="round"/><rect x="358.44" y="247.5" width="3.12" height="5.5" fill="#1f2937"/>
+<rect x="353.5" y="267" width="13" height="10" fill="#ffffff" stroke="#1f2937" stroke-width="1"/><polygon points="351.5,267 360,259.85 368.5,267" fill="#c53030" stroke="#1f2937" stroke-width="1" stroke-linejoin="round"/><rect x="358.44" y="271.5" width="3.12" height="5.5" fill="#1f2937"/>
+<text x="312" y="151.5" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">interior</text>
+<rect x="568" y="123" width="72" height="12" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1" stroke-dasharray="3 2"/>
+<rect x="518" y="110" width="50" height="50" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="533" y="125" width="20" height="20" fill="#2f855a"/>
+<rect x="640" y="106" width="46" height="40" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="655" y="121" width="16" height="10" fill="#2f855a"/>
+<rect x="526" y="228" width="40" height="46" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="541" y="243" width="10" height="16" fill="#2f855a"/>
+<rect x="636" y="226" width="54" height="52" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><rect x="651" y="241" width="24" height="22" fill="#2f855a"/>
+<rect x="588" y="200" width="30" height="28" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/>
+<line x1="574" y1="149" x2="634" y2="149" stroke="#6b46c1" stroke-width="2" marker-start="url(#frag-concept-arrow-c)" marker-end="url(#frag-concept-arrow-c)"/>
+<text x="604" y="167" font-size="12" font-weight="bold" fill="#6b46c1" text-anchor="middle">wildlife</text>
+<text x="604" y="181" font-size="12" font-weight="bold" fill="#6b46c1" text-anchor="middle">corridor</text>
+<line x1="603" y1="228" x2="603" y2="236" stroke="#1f2937" stroke-width="1"/>
+<text x="603" y="248" font-size="11" font-weight="bold" fill="#1f2937" text-anchor="middle">all edge,</text>
+<text x="603" y="261" font-size="11" font-weight="bold" fill="#1f2937" text-anchor="middle">no interior</text>
+<rect x="49.76" y="356" width="16" height="16" fill="#2f855a"/><text x="71.76" y="369" font-size="12.5" fill="#1f2937">Interior habitat (deep forest)</text>
+<rect x="251.63" y="356" width="16" height="16" fill="#2f855a" fill-opacity="0.42" stroke="#2f855a" stroke-width="1"/><text x="273.63" y="369" font-size="12.5" fill="#1f2937">Edge habitat (near boundary)</text>
+<rect x="462.18" y="356" width="16" height="16" fill="#f6e7cb" stroke="#6b7280" stroke-width="1"/><text x="484.18" y="369" font-size="12.5" fill="#1f2937">Open / cleared land</text>
+<rect x="617.26" y="356" width="16" height="16" fill="#1f2937"/><text x="639.26" y="369" font-size="12.5" fill="#1f2937">Road</text>
+</svg>

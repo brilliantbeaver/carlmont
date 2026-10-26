@@ -1,0 +1,574 @@
+[
+ {
+  "id": "T1-01",
+  "topic": 1,
+  "subtopic": "Earth Systems Science",
+  "review": "s1-ess",
+  "source": "Earth System Science Graphic Organizer",
+  "level": "core",
+  "figure": null,
+  "stem": "Which statement best describes <b>Earth system science</b>?",
+  "choices": [
+   "The study of Earth's rocks and minerals and how they form",
+   "The study of how Earth's air, water, land, and life interact",
+   "The study of how living things interact with one another only",
+   "The study of daily weather and long-term climate patterns"
+  ],
+  "answer": 1,
+  "hint": "Think about the word 'system.' Is it about one part of Earth, or about how the parts connect?",
+  "explanation": "Correct: Earth system science studies the relationships between air (atmosphere), water (hydrosphere), land (geosphere), and life (biosphere). It matters because a change in one sphere ripples into the others. For example, a drought (hydrosphere) dries out plants (biosphere), which fuel a wildfire that sends smoke into the air (atmosphere).",
+  "why_wrong": [
+   "That is geology, which covers only the geosphere. Earth system science looks at all four spheres together.",
+   "",
+   "That is ecology inside the biosphere only. Earth system science also includes air, water, and land.",
+   "That is weather and climate science, which is mostly the atmosphere. Earth system science connects the atmosphere to the other three spheres."
+  ],
+  "trap": "ESS = interactions among ALL spheres, not the study of one sphere"
+ },
+ {
+  "id": "T1-02",
+  "topic": 1,
+  "subtopic": "Hydrosphere",
+  "review": "s1-spheres",
+  "source": "Earth System Science Graphic Organizer",
+  "level": "core",
+  "figure": null,
+  "stem": "On the class graphic organizer, <b>glaciers</b>, <b>soil moisture</b>, and <b>groundwater in aquifers</b> are all listed under the same sphere. Which sphere is it?",
+  "choices": [
+   "Geosphere",
+   "Atmosphere",
+   "Biosphere",
+   "Hydrosphere"
+  ],
+  "answer": 3,
+  "hint": "Ignore WHERE each item is found (in soil, underground, or frozen). Ask what the item itself is made of.",
+  "explanation": "Correct: The hydrosphere is ALL of Earth's water in every form (liquid, solid, and gas), wherever it is. Glaciers are frozen water, soil moisture is water held in soil, and aquifers hold groundwater underground. All of it is still water, so all of it belongs to the hydrosphere.",
+  "why_wrong": [
+   "Soil and rock are geosphere, but the WATER inside them is hydrosphere. A glacier is frozen water, not rock.",
+   "The atmosphere is the layer of gases (air). Glaciers, soil moisture, and groundwater are not air.",
+   "The biosphere is all living things. Water is nonliving.",
+   ""
+  ],
+  "trap": "Soil moisture / glaciers / aquifers = hydrosphere, not geosphere"
+ },
+ {
+  "id": "T1-03",
+  "topic": 1,
+  "subtopic": "Earth Systems Science (closed system)",
+  "review": "s1-ess",
+  "source": "Earth System Science Graphic Organizer",
+  "level": "core",
+  "figure": null,
+  "stem": "Earth is described as a <b>closed system</b>. What does this mean?",
+  "choices": [
+   "Energy flows in and out, but very little matter enters or leaves.",
+   "Neither energy nor matter can enter or leave Earth at all.",
+   "Matter from space constantly enters Earth, but energy can never leave.",
+   "Earth's four spheres are sealed off and cannot exchange matter with each other."
+  ],
+  "answer": 0,
+  "hint": "Two things could cross Earth's boundary with space: energy and matter. Which one keeps arriving from the Sun?",
+  "explanation": "Correct: In a closed system, energy crosses the boundary but matter almost does not. Earth receives energy as sunlight and loses energy to space as heat. Its matter (water, carbon, rock) stays on Earth and is recycled among the spheres, which is why matter has to cycle while energy keeps flowing in from the Sun.",
+  "why_wrong": [
+   "",
+   "Sunlight clearly enters Earth and heat radiates back out to space, so energy is not trapped. A system with no exchange at all is called 'isolated,' not 'closed.'",
+   "This is backward. Only tiny amounts of matter (like meteorites) cross the boundary, and energy DOES leave Earth as heat.",
+   "'Closed' describes Earth's boundary with space, not the spheres. Inside Earth the spheres constantly exchange matter. For example, ocean water evaporates into the air."
+  ],
+  "trap": "Closed ≠ isolated: energy crosses the boundary, matter (mostly) doesn't"
+ },
+ {
+  "id": "T1-04",
+  "topic": 1,
+  "subtopic": "Earth Systems Science (energy drivers)",
+  "review": "s1-ess",
+  "source": "Earth System Science Graphic Organizer",
+  "level": "apply",
+  "figure": null,
+  "stem": "The class organizer lists two energy drivers: the <b>Sun</b> and <b>Earth's core</b>. Which event is powered mainly by heat from Earth's core rather than by the Sun?",
+  "choices": [
+   "Wind blowing wildfire smoke across Monterey Bay",
+   "Ocean water evaporating and forming clouds",
+   "Magma rising through the crust as plates shift",
+   "Redwood sorrel making sugar by photosynthesis"
+  ],
+  "answer": 2,
+  "hint": "Ask where each process takes place, and where that place gets its heat or light.",
+  "explanation": "Correct: Heat from Earth's core drives many geosphere processes: plate tectonics, volcanoes, earthquakes, and the rising magma that formed Yosemite's granite. The Sun drives most other Earth-system interactions. It heats air unevenly to make wind, evaporates water in the water cycle, and powers photosynthesis.",
+  "why_wrong": [
+   "Wind happens because the Sun heats Earth's surface and air unevenly: warm air rises and cooler air moves in.",
+   "Evaporation in the water cycle is powered by the Sun's heat.",
+   "",
+   "Photosynthesis captures light energy from the Sun."
+  ],
+  "trap": "Sun drives most interactions; Earth's core drives geosphere processes"
+ },
+ {
+  "id": "T1-05",
+  "topic": 1,
+  "subtopic": "Atmosphere, Hydrosphere, Biosphere, Geosphere",
+  "review": "s1-spheres",
+  "source": "Earth System Science Graphic Organizer",
+  "level": "apply",
+  "figure": null,
+  "stem": "Based on the class graphic organizer, which item is matched with the <b>correct</b> sphere?",
+  "choices": [
+   "Coral reef — geosphere",
+   "Jet stream — atmosphere",
+   "Glacier — geosphere",
+   "Fossilization — biosphere"
+  ],
+  "answer": 1,
+  "hint": "For each pair, ask what the item is mostly made of or involves: living things, rock, water, or moving air.",
+  "explanation": "Correct: The jet stream is a fast, high-altitude band of wind, so it belongs to the atmosphere, along with clouds, weather, and the atmosphere's role as a solar-radiation buffer. On the organizer, coral reefs (built by living corals) are biosphere, glaciers (frozen water) are hydrosphere, and fossilization (remains turning into rock) is a geosphere process.",
+  "why_wrong": [
+   "Reefs look rocky, but they are built by living coral animals, so the organizer lists coral reefs under the biosphere.",
+   "",
+   "A glacier is frozen water. The hydrosphere includes water in solid form.",
+   "A fossil comes from a once-living thing, but fossilization is the process of remains turning into rock in sediment. The organizer lists it under the geosphere, next to sedimentation."
+  ],
+  "trap": "Classifying by appearance (rocky reef, ice on land, fossil from life) instead of the organizer's sphere"
+ },
+ {
+  "id": "T1-06",
+  "topic": 1,
+  "subtopic": "Sphere interactions (wildfire)",
+  "review": "s1-interact",
+  "source": "CZU Wildfires (Big Basin) notes; Standard HS ecology",
+  "level": "apply",
+  "figure": null,
+  "stem": "Which event linked to the 2020 CZU Lightning Complex fire is an interaction between the <b>geosphere</b> and the <b>hydrosphere</b>?",
+  "choices": [
+   "Dry lightning from a summer storm ignited the dry forest.",
+   "Smoke and carbon dioxide from burning trees filled the air.",
+   "Winter rain washed loose, burned soil from slopes into creeks.",
+   "Redwoods resprouted from buds hidden under their thick, fire-resistant bark."
+  ],
+  "answer": 2,
+  "hint": "Translate each sphere name into an everyday word first. Then find the choice that includes both of them.",
+  "explanation": "Correct: The fire burned away plants and the soil's organic layer. Rain (hydrosphere) then eroded the bare soil (geosphere) and carried sediment and ash into streams. This is why burned slopes face higher risk of erosion and landslides: one change (the fire) chains into other spheres.",
+  "why_wrong": [
+   "Lightning and storms are atmosphere, and the forest fuel is biosphere. No land and water link is described.",
+   "This is the biosphere (burning trees) adding gases to the atmosphere.",
+   "",
+   "Resprouting redwoods are the biosphere recovering. No interaction between water and land is described."
+  ],
+  "trap": "Identifying which spheres are involved in one step of a multi-sphere event"
+ },
+ {
+  "id": "T1-07",
+  "topic": 1,
+  "subtopic": "Sphere interactions (volcano)",
+  "review": "s1-interact",
+  "source": "Standard HS ecology",
+  "level": "challenge",
+  "figure": null,
+  "stem": "A volcano erupts, sending ash and sulfur dioxide gas into the air. The gas forms acid rain, which falls into a nearby lake. The lake water becomes more acidic, and many fish die. Which sequence of spheres matches this chain of events?",
+  "choices": [
+   "Geosphere → atmosphere → hydrosphere → biosphere",
+   "Atmosphere → geosphere → biosphere → hydrosphere",
+   "Geosphere → hydrosphere → atmosphere → biosphere",
+   "Biosphere → atmosphere → hydrosphere → geosphere"
+  ],
+  "answer": 0,
+  "hint": "Take it one step at a time. Where does the eruption start? Where does the gas go? Where does the rain land? Who is harmed?",
+  "explanation": "Correct: The volcano is part of the geosphere. Its gas enters the atmosphere, acid rain falls into the lake (hydrosphere), and the fish that die are part of the biosphere. This is why Earth system science matters: a change in one sphere can ripple through all four.",
+  "why_wrong": [
+   "",
+   "The chain starts with the volcano (geosphere), not the air. The fish (biosphere) are affected last, after the lake water changes.",
+   "The gas goes into the air (atmosphere) BEFORE it falls as rain into the lake (hydrosphere).",
+   "This order is backward. The chain begins with the volcano (geosphere) and ends with the fish (biosphere)."
+  ],
+  "trap": "Tracing a multi-step chain of sphere interactions in order"
+ },
+ {
+  "id": "T2-01",
+  "topic": 2,
+  "subtopic": "Symbiosis",
+  "review": "s2-symbiosis",
+  "source": "Ecology Key Concepts review session",
+  "level": "core",
+  "figure": null,
+  "stem": "Symbiosis is a close, long-term relationship between two different species. Which list gives the correct effects (+ helped, − harmed, 0 not affected) for <b>mutualism</b>, <b>commensalism</b>, and <b>parasitism</b>, in that order?",
+  "choices": [
+   "+/+, +/−, +/0",
+   "+/0, +/+, +/−",
+   "+/+, −/−, +/−",
+   "+/+, +/0, +/−"
+  ],
+  "answer": 3,
+  "hint": "Start with the one you're surest of: 'mutual' means shared by both. Then decide which of the other two actually harms the second species.",
+  "explanation": "Correct: Mutualism means both species benefit (+/+), like bees and flowers. Commensalism means one benefits and the other is unaffected (+/0), like barnacles on a whale. Parasitism means the parasite benefits and the host is harmed (+/−), like a tick on a deer.",
+  "why_wrong": [
+   "Commensalism and parasitism are swapped. Commensalism is +/0 (no harm), and parasitism is +/− (the host is harmed).",
+   "Mutualism is +/+, not +/0. This list starts with commensalism.",
+   "−/− (both harmed) is competition, not commensalism.",
+   ""
+  ],
+  "trap": "Commensalism (+/0) vs. mutualism (+/+) vs. parasitism (+/−)"
+ },
+ {
+  "id": "T2-02",
+  "topic": 2,
+  "subtopic": "Inter- and Intra-specific Competition",
+  "review": "s2-competition",
+  "source": "Ecology Key Concepts review session",
+  "level": "core",
+  "figure": null,
+  "stem": "In Ms. Hero's review example, a lion and a tiger compete for the same water buffalo. What kind of relationship exists between the <b>lion and the tiger</b>?",
+  "choices": [
+   "Interspecific competition",
+   "Intraspecific competition",
+   "Predation",
+   "Mutualism"
+  ],
+  "answer": 0,
+  "hint": "Focus only on the two cats, not the buffalo. Are they the same species or different species?",
+  "explanation": "Correct: Interspecific competition happens between DIFFERENT species that need the same limited resource, here the same prey. Both are harmed (−/−) because each gets less food. Intraspecific competition happens within ONE species, like seagulls fighting over nesting space on a rock.",
+  "why_wrong": [
+   "",
+   "'Intra-' means within, so intraspecific competition is within the same species. Lions and tigers are different species, even though both are big cats.",
+   "Each cat preys on the buffalo, but the question asks about the lion and the tiger. With each other, they compete for a shared resource.",
+   "Neither cat benefits from the other. Both lose food, so the relationship is −/−, not +/+."
+  ],
+  "trap": "Inter- (between species) vs. intra- (within one species); don't get distracted by the prey"
+ },
+ {
+  "id": "T2-03",
+  "topic": 2,
+  "subtopic": "Keystone Species",
+  "review": "s2-keystone",
+  "source": "Gizmos: Ecosystems STEM Case Handbook",
+  "level": "core",
+  "figure": null,
+  "stem": "Which statement best describes a <b>keystone species</b>?",
+  "choices": [
+   "It is always the most abundant species in its ecosystem.",
+   "It is always the largest top predator in the food web.",
+   "Removing it can upset the balance of the whole ecosystem.",
+   "It is the producer that supplies the most energy to consumers."
+  ],
+  "answer": 2,
+  "hint": "Picture the keystone at the top of a stone arch. It is only one stone, but what happens to the arch if you pull it out?",
+  "explanation": "Correct: A keystone species has a much bigger effect on its ecosystem than its numbers suggest. If it is removed, the balance (equilibrium) can collapse, as happened with the wolves in the Atlas National Park Gizmo. Keystones can be predators, pollinators like bees, or ecosystem engineers like beavers, and one ecosystem can have more than one.",
+  "why_wrong": [
+   "Keystones are often NOT abundant. Atlas NP normally has only about 95–120 wolves but 4,000–8,000 deer. Importance does not equal numbers.",
+   "Many keystones are predators, but not all. Pollinators such as bees and dam-builders such as beavers can also be keystone species.",
+   "",
+   "A producer can sometimes be a keystone, but the definition is about how much the ecosystem changes when the species is removed, not about supplying the most energy."
+  ],
+  "trap": "Keystone ≠ most abundant, and ≠ always the top predator"
+ },
+ {
+  "id": "T2-04",
+  "topic": 2,
+  "subtopic": "Mutualism",
+  "review": "s2-symbiosis",
+  "source": "Standard HS ecology; Ecological Succession: Life from Stone",
+  "level": "apply",
+  "figure": null,
+  "stem": "A <b>lichen</b> on a bare granite boulder in Yosemite is really two organisms living together. The fungus holds water and gives shelter. The alga uses sunlight to make sugar that both partners use. Which relationship is this?",
+  "choices": [
+   "Commensalism",
+   "Mutualism",
+   "Parasitism",
+   "Interspecific competition"
+  ],
+  "answer": 1,
+  "hint": "List what each partner gets out of the deal. Does each one receive something?",
+  "explanation": "Correct: Both partners benefit (+/+). The alga gets water and shelter, and the fungus gets food from photosynthesis. This mutualism lets lichens survive on bare rock with no soil, which is why lichens are pioneer species in primary succession.",
+  "why_wrong": [
+   "In commensalism only one partner benefits and the other is unaffected. Here both partners get something.",
+   "",
+   "Neither partner is harmed. Parasitism requires one species (the host) to be hurt.",
+   "Competition harms both species (−/−). Here the two partners help each other."
+  ],
+  "trap": "Lichen = mutualism"
+ },
+ {
+  "id": "T2-05",
+  "topic": 2,
+  "subtopic": "Commensalism",
+  "review": "s2-symbiosis",
+  "source": "Standard HS ecology",
+  "level": "apply",
+  "figure": null,
+  "stem": "Barnacles attach to the skin of gray whales migrating past the Santa Cruz coast. The barnacles get a free ride to waters full of plankton, which they filter from the sea. The whale is not noticeably helped or harmed. Which relationship is this?",
+  "choices": [
+   "Mutualism",
+   "Parasitism",
+   "Commensalism",
+   "Predation"
+  ],
+  "answer": 2,
+  "hint": "Give each species a symbol. Does the whale get a +, a −, or a 0?",
+  "explanation": "Correct: Commensalism is +/0. The barnacle benefits (transport and food) and the whale is basically unaffected. The key clue is that the whale is neither helped nor harmed.",
+  "why_wrong": [
+   "Mutualism requires BOTH species to benefit. The whale gets nothing from the barnacles.",
+   "Parasites harm their host, usually by feeding on it. Barnacles filter plankton from the water, not from the whale's body.",
+   "",
+   "In predation, one animal kills and eats the other. Barnacles don't eat whales."
+  ],
+  "trap": "Commensalism (+/0) vs. mutualism (+/+)"
+ },
+ {
+  "id": "T2-06",
+  "topic": 2,
+  "subtopic": "Parasitism",
+  "review": "s2-symbiosis",
+  "source": "Standard HS ecology",
+  "level": "apply",
+  "figure": null,
+  "stem": "A tick attaches to a mule deer in Big Basin and drinks its blood for several days. The deer loses some energy and may catch a disease, but it usually survives. Which relationship is this?",
+  "choices": [
+   "Parasitism",
+   "Predation",
+   "Commensalism",
+   "Mutualism"
+  ],
+  "answer": 0,
+  "hint": "The tick benefits and the deer is harmed. But is the deer killed and eaten right away?",
+  "explanation": "Correct: This is parasitism (+/−). The tick (the parasite) benefits by feeding on the deer (the host), which is harmed but usually not killed, because a parasite needs its host alive to keep feeding. Predation is also +/−, but a predator kills and eats its prey.",
+  "why_wrong": [
+   "",
+   "Predation is also +/−, but a predator (like a puma) kills and eats its prey. The tick feeds on a living host for days.",
+   "In commensalism the second species is unaffected. This deer is harmed by blood loss and possible disease.",
+   "Mutualism requires both species to benefit. The deer gains nothing from the tick."
+  ],
+  "trap": "Parasite vs. predator: parasites usually don't kill their host quickly"
+ },
+ {
+  "id": "T2-07",
+  "topic": 2,
+  "subtopic": "Inter- and Intra-specific Competition",
+  "review": "s2-competition",
+  "source": "Ecology Key Concepts review session; Limiting Factors and Carrying Capacity worksheet; Creating Chains and Webs — Redwood Forests",
+  "level": "apply",
+  "figure": null,
+  "stem": "<b>Scenario 1:</b> In Big Basin, coyotes and bobcats both hunt the same California brush rabbits.<br><b>Scenario 2:</b> Western gulls crowd onto one small rocky shore and fight over nesting space.<br>Which choice correctly classifies the competition in each scenario?",
+  "choices": [
+   "1 = intraspecific; 2 = interspecific",
+   "1 = interspecific; 2 = interspecific",
+   "1 = intraspecific; 2 = intraspecific",
+   "1 = interspecific; 2 = intraspecific"
+  ],
+  "answer": 3,
+  "hint": "For each scenario, count how many species are competing: one or two?",
+  "explanation": "Correct: Coyotes and bobcats are different species competing for the same prey, so Scenario 1 is interspecific (between species). Gulls of one species competing for nest sites is intraspecific (within a species). Both kinds of competition are −/− and help limit population size. A gull pair that finds no nesting room raises no chicks.",
+  "why_wrong": [
+   "This is reversed. 'Inter-' means between different species (coyote vs. bobcat), and 'intra-' means within one species (gull vs. gull).",
+   "Scenario 2 involves only one species (Western gulls), so it is intraspecific.",
+   "Scenario 1 involves two species (coyote and bobcat), so it is interspecific.",
+   ""
+  ],
+  "trap": "Inter- vs. intra-specific competition"
+ },
+ {
+  "id": "T2-08",
+  "topic": 2,
+  "subtopic": "Predator/Prey",
+  "review": "s2-predprey",
+  "source": "Creating Chains and Webs — Redwood Forests (Big Basin)",
+  "level": "apply",
+  "figure": null,
+  "stem": "Pumas (mountain lions) are the main predator of mule deer in Big Basin. Suppose a disease killed most of the pumas. What is the most likely <b>short-term</b> effect?",
+  "choices": [
+   "Deer would decline, because deer depend on pumas to survive.",
+   "Deer would increase and eat more of the plants they feed on.",
+   "Plants would increase, because fewer pumas would be eating them.",
+   "Nothing would change, because top predators don't affect other species."
+  ],
+  "answer": 1,
+  "hint": "Predators keep prey populations in check. What happens to the prey when that check is removed?",
+  "explanation": "Correct: With fewer predators, more deer survive and reproduce, so the deer population grows. More deer then eat more plants such as redwood sorrel. This shows why predator–prey relationships matter: predators keep prey from overgrazing their food supply.",
+  "why_wrong": [
+   "Prey don't depend on predators for food; it's the other way around. Losing predators usually lets prey numbers rise.",
+   "",
+   "Pumas are carnivores and don't eat plants. Plants would more likely DECREASE as the growing deer herd eats them.",
+   "Predators can strongly affect other species. The Atlas NP wolves showed how losing a top predator ripples through a whole food web."
+  ],
+  "trap": "Removing a predator → prey INCREASE (not decrease)"
+ },
+ {
+  "id": "T2-09",
+  "topic": 2,
+  "subtopic": "Keystone Species",
+  "review": "s2-keystone",
+  "source": "Gizmos: Ecosystems STEM Case — Atlas National Park",
+  "level": "challenge",
+  "figure": null,
+  "stem": "In the Atlas National Park Gizmo, two fixes were tested for an unbalanced ecosystem. Use the data to decide which species is the <b>keystone species</b>.<br><table class='qt'><tr><th>Species</th><th>Normal range</th><th>Now</th><th>5 yrs after adding bees</th><th>5 yrs after adding wolves</th></tr><tr><td>Grass (blades/m²)</td><td>800–1,000</td><td>400</td><td>350</td><td>850</td></tr><tr><td>Deer</td><td>4,000–8,000</td><td>15,000</td><td>17,000</td><td>7,000</td></tr><tr><td>Coyotes</td><td>250–300</td><td>600</td><td>650</td><td>270</td></tr><tr><td>Ravens</td><td>220–270</td><td>160</td><td>145</td><td>245</td></tr><tr><td>Bees (hives)</td><td>4,000–5,000</td><td>2,000</td><td>3,000</td><td>4,250</td></tr><tr><td>Wolves</td><td>95–120</td><td>0</td><td>0</td><td>97</td></tr></table>",
+  "choices": [
+   "Wolves, because adding them returned every population to its normal range",
+   "Bees, because their hives were far below normal and adding bees raised hives to 3,000",
+   "Deer, because they had the largest population and affected every other species",
+   "Grass, because it is the producer that all of the other species depend on"
+  ],
+  "answer": 0,
+  "hint": "Compare each of the last two columns with the normal range. Which fix actually restored balance?",
+  "explanation": "Correct: After wolves were added, all six populations returned to their normal ranges (deer 15,000 → 7,000; grass 400 → 850 blades/m²), so equilibrium was restored. Adding bees made most things worse: deer rose to 17,000 and grass fell to 350 blades/m². Wolves were the missing keystone. By controlling deer and coyotes, they indirectly protected the grass, bees, and ravens.",
+  "why_wrong": [
+   "",
+   "Bees are important pollinators, and many people guess bees. But adding bees did NOT fix the park: hives stayed below normal (3,000), and deer and grass got worse.",
+   "Deer were the most abundant species, but a keystone isn't the most abundant species. The deer boom was a SYMPTOM of losing the wolves.",
+   "Grass is a vital producer, but it was low because too many deer were eating it. Adding wolves, not grass, fixed the system."
+  ],
+  "trap": "Atlas NP keystone = wolves, NOT bees (and not the most abundant species)"
+ },
+ {
+  "id": "T2-10",
+  "topic": 2,
+  "subtopic": "Keystone Species (trophic cascade)",
+  "review": "s2-keystone",
+  "source": "Gizmos: Ecosystems STEM Case — Atlas National Park",
+  "level": "challenge",
+  "figure": null,
+  "stem": "In Atlas National Park, wolves do not eat grass or bees. Yet after the wolves disappeared, grass fell to 400 blades/m² (normal 800–1,000) and bee hives fell to 2,000 (normal 4,000–5,000). Which chain of events best explains this?",
+  "choices": [
+   "No wolves → fewer deer → less grazing → fewer hives",
+   "No wolves → more coyotes → coyotes ate the grass → fewer hives",
+   "No wolves → more deer → overgrazed plants → fewer hives",
+   "Bees declined first → wolves lost a food source → wolves vanished"
+  ],
+  "answer": 2,
+  "hint": "Look for the chain where every arrow is a real feeding link: predator → its prey → what the prey eats.",
+  "explanation": "Correct: This is a trophic cascade. Without wolves, the deer population exploded (15,000 vs. a normal 4,000–8,000) and overgrazed the plants — grass fell to 400 blades/m² (normal 800–1,000), and the flowering plants that bees depend on for nectar and pollen were eaten too, so bee hives declined. Losing one keystone predator rippled down through the food web.",
+  "why_wrong": [
+   "Removing a predator makes its prey INCREASE, not decrease. Less grazing would also leave MORE grass, but grass actually fell to 400 blades/m².",
+   "Coyotes did increase, but coyotes are meat-eating predators, not grass grazers. The grazers in this park are the deer.",
+   "",
+   "This reverses cause and effect, and the stem says wolves don't eat bees. Wolves were the first species to drop out of their normal range (around 1920)."
+  ],
+  "trap": "Trophic cascade: a keystone's effects travel indirectly through the food web"
+ },
+ {
+  "id": "T7-01",
+  "topic": 7,
+  "subtopic": "Ecosystem",
+  "review": "s7-ecosystem",
+  "source": "Gizmos: Ecosystems STEM Case Handbook",
+  "level": "core",
+  "figure": null,
+  "stem": "The Gizmo handbook says 'eco' means <i>home</i>. Which statement best defines an <b>ecosystem</b>?",
+  "choices": [
+   "The place where a single species lives, finds food, and raises young",
+   "All the living things in an area plus the nonliving parts, interacting",
+   "All the different species living together in one area",
+   "A large natural area at least the size of a forest or park"
+  ],
+  "answer": 1,
+  "hint": "Does an ecosystem include only living things, or also things like sunlight, water, and soil?",
+  "explanation": "Correct: An ecosystem is a community of living things (biotic factors) PLUS the nonliving environment (abiotic factors such as sunlight, water, air, rocks, and soil), all interacting. Ecosystems come in different sizes: a pond, a forest like Big Basin, or even the whole Earth.",
+  "why_wrong": [
+   "That is a habitat, one species' home. An ecosystem includes many species and the nonliving environment they share.",
+   "",
+   "That is a community, which includes only the living things. An ecosystem also includes the nonliving parts.",
+   "Ecosystems can be any size. A pond, or even a rotting log, can be an ecosystem."
+  ],
+  "trap": "Ecosystem (biotic + abiotic) vs. community (biotic only) vs. habitat"
+ },
+ {
+  "id": "T7-02",
+  "topic": 7,
+  "subtopic": "Equilibrium",
+  "review": "s7-equilibrium",
+  "source": "Gizmos: Ecosystems STEM Case Handbook",
+  "level": "core",
+  "figure": null,
+  "stem": "The Gizmo handbook says healthy ecosystems have a balance, or <b>equilibrium</b>, among all species. Which description best fits an ecosystem in equilibrium?",
+  "choices": [
+   "Every species has exactly the same number of individuals.",
+   "Populations never change at all from one year to the next.",
+   "One species keeps growing until it outnumbers all the other species.",
+   "Populations rise and fall slightly but stay within normal ranges."
+  ],
+  "answer": 3,
+  "hint": "Balance doesn't mean frozen. Think about the 'normal range' column in the Atlas NP data.",
+  "explanation": "Correct: Equilibrium is a dynamic balance. Populations go up and down slightly (births, deaths, seasons) but stay within a normal range over time, as in Atlas NP after the wolves returned (deer at 7,000, inside the normal 4,000–8,000). A healthy, resilient ecosystem can return to this balance after small disturbances.",
+  "why_wrong": [
+   "Balance doesn't mean equal numbers. A healthy Atlas NP has 4,000–8,000 deer but only about 95–120 wolves, because less energy reaches the top of the food chain.",
+   "Real populations always change a little. Equilibrium allows small ups and downs around a stable level.",
+   "One species growing out of control, like deer reaching 15,000 in Atlas NP, is a sign that the ecosystem is OUT of balance.",
+   ""
+  ],
+  "trap": "Equilibrium ≠ equal numbers, and ≠ no change at all"
+ },
+ {
+  "id": "T7-03",
+  "topic": 7,
+  "subtopic": "Ecosystem (levels of organization)",
+  "review": "s7-ecosystem",
+  "source": "Standard HS ecology; Gizmos: Ecosystems STEM Case Handbook",
+  "level": "apply",
+  "figure": null,
+  "stem": "A student studies a small pond in the Santa Cruz Mountains. Which choice describes the pond at the <b>ecosystem</b> level?",
+  "choices": [
+   "One rough-skinned newt swimming in the shallow water near the shore",
+   "The pond's newts, algae, and insects plus its water, mud, and light",
+   "All of the rough-skinned newts that live and breed in the pond",
+   "All of the newts, algae, insects, and bacteria living in the pond"
+  ],
+  "answer": 1,
+  "hint": "Check each choice for nonliving things. Which level of organization is the first to include them?",
+  "explanation": "Correct: An ecosystem includes the living community AND the abiotic environment (water, mud, sunlight), interacting. Even a small pond counts, because ecosystems come in different sizes, from a pond to a forest like Big Basin to the whole Earth.",
+  "why_wrong": [
+   "One individual is an organism, the smallest level.",
+   "",
+   "All the members of ONE species in an area form a population.",
+   "All the living species together form a community. It leaves out the nonliving parts, so it is not yet an ecosystem."
+  ],
+  "trap": "Community vs. ecosystem: the ecosystem must include the abiotic parts"
+ },
+ {
+  "id": "T7-04",
+  "topic": 7,
+  "subtopic": "Biotic/Abiotic factors",
+  "review": "s7-biotic",
+  "source": "Ecology Key Concepts review session; Standard HS ecology",
+  "level": "apply",
+  "figure": null,
+  "stem": "Which list contains <b>only biotic</b> factors from a Big Basin redwood forest?",
+  "choices": [
+   "Sunlight, creek water, granite rocks, soil minerals",
+   "Banana slug, sunlight, mule deer, granite rocks",
+   "Air temperature, wind, dead leaves, fungi",
+   "Redwood tree, rotting log, fungi, soil bacteria"
+  ],
+  "answer": 3,
+  "hint": "Biotic means living OR once living. Check every item carefully, including anything that is dead.",
+  "explanation": "Correct: All four items are biotic. Redwoods, fungi, and bacteria are alive. A fallen log is also BIOTIC because it came from a once-living tree, and it is food for decomposers like fungi and banana slugs. Abiotic factors were never alive: sunlight, water, air, temperature, rocks, and soil minerals.",
+  "why_wrong": [
+   "Every item here is ABIOTIC. None of them is alive or was ever alive.",
+   "Banana slugs and deer are biotic, but sunlight and rocks are abiotic, so this list is mixed.",
+   "Dead leaves and fungi are biotic, but air temperature and wind are abiotic, so this list is mixed.",
+   ""
+  ],
+  "trap": "Dead logs and dead leaves are BIOTIC (once living)"
+ },
+ {
+  "id": "T7-05",
+  "topic": 7,
+  "subtopic": "Biotic/Abiotic factors",
+  "review": "s7-biotic",
+  "source": "CZU Wildfires (Big Basin) notes",
+  "level": "challenge",
+  "figure": null,
+  "stem": "After the 2020 CZU fire burned much of Big Basin's tree canopy, much more sunlight reached the forest floor. Which statement correctly classifies the factors <b>and</b> predicts the most likely result?",
+  "choices": [
+   "Sunlight (biotic) went up, so understory plants (abiotic) grew more.",
+   "Sunlight (abiotic) went up, but plants didn't change, since abiotic factors can't affect life.",
+   "Sunlight (abiotic) went up, so understory plants (biotic) grew more.",
+   "Sunlight (abiotic) went up, so understory plants (biotic) grew less, since plants make food from shade."
+  ],
+  "answer": 2,
+  "hint": "First decide which factor is living and which is not. Then ask what plants use sunlight for.",
+  "explanation": "Correct: Sunlight is abiotic (never alive), and understory plants are biotic. Plants use sunlight for photosynthesis, so once the canopy burned away, shrubs, wildflowers, and seedlings grew thickly beneath the burned trees, just as the class CZU notes describe. A change in an abiotic factor can change the whole living community.",
+  "why_wrong": [
+   "The labels are reversed. Sunlight is abiotic (nonliving), and plants are biotic (living).",
+   "Abiotic factors strongly affect living things. Sunlight, water, and temperature control how well plants grow.",
+   "",
+   "Plants need light, not shade, to make food by photosynthesis. More light at the forest floor lets understory plants grow more."
+  ],
+  "trap": "Abiotic changes affect biotic factors (and correct classification of each)"
+ }
+]

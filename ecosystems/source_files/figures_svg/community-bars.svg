@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 368" width="100%" role="img" aria-label="Two horizontal bar charts of relative abundance. Community A (total 200): species A 0.050, B 0.625, C 0.015, D 0.115, E 0.195. Community B (total 100): species A 0.10, E 0.35, F 0.08, G 0.18, H 0.29. Both communities have 5 species but different evenness." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#1f2937">
+<title>Relative abundance in Community A and Community B</title>
+<text x="360" y="30" font-size="17" font-weight="bold" text-anchor="middle">Same richness (5 species), different evenness</text>
+<text x="220" y="60" font-size="15" font-weight="bold" fill="#2f855a" text-anchor="middle">Community A</text>
+<text x="220" y="77" font-size="13" fill="#6b7280" text-anchor="middle">(total 200 individuals)</text>
+<line x1="104" y1="84" x2="104" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="104" y1="280" x2="104" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="104" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0</text>
+<line x1="137.14" y1="84" x2="137.14" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="137.14" y1="280" x2="137.14" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="137.14" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.1</text>
+<line x1="170.29" y1="84" x2="170.29" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="170.29" y1="280" x2="170.29" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="170.29" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.2</text>
+<line x1="203.43" y1="84" x2="203.43" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="203.43" y1="280" x2="203.43" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="203.43" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.3</text>
+<line x1="236.57" y1="84" x2="236.57" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="236.57" y1="280" x2="236.57" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="236.57" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.4</text>
+<line x1="269.71" y1="84" x2="269.71" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="269.71" y1="280" x2="269.71" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="269.71" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.5</text>
+<line x1="302.86" y1="84" x2="302.86" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="302.86" y1="280" x2="302.86" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="302.86" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.6</text>
+<line x1="336" y1="84" x2="336" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="336" y1="280" x2="336" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="336" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.7</text>
+<line x1="104" y1="84" x2="104" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="104" y1="280" x2="336" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+<text x="220" y="320" font-size="13" text-anchor="middle">Relative abundance</text>
+<rect x="104" y="92" width="16.57" height="24" fill="#2f855a" stroke="#1f2937" stroke-width="1"/>
+<text x="94" y="109" font-size="13" text-anchor="end">Species A</text>
+<text x="126.57" y="109" font-size="13" font-weight="bold">0.050</text>
+<rect x="104" y="131" width="207.14" height="24" fill="#2f855a" stroke="#1f2937" stroke-width="1"/>
+<text x="94" y="148" font-size="13" text-anchor="end">Species B</text>
+<text x="317.14" y="148" font-size="13" font-weight="bold">0.625</text>
+<rect x="104" y="170" width="4.97" height="24" fill="#2f855a" stroke="#1f2937" stroke-width="1"/>
+<text x="94" y="187" font-size="13" text-anchor="end">Species C</text>
+<text x="114.97" y="187" font-size="13" font-weight="bold">0.015</text>
+<rect x="104" y="209" width="38.11" height="24" fill="#2f855a" stroke="#1f2937" stroke-width="1"/>
+<text x="94" y="226" font-size="13" text-anchor="end">Species D</text>
+<text x="148.11" y="226" font-size="13" font-weight="bold">0.115</text>
+<rect x="104" y="248" width="64.63" height="24" fill="#2f855a" stroke="#1f2937" stroke-width="1"/>
+<text x="94" y="265" font-size="13" text-anchor="end">Species E</text>
+<text x="174.63" y="265" font-size="13" font-weight="bold">0.195</text>
+<text x="582" y="60" font-size="15" font-weight="bold" fill="#3182ce" text-anchor="middle">Community B</text>
+<text x="582" y="77" font-size="13" fill="#6b7280" text-anchor="middle">(total 100 individuals)</text>
+<line x1="466" y1="84" x2="466" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="466" y1="280" x2="466" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="466" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0</text>
+<line x1="499.14" y1="84" x2="499.14" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="499.14" y1="280" x2="499.14" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="499.14" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.1</text>
+<line x1="532.29" y1="84" x2="532.29" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="532.29" y1="280" x2="532.29" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="532.29" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.2</text>
+<line x1="565.43" y1="84" x2="565.43" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="565.43" y1="280" x2="565.43" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="565.43" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.3</text>
+<line x1="598.57" y1="84" x2="598.57" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="598.57" y1="280" x2="598.57" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="598.57" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.4</text>
+<line x1="631.71" y1="84" x2="631.71" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="631.71" y1="280" x2="631.71" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="631.71" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.5</text>
+<line x1="664.86" y1="84" x2="664.86" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="664.86" y1="280" x2="664.86" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="664.86" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.6</text>
+<line x1="698" y1="84" x2="698" y2="280" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="698" y1="280" x2="698" y2="285" stroke="#6b7280" stroke-width="1"/>
+<text x="698" y="299" font-size="12" fill="#6b7280" text-anchor="middle">0.7</text>
+<line x1="466" y1="84" x2="466" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="466" y1="280" x2="698" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+<text x="582" y="320" font-size="13" text-anchor="middle">Relative abundance</text>
+<rect x="466" y="92" width="33.14" height="24" fill="#3182ce" stroke="#1f2937" stroke-width="1"/>
+<text x="456" y="109" font-size="13" text-anchor="end">Species A</text>
+<text x="505.14" y="109" font-size="13" font-weight="bold">0.10</text>
+<rect x="466" y="131" width="116" height="24" fill="#3182ce" stroke="#1f2937" stroke-width="1"/>
+<text x="456" y="148" font-size="13" text-anchor="end">Species E</text>
+<text x="588" y="148" font-size="13" font-weight="bold">0.35</text>
+<rect x="466" y="170" width="26.51" height="24" fill="#3182ce" stroke="#1f2937" stroke-width="1"/>
+<text x="456" y="187" font-size="13" text-anchor="end">Species F</text>
+<text x="498.51" y="187" font-size="13" font-weight="bold">0.08</text>
+<rect x="466" y="209" width="59.66" height="24" fill="#3182ce" stroke="#1f2937" stroke-width="1"/>
+<text x="456" y="226" font-size="13" text-anchor="end">Species G</text>
+<text x="531.66" y="226" font-size="13" font-weight="bold">0.18</text>
+<rect x="466" y="248" width="96.11" height="24" fill="#3182ce" stroke="#1f2937" stroke-width="1"/>
+<text x="456" y="265" font-size="13" text-anchor="end">Species H</text>
+<text x="568.11" y="265" font-size="13" font-weight="bold">0.29</text>
+<text x="360" y="352" font-size="13" fill="#6b7280" text-anchor="middle" font-style="italic">Relative abundance = individuals of one species ÷ total individuals in the sample</text>
+</svg>

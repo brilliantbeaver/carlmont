@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 488" width="100%" role="img" aria-label="Venn diagram comparing primary and secondary succession. Primary only: no soil at start; bare rock, lava, or glacier-scraped granite; pioneers are lichens and mosses; very slow, hundreds to 1,000+ years. Both: gradual change in the community over time; pioneer to intermediate to climax; soil and biodiversity increase; triggered by disturbance or new land. Secondary only: soil remains; after fire, flood, farming, or logging; pioneers are grasses and wildflowers; faster, decades to about 150 years. Separate box: Tertiary (Ms. Hero): soil not intact, so humans intervene to restore it by replanting, adding soil, and erosion control." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title>Primary vs. secondary succession (Venn diagram)</title>
+<text x="360" y="26" font-size="17" font-weight="bold" fill="#1f2937" text-anchor="middle">Primary vs. secondary succession</text>
+<ellipse cx="244" cy="232" rx="234" ry="162" fill="#f6e7cb" fill-opacity="0.75" stroke="#8b5e34" stroke-width="2"/>
+<ellipse cx="476" cy="232" rx="234" ry="162" fill="#c6f6d5" fill-opacity="0.55" stroke="#2f855a" stroke-width="2" stroke-dasharray="7 4"/>
+<ellipse cx="244" cy="232" rx="234" ry="162" fill="none" stroke="#8b5e34" stroke-width="2"/>
+<text x="140" y="58" font-size="16" font-weight="bold" fill="#8b5e34" text-anchor="middle">PRIMARY</text>
+<text x="360" y="58" font-size="16" font-weight="bold" fill="#1f2937" text-anchor="middle">BOTH</text>
+<text x="580" y="58" font-size="16" font-weight="bold" fill="#2f855a" text-anchor="middle">SECONDARY</text>
+<text x="140" y="160.25" font-size="14" font-weight="bold" fill="#1f2937" text-anchor="middle">No soil at start</text>
+<line x1="126" y1="172.75" x2="154" y2="172.75" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="140" y="191.75" font-size="14" fill="#1f2937" text-anchor="middle">Bare rock, lava, or</text>
+<text x="140" y="209.25" font-size="14" fill="#1f2937" text-anchor="middle">glacier-scraped granite</text>
+<line x1="126" y1="221.75" x2="154" y2="221.75" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="140" y="240.75" font-size="14" fill="#1f2937" text-anchor="middle">Pioneers = lichens</text>
+<text x="140" y="258.25" font-size="14" fill="#1f2937" text-anchor="middle">&amp; mosses</text>
+<line x1="126" y1="270.75" x2="154" y2="270.75" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="140" y="289.75" font-size="14" fill="#1f2937" text-anchor="middle">Very slow: hundreds</text>
+<text x="140" y="307.25" font-size="14" fill="#1f2937" text-anchor="middle">to 1,000+ years</text>
+<text x="580" y="160.25" font-size="14" font-weight="bold" fill="#1f2937" text-anchor="middle">Soil remains</text>
+<line x1="566" y1="172.75" x2="594" y2="172.75" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="580" y="191.75" font-size="14" fill="#1f2937" text-anchor="middle">After fire, flood,</text>
+<text x="580" y="209.25" font-size="14" fill="#1f2937" text-anchor="middle">farming, or logging</text>
+<line x1="566" y1="221.75" x2="594" y2="221.75" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="580" y="240.75" font-size="14" fill="#1f2937" text-anchor="middle">Pioneers = grasses</text>
+<text x="580" y="258.25" font-size="14" fill="#1f2937" text-anchor="middle">&amp; wildflowers</text>
+<line x1="566" y1="270.75" x2="594" y2="270.75" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="580" y="289.75" font-size="14" fill="#1f2937" text-anchor="middle">Faster: decades</text>
+<text x="580" y="307.25" font-size="14" fill="#1f2937" text-anchor="middle">to ~150 years</text>
+<text x="360" y="133.38" font-size="13.5" fill="#1f2937" text-anchor="middle">Gradual change</text>
+<text x="360" y="149.88" font-size="13.5" fill="#1f2937" text-anchor="middle">in the community</text>
+<text x="360" y="166.38" font-size="13.5" fill="#1f2937" text-anchor="middle">over time</text>
+<line x1="346" y1="177.75" x2="374" y2="177.75" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="360" y="194.88" font-size="13.5" fill="#1f2937" text-anchor="middle">Pioneer →</text>
+<text x="360" y="211.38" font-size="13.5" fill="#1f2937" text-anchor="middle">intermediate →</text>
+<text x="360" y="227.88" font-size="13.5" fill="#1f2937" text-anchor="middle">climax</text>
+<line x1="346" y1="239.25" x2="374" y2="239.25" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="360" y="256.38" font-size="13.5" fill="#1f2937" text-anchor="middle">Soil &amp; biodiversity</text>
+<text x="360" y="272.88" font-size="13.5" fill="#1f2937" text-anchor="middle">increase</text>
+<line x1="346" y1="284.25" x2="374" y2="284.25" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-opacity="0.7"/>
+<text x="360" y="301.38" font-size="13.5" fill="#1f2937" text-anchor="middle">Triggered by</text>
+<text x="360" y="317.88" font-size="13.5" fill="#1f2937" text-anchor="middle">disturbance or</text>
+<text x="360" y="334.38" font-size="13.5" fill="#1f2937" text-anchor="middle">new land</text>
+<rect x="74" y="412" width="572" height="62" rx="10" fill="#6b46c1" fill-opacity="0.08" stroke="#6b46c1" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="360" y="436" font-size="13.5" font-weight="bold" fill="#6b46c1" text-anchor="middle">Tertiary (Ms. Hero): soil NOT intact → humans intervene to restore</text>
+<text x="360" y="457" font-size="13.5" fill="#1f2937" text-anchor="middle">(replanting, adding soil, erosion control)</text>
+</svg>

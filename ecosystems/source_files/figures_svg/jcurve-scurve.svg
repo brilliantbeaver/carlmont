@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="100%" role="img" aria-label="Two graphs of population versus time. Left, Exponential (J-curve): with unlimited resources and no carrying capacity, the population curve starts slowly then rises faster and faster. Right, Logistic (S-curve): the population rises quickly, then slows and levels off at a dashed line labeled carrying capacity K." font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title>Exponential (J-curve) versus logistic (S-curve) population growth</title>
+<defs><marker id="jcurve-scurve-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker><marker id="jcurve-scurve-carrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3182ce"/></marker></defs>
+<text x="191" y="30" font-size="16" text-anchor="middle" font-weight="700" fill="#1f2937">Exponential (J-curve)</text>
+<text x="191" y="52" font-size="13" text-anchor="middle" fill="#6b7280">Unlimited resources — no carrying capacity</text>
+<line x1="72" y1="286" x2="72" y2="78" stroke="#1f2937" stroke-width="2" marker-end="url(#jcurve-scurve-arrow)"/>
+<line x1="72" y1="286" x2="342" y2="286" stroke="#1f2937" stroke-width="2" marker-end="url(#jcurve-scurve-arrow)"/>
+<text x="56" y="189" font-size="14" text-anchor="middle" font-weight="600" fill="#1f2937" transform="rotate(-90 56 189)">Population</text>
+<text x="201" y="312" font-size="14" text-anchor="middle" font-weight="600" fill="#1f2937">Time</text>
+<path d="M74,278.2C78.6,277.9 83.1,277.5 87.7,277C92.2,276.6 96.8,276.1 101.4,275.6C105.9,275 110.5,274.5 115,273.8C119.6,273.2 124.1,272.5 128.7,271.7C133.3,270.9 137.8,270 142.4,269.1C146.9,268.1 151.5,267.1 156.1,266C160.6,264.8 165.2,263.6 169.7,262.2C174.3,260.8 178.9,259.3 183.4,257.6C188,256 192.5,254.1 197.1,252.1C201.6,250.1 206.2,247.9 210.8,245.4C215.3,243 219.9,240.3 224.4,237.3C229,234.4 233.6,231.2 238.1,227.6C242.7,224 247.2,220.1 251.8,215.8C256.4,211.4 260.9,206.7 265.5,201.5C270,196.2 274.6,190.5 279.1,184.2C283.7,177.9 288.3,170.9 292.8,163.3C297.4,155.6 301.9,147.2 306.5,138" fill="none" stroke="#3182ce" stroke-width="3.5" stroke-linecap="round" marker-end="url(#jcurve-scurve-carrow)"/>
+<text x="149" y="165" font-size="13" text-anchor="middle" font-style="italic" fill="#6b7280">keeps rising</text>
+<text x="149" y="182" font-size="13" text-anchor="middle" font-style="italic" fill="#6b7280">faster and faster</text>
+<text x="551" y="30" font-size="16" text-anchor="middle" font-weight="700" fill="#1f2937">Logistic (S-curve)</text>
+<text x="551" y="52" font-size="13" text-anchor="middle" fill="#6b7280">Limited resources — levels off at K</text>
+<line x1="432" y1="286" x2="432" y2="78" stroke="#1f2937" stroke-width="2" marker-end="url(#jcurve-scurve-arrow)"/>
+<line x1="432" y1="286" x2="702" y2="286" stroke="#1f2937" stroke-width="2" marker-end="url(#jcurve-scurve-arrow)"/>
+<text x="416" y="189" font-size="14" text-anchor="middle" font-weight="600" fill="#1f2937" transform="rotate(-90 416 189)">Population</text>
+<text x="561" y="312" font-size="14" text-anchor="middle" font-weight="600" fill="#1f2937">Time</text>
+<line x1="432" y1="145.8" x2="690" y2="145.8" stroke="#c53030" stroke-width="2.2" stroke-dasharray="9 6"/>
+<text x="690" y="135.8" font-size="14" text-anchor="end" font-weight="700" fill="#c53030">Carrying capacity (K)</text>
+<path d="M434,282.7C437.5,282.4 440.9,282.2 444.4,281.9C447.9,281.6 451.4,281.2 454.8,280.7C458.3,280.2 461.8,279.6 465.2,278.8C468.7,278.1 472.2,277.1 475.7,276C479.1,274.8 482.6,273.4 486.1,271.7C489.6,270 493,268 496.5,265.5C500,263.1 503.4,260.2 506.9,256.9C510.4,253.6 513.9,249.8 517.3,245.5C520.8,241.3 524.3,236.6 527.8,231.6C531.2,226.7 534.7,221.4 538.2,216.1C541.6,210.9 545.1,205.6 548.6,200.5C552.1,195.5 555.5,190.7 559,186.3C562.5,181.9 565.9,178 569.4,174.5C572.9,171 576.4,168 579.8,165.4C583.3,162.8 586.8,160.7 590.2,158.9C593.7,157.1 597.2,155.6 600.7,154.4C604.1,153.1 607.6,152.1 611.1,151.3C614.6,150.5 618,149.9 621.5,149.3C625,148.8 628.4,148.4 631.9,148C635.4,147.7 638.9,147.4 642.3,147.2C645.8,147 649.3,146.8 652.8,146.7C656.2,146.5 659.7,146.4 663.2,146.3C666.6,146.3 670.1,146.2 673.6,146.1C677.1,146.1 680.5,146 684,146" fill="none" stroke="#3182ce" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
